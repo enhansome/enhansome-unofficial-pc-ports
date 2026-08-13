@@ -1,0 +1,319 @@
+{
+  "items": [
+    {
+      "description": "⭐ = The most user-friendly version; this is probably the one you're looking for",
+      "items": [],
+      "title": "📖 Glossary"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🎮 Nintendo"
+    },
+    {
+      "description": "GUI app for compiling ports, applying mods, texture packs, and more.📺 YouTube Tutorial",
+      "items": [],
+      "title": "⭐ sm64pcbuilder2"
+    },
+    {
+      "description": "Installer with GUI + quality-of-life features like 60 FPS and better camera.Also buildable with sm64pcbuilder2",
+      "items": [],
+      "title": "⭐ sm64plus"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sm64ex",
+          "description": "Easier modding",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-12-17T14:37:36Z",
+            "owner": "sm64pc",
+            "repo": "sm64ex",
+            "stars": 1827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sm64",
+          "description": "Port for modern systems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-11-15T00:58:50Z",
+            "owner": "sm64-port",
+            "repo": "sm64-port",
+            "stars": 1268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sm64rt",
+          "description": "Ray tracing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-02-20T03:15:11Z",
+            "owner": "DarioSamo",
+            "repo": "sm64rt",
+            "stars": 340
+          }
+        }
+      ],
+      "title": "Ports"
+    },
+    {
+      "description": "GUI installer. Easily install mods.📺 YouTube Tutorial",
+      "items": [],
+      "title": "⭐ Ship of Harkinian"
+    },
+    {
+      "description": "GUI installer.📺 YouTube Tutorial",
+      "items": [],
+      "title": "⭐ Zelda 64: Recompiled"
+    },
+    {
+      "description": "GUI installer + mod support",
+      "items": [],
+      "title": "⭐ 2 Ship 2 Harkinian"
+    },
+    {
+      "description": "Automated launcher/installer",
+      "items": [],
+      "title": "⭐ auto-tmc"
+    },
+    {
+      "description": "PC port",
+      "items": [],
+      "title": "⭐ dusk"
+    },
+    {
+      "description": "GUI installer + mod support",
+      "items": [],
+      "title": "⭐ Starship"
+    },
+    {
+      "description": "GUI installer",
+      "items": [],
+      "title": "⭐ BattleShip"
+    },
+    {
+      "description": "Easy install/play",
+      "items": [],
+      "title": "⭐ Perfect Dark port"
+    },
+    {
+      "description": "GUI installer + mod support",
+      "items": [],
+      "title": "⭐ BanjoRecomp"
+    },
+    {
+      "description": "GUI installer + mod support",
+      "items": [],
+      "title": "⭐ BM64Recomp"
+    },
+    {
+      "description": "GUI installer + mod support",
+      "items": [],
+      "title": "⭐ BMHeroRecomp"
+    },
+    {
+      "description": "GUI installer + mod support",
+      "items": [],
+      "title": "⭐ Quest64-Recomp"
+    },
+    {
+      "description": "GUI installer + mod support",
+      "items": [],
+      "title": "⭐ MegaMan64Recompiled"
+    },
+    {
+      "description": "GUI installer + mod support",
+      "items": [],
+      "title": "⭐ SSSV_Recomp"
+    },
+    {
+      "description": "GUI installer",
+      "items": [],
+      "title": "⭐ Goemon64Recomp"
+    },
+    {
+      "description": "GUI installer",
+      "items": [],
+      "title": "⭐ Dinosaur Planet: Recompiled"
+    },
+    {
+      "description": "GUI installer + Track editor",
+      "items": [],
+      "title": "⭐ SpaghettiKart"
+    },
+    {
+      "description": "GUI installer + mod support",
+      "items": [],
+      "title": "⭐ MarioKart64Recomp"
+    },
+    {
+      "description": "GUI installer + mod support (Gyro aiming, 60+ FPS)",
+      "items": [],
+      "title": "⭐ Duke Nukem Zero Hour: Recompiled"
+    },
+    {
+      "description": "GUI installer",
+      "items": [],
+      "title": "⭐ Chameleon Twist: Recompiled"
+    },
+    {
+      "description": "GUI installer + improvements (4-player controller support, 60+ FPS interpolation)",
+      "items": [],
+      "title": "⭐ Dr. Mario 64 Recomp Plus"
+    },
+    {
+      "description": "PC port",
+      "items": [],
+      "title": "⭐ ACGC-PC-Port"
+    },
+    {
+      "description": "GUI installer + mod/texture support📺 YouTube Tutorial",
+      "items": [],
+      "title": "⭐ Zelda 3 Launcher"
+    },
+    {
+      "description": "GUI installer + mod/texture support📺 YouTube Tutorial",
+      "items": [],
+      "title": "⭐ Super Metroid Launcher"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-08-21T22:53:49Z",
+            "owner": "snesrev",
+            "repo": "sm",
+            "stars": 542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sm_rewrite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-03-14T14:40:29Z",
+            "owner": "enderandrew",
+            "repo": "sm_rewrite",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Project(s)"
+    },
+    {
+      "description": "GUI installer",
+      "items": [],
+      "title": "⭐ Super Mario All-Stars Launcher for SMW"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🕹️ PlayStation"
+    },
+    {
+      "description": "Drop BIN+CUE into and launch",
+      "items": [],
+      "title": "⭐ WipeOut Phantom Edition"
+    },
+    {
+      "description": "GUI installer + mods📺 YouTube Tutorial",
+      "items": [],
+      "title": "⭐ OpenGoal"
+    },
+    {
+      "description": "GUI installer + mods📺 YouTube Tutorial",
+      "items": [],
+      "title": "⭐ REDRIVER2"
+    },
+    {
+      "description": "Drop discs into folder📖 Setup Guide",
+      "items": [],
+      "title": "⭐ Legend of Dragoon Java"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🌀 SEGA"
+    },
+    {
+      "description": "Drag-and-drop setup📺 Tutorial",
+      "items": [],
+      "title": "⭐ Sonic the Hedgehog Forever"
+    },
+    {
+      "description": "Drag-and-drop setup📺 Tutorial",
+      "items": [],
+      "title": "⭐ Sonic the Hedgehog 2 Absolute"
+    },
+    {
+      "description": "Launcher with mod support📄 Manual",
+      "items": [],
+      "title": "⭐ Sonic 3 AIR"
+    },
+    {
+      "description": "Launcher with mod support📖 Install Guide",
+      "items": [],
+      "title": "⭐ UnleashedRecomp"
+    },
+    {
+      "description": "Drag-and-drop install📖 Setup Guide",
+      "items": [],
+      "title": "⭐ Cannonball - OutRun Engine"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🌟 Indie"
+    },
+    {
+      "description": "Just drop the EXE into the Cave Story folder and run",
+      "items": [],
+      "title": "⭐ doukutsu-rs"
+    },
+    {
+      "description": "A lost 2006 J2ME game that never officially released and was considered missing for years until a preserved build surfaced.",
+      "items": [],
+      "title": "☕ J2ME"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔧 Utilities"
+    },
+    {
+      "description": "Automatically installs and updates N64 recompilations in one place. A must-have if you play multiple N64 recomps.",
+      "items": [],
+      "title": "⭐ N64RecompLauncher"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:27:44.792Z",
+    "original_repository": "Sebastrion/awesome-unofficial-pc-ports",
+    "original_repository_sha": "0510121e68c0a32ac7bd02f5c1935bf8e46300c4",
+    "enhanced_repository": "enhansome/enhansome-unofficial-pc-ports",
+    "enhanced_repository_description": null,
+    "title": "Awesome, unofficial PC ports with stars"
+  }
+}
