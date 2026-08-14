@@ -34,7 +34,7 @@
             "last_commit": "2024-12-17T14:37:36Z",
             "owner": "sm64pc",
             "repo": "sm64ex",
-            "stars": 1827
+            "stars": 1828
           }
         },
         {
@@ -48,7 +48,7 @@
             "last_commit": "2024-11-15T00:58:50Z",
             "owner": "sm64-port",
             "repo": "sm64-port",
-            "stars": 1268
+            "stars": 1269
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2024-02-20T03:15:11Z",
             "owner": "DarioSamo",
             "repo": "sm64rt",
-            "stars": 340
+            "stars": 341
           }
         }
       ],
@@ -309,7 +309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:58:48.154Z",
+    "last_updated": "2026-08-14T18:48:42.875Z",
     "original_repository": "Sebastrion/awesome-unofficial-pc-ports",
     "original_repository_sha": "0510121e68c0a32ac7bd02f5c1935bf8e46300c4",
     "enhanced_repository": "enhansome/enhansome-unofficial-pc-ports",
