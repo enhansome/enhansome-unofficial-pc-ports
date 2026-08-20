@@ -70,10 +70,10 @@
             "archived": false,
             "id": 472575717,
             "language": "C",
-            "last_commit": "2026-08-18T14:36:31Z",
+            "last_commit": "2026-08-20T17:56:41Z",
             "owner": "HarbourMasters",
             "repo": "Shipwright",
-            "stars": 5258
+            "stars": 5260
           },
           "title": "⭐ Ship of Harkinian"
         },
@@ -103,7 +103,7 @@
             "last_commit": "2026-08-19T02:58:38Z",
             "owner": "HarbourMasters",
             "repo": "2ship2harkinian",
-            "stars": 2166
+            "stars": 2167
           },
           "title": "⭐ 2 Ship 2 Harkinian"
         },
@@ -130,10 +130,10 @@
             "archived": false,
             "id": 1106809206,
             "language": "C++",
-            "last_commit": "2026-08-19T06:48:02Z",
+            "last_commit": "2026-08-20T10:16:34Z",
             "owner": "TwilitRealm",
             "repo": "dusklight",
-            "stars": 5110
+            "stars": 5114
           },
           "title": "⭐ dusk"
         },
@@ -148,7 +148,7 @@
             "last_commit": "2026-06-15T06:49:31Z",
             "owner": "HarbourMasters",
             "repo": "Starship",
-            "stars": 2027
+            "stars": 2028
           },
           "title": "⭐ Starship"
         },
@@ -160,7 +160,7 @@
             "archived": false,
             "id": 1201525210,
             "language": "C++",
-            "last_commit": "2026-08-19T08:57:23Z",
+            "last_commit": "2026-08-20T08:58:51Z",
             "owner": "JRickey",
             "repo": "BattleShip",
             "stars": 394
@@ -178,7 +178,7 @@
             "last_commit": "2026-08-13T05:58:19Z",
             "owner": "perfect-dark-pc-port",
             "repo": "perfect_dark",
-            "stars": 1947
+            "stars": 1951
           },
           "title": "⭐ Perfect Dark port"
         },
@@ -193,7 +193,7 @@
             "last_commit": "2026-08-15T19:48:54Z",
             "owner": "BanjoRecomp",
             "repo": "BanjoRecomp",
-            "stars": 1918
+            "stars": 1923
           },
           "title": "⭐ BanjoRecomp"
         },
@@ -313,7 +313,7 @@
             "last_commit": "2026-08-16T05:11:46Z",
             "owner": "HarbourMasters",
             "repo": "SpaghettiKart",
-            "stars": 2308
+            "stars": 2310
           },
           "title": "⭐ SpaghettiKart"
         },
@@ -358,7 +358,7 @@
             "last_commit": "2026-08-02T00:56:51Z",
             "owner": "flyngmt",
             "repo": "ACGC-PC-Port",
-            "stars": 1406
+            "stars": 1407
           },
           "title": "⭐ ACGC-PC-Port"
         },
@@ -477,7 +477,7 @@
             "last_commit": "2026-08-19T05:41:45Z",
             "owner": "open-goal",
             "repo": "jak-project",
-            "stars": 3486
+            "stars": 3485
           },
           "title": "⭐ OpenGoal"
         },
@@ -507,7 +507,7 @@
             "last_commit": "2026-08-15T23:33:02Z",
             "owner": "Legend-of-Dragoon-Modding",
             "repo": "Severed-Chains",
-            "stars": 506
+            "stars": 507
           },
           "title": "⭐ Legend of Dragoon Java"
         }
@@ -543,7 +543,7 @@
             "last_commit": "2026-06-29T11:05:43Z",
             "owner": "hedge-dev",
             "repo": "UnleashedRecomp",
-            "stars": 4971
+            "stars": 4973
           },
           "title": "⭐ UnleashedRecomp"
         },
@@ -600,7 +600,7 @@
             "last_commit": "2026-06-26T12:10:10Z",
             "owner": "SirDiabo",
             "repo": "GithubLauncher",
-            "stars": 1540
+            "stars": 1544
           },
           "title": "⭐ N64RecompLauncher"
         }
@@ -609,7 +609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T18:29:44.276Z",
+    "last_updated": "2026-08-20T18:33:44.884Z",
     "original_repository": "Sebastrion/awesome-unofficial-pc-ports",
     "original_repository_id": 614646577,
     "original_repository_sha": "0510121e68c0a32ac7bd02f5c1935bf8e46300c4",
