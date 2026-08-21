@@ -73,7 +73,7 @@
             "last_commit": "2026-08-20T17:56:41Z",
             "owner": "HarbourMasters",
             "repo": "Shipwright",
-            "stars": 5260
+            "stars": 5263
           },
           "title": "⭐ Ship of Harkinian"
         },
@@ -88,7 +88,7 @@
             "last_commit": "2026-08-17T21:52:25Z",
             "owner": "Zelda64Recomp",
             "repo": "Zelda64Recomp",
-            "stars": 7197
+            "stars": 7198
           },
           "title": "⭐ Zelda 64: Recompiled"
         },
@@ -130,10 +130,10 @@
             "archived": false,
             "id": 1106809206,
             "language": "C++",
-            "last_commit": "2026-08-20T10:16:34Z",
+            "last_commit": "2026-08-21T18:16:19Z",
             "owner": "TwilitRealm",
             "repo": "dusklight",
-            "stars": 5114
+            "stars": 5121
           },
           "title": "⭐ dusk"
         },
@@ -160,10 +160,10 @@
             "archived": false,
             "id": 1201525210,
             "language": "C++",
-            "last_commit": "2026-08-20T08:58:51Z",
+            "last_commit": "2026-08-21T09:01:02Z",
             "owner": "JRickey",
             "repo": "BattleShip",
-            "stars": 394
+            "stars": 395
           },
           "title": "⭐ BattleShip"
         },
@@ -178,7 +178,7 @@
             "last_commit": "2026-08-13T05:58:19Z",
             "owner": "perfect-dark-pc-port",
             "repo": "perfect_dark",
-            "stars": 1951
+            "stars": 1953
           },
           "title": "⭐ Perfect Dark port"
         },
@@ -193,7 +193,7 @@
             "last_commit": "2026-08-15T19:48:54Z",
             "owner": "BanjoRecomp",
             "repo": "BanjoRecomp",
-            "stars": 1923
+            "stars": 1925
           },
           "title": "⭐ BanjoRecomp"
         },
@@ -298,7 +298,7 @@
             "last_commit": "2026-07-18T23:13:21Z",
             "owner": "DinosaurPlanetRecomp",
             "repo": "dino-recomp",
-            "stars": 303
+            "stars": 304
           },
           "title": "⭐ Dinosaur Planet: Recompiled"
         },
@@ -343,7 +343,7 @@
             "last_commit": "2025-12-18T04:46:41Z",
             "owner": "theboy181",
             "repo": "drmario64_recomp_plus",
-            "stars": 138
+            "stars": 139
           },
           "title": "⭐ Dr. Mario 64 Recomp Plus"
         },
@@ -358,7 +358,7 @@
             "last_commit": "2026-08-02T00:56:51Z",
             "owner": "flyngmt",
             "repo": "ACGC-PC-Port",
-            "stars": 1407
+            "stars": 1406
           },
           "title": "⭐ ACGC-PC-Port"
         },
@@ -477,7 +477,7 @@
             "last_commit": "2026-08-19T05:41:45Z",
             "owner": "open-goal",
             "repo": "jak-project",
-            "stars": 3485
+            "stars": 3483
           },
           "title": "⭐ OpenGoal"
         },
@@ -504,10 +504,10 @@
             "archived": false,
             "id": 401141707,
             "language": "Java",
-            "last_commit": "2026-08-15T23:33:02Z",
+            "last_commit": "2026-08-20T22:08:00Z",
             "owner": "Legend-of-Dragoon-Modding",
             "repo": "Severed-Chains",
-            "stars": 507
+            "stars": 508
           },
           "title": "⭐ Legend of Dragoon Java"
         }
@@ -543,7 +543,7 @@
             "last_commit": "2026-06-29T11:05:43Z",
             "owner": "hedge-dev",
             "repo": "UnleashedRecomp",
-            "stars": 4973
+            "stars": 4976
           },
           "title": "⭐ UnleashedRecomp"
         },
@@ -600,7 +600,7 @@
             "last_commit": "2026-06-26T12:10:10Z",
             "owner": "SirDiabo",
             "repo": "GithubLauncher",
-            "stars": 1544
+            "stars": 1547
           },
           "title": "⭐ N64RecompLauncher"
         }
@@ -609,7 +609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T18:33:44.884Z",
+    "last_updated": "2026-08-21T18:31:21.258Z",
     "original_repository": "Sebastrion/awesome-unofficial-pc-ports",
     "original_repository_id": 614646577,
     "original_repository_sha": "0510121e68c0a32ac7bd02f5c1935bf8e46300c4",
