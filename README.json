@@ -70,10 +70,10 @@
             "archived": false,
             "id": 472575717,
             "language": "C",
-            "last_commit": "2026-08-20T17:56:41Z",
+            "last_commit": "2026-08-22T16:39:52Z",
             "owner": "HarbourMasters",
             "repo": "Shipwright",
-            "stars": 5263
+            "stars": 5267
           },
           "title": "⭐ Ship of Harkinian"
         },
@@ -100,10 +100,10 @@
             "archived": false,
             "id": 718907857,
             "language": "C",
-            "last_commit": "2026-08-19T02:58:38Z",
+            "last_commit": "2026-08-21T19:21:09Z",
             "owner": "HarbourMasters",
             "repo": "2ship2harkinian",
-            "stars": 2167
+            "stars": 2169
           },
           "title": "⭐ 2 Ship 2 Harkinian"
         },
@@ -118,7 +118,7 @@
             "last_commit": "2026-07-25T13:28:01Z",
             "owner": "StonedModder",
             "repo": "auto-tmc",
-            "stars": 66
+            "stars": 65
           },
           "title": "⭐ auto-tmc"
         },
@@ -130,10 +130,10 @@
             "archived": false,
             "id": 1106809206,
             "language": "C++",
-            "last_commit": "2026-08-21T18:16:19Z",
+            "last_commit": "2026-08-22T17:36:51Z",
             "owner": "TwilitRealm",
             "repo": "dusklight",
-            "stars": 5121
+            "stars": 5122
           },
           "title": "⭐ dusk"
         },
@@ -160,10 +160,10 @@
             "archived": false,
             "id": 1201525210,
             "language": "C++",
-            "last_commit": "2026-08-21T09:01:02Z",
+            "last_commit": "2026-08-22T08:50:32Z",
             "owner": "JRickey",
             "repo": "BattleShip",
-            "stars": 395
+            "stars": 396
           },
           "title": "⭐ BattleShip"
         },
@@ -178,7 +178,7 @@
             "last_commit": "2026-08-13T05:58:19Z",
             "owner": "perfect-dark-pc-port",
             "repo": "perfect_dark",
-            "stars": 1953
+            "stars": 1954
           },
           "title": "⭐ Perfect Dark port"
         },
@@ -190,7 +190,7 @@
             "archived": false,
             "id": 934549500,
             "language": "C",
-            "last_commit": "2026-08-15T19:48:54Z",
+            "last_commit": "2026-08-22T13:05:11Z",
             "owner": "BanjoRecomp",
             "repo": "BanjoRecomp",
             "stars": 1925
@@ -268,7 +268,7 @@
             "last_commit": "2026-04-26T09:36:28Z",
             "owner": "Cellenseres",
             "repo": "SSSV_Recomp",
-            "stars": 89
+            "stars": 90
           },
           "title": "⭐ SSSV_Recomp"
         },
@@ -298,7 +298,7 @@
             "last_commit": "2026-07-18T23:13:21Z",
             "owner": "DinosaurPlanetRecomp",
             "repo": "dino-recomp",
-            "stars": 304
+            "stars": 305
           },
           "title": "⭐ Dinosaur Planet: Recompiled"
         },
@@ -358,7 +358,7 @@
             "last_commit": "2026-08-02T00:56:51Z",
             "owner": "flyngmt",
             "repo": "ACGC-PC-Port",
-            "stars": 1406
+            "stars": 1405
           },
           "title": "⭐ ACGC-PC-Port"
         },
@@ -462,7 +462,7 @@
             "last_commit": "2024-08-21T02:53:02Z",
             "owner": "wipeout-phantom-edition",
             "repo": "wipeout-phantom-edition",
-            "stars": 950
+            "stars": 949
           },
           "title": "⭐ WipeOut Phantom Edition"
         },
@@ -474,10 +474,10 @@
             "archived": false,
             "id": 289585720,
             "language": "Common Lisp",
-            "last_commit": "2026-08-19T05:41:45Z",
+            "last_commit": "2026-08-21T22:39:38Z",
             "owner": "open-goal",
             "repo": "jak-project",
-            "stars": 3483
+            "stars": 3484
           },
           "title": "⭐ OpenGoal"
         },
@@ -504,7 +504,7 @@
             "archived": false,
             "id": 401141707,
             "language": "Java",
-            "last_commit": "2026-08-20T22:08:00Z",
+            "last_commit": "2026-08-22T17:46:10Z",
             "owner": "Legend-of-Dragoon-Modding",
             "repo": "Severed-Chains",
             "stars": 508
@@ -525,10 +525,10 @@
             "archived": false,
             "id": 419820751,
             "language": "C++",
-            "last_commit": "2026-08-16T14:46:36Z",
+            "last_commit": "2026-08-21T19:46:33Z",
             "owner": "Eukaryot",
             "repo": "sonic3air",
-            "stars": 626
+            "stars": 627
           },
           "title": "⭐ Sonic 3 AIR"
         },
@@ -579,7 +579,7 @@
             "last_commit": "2026-08-16T21:02:13Z",
             "owner": "doukutsu-rs",
             "repo": "doukutsu-rs",
-            "stars": 1283
+            "stars": 1284
           },
           "title": "⭐ doukutsu-rs"
         }
@@ -600,7 +600,7 @@
             "last_commit": "2026-06-26T12:10:10Z",
             "owner": "SirDiabo",
             "repo": "GithubLauncher",
-            "stars": 1547
+            "stars": 1549
           },
           "title": "⭐ N64RecompLauncher"
         }
@@ -609,7 +609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T18:31:21.258Z",
+    "last_updated": "2026-08-22T18:23:33.652Z",
     "original_repository": "Sebastrion/awesome-unofficial-pc-ports",
     "original_repository_id": 614646577,
     "original_repository_sha": "0510121e68c0a32ac7bd02f5c1935bf8e46300c4",
