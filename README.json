@@ -124,7 +124,7 @@
             "last_commit": "2026-08-23T21:24:07Z",
             "owner": "HarbourMasters",
             "repo": "Shipwright",
-            "stars": 5281
+            "stars": 5285
           },
           "title": "⭐ Ship of Harkinian"
         }
@@ -145,7 +145,7 @@
             "last_commit": "2026-08-17T21:52:25Z",
             "owner": "Zelda64Recomp",
             "repo": "Zelda64Recomp",
-            "stars": 7204
+            "stars": 7205
           },
           "title": "⭐ Zelda 64: Recompiled"
         },
@@ -157,7 +157,7 @@
             "archived": false,
             "id": 718907857,
             "language": "C",
-            "last_commit": "2026-08-21T19:21:09Z",
+            "last_commit": "2026-08-24T17:51:41Z",
             "owner": "HarbourMasters",
             "repo": "2ship2harkinian",
             "stars": 2173
@@ -225,7 +225,7 @@
             "last_commit": "2026-08-24T09:26:34Z",
             "owner": "TwilitRealm",
             "repo": "dusklight",
-            "stars": 5129
+            "stars": 5131
           },
           "title": "⭐ dusk"
         }
@@ -772,7 +772,7 @@
             "archived": false,
             "id": 289585720,
             "language": "Common Lisp",
-            "last_commit": "2026-08-24T05:56:24Z",
+            "last_commit": "2026-08-24T16:35:43Z",
             "owner": "open-goal",
             "repo": "jak-project",
             "stars": 3486
@@ -992,7 +992,7 @@
             "last_commit": "2026-06-26T12:10:10Z",
             "owner": "SirDiabo",
             "repo": "GithubLauncher",
-            "stars": 1553
+            "stars": 1554
           },
           "title": "⭐ N64RecompLauncher"
         }
@@ -1001,7 +1001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:18:33.788Z",
+    "last_updated": "2026-08-24T18:34:52.379Z",
     "original_repository": "Sebastrion/awesome-unofficial-pc-ports",
     "original_repository_id": 614646577,
     "original_repository_sha": "0510121e68c0a32ac7bd02f5c1935bf8e46300c4",
