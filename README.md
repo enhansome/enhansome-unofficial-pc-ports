@@ -43,11 +43,11 @@ GUI app for compiling ports, applying mods, texture packs, and more.\
 ### ⭐ [sm64plus](https://www.mfgg.net/?act=resdb\&param=02\&c=2\&id=38190)
 
 Installer with GUI + quality-of-life features like 60 FPS and better camera.\
-Also buildable with [sm64pcbuilder2](https://github.com/Sebastrion/awesome-unofficial-pc-ports#sm64pcbuilder2) ⭐ 743 | 🐛 7 | 📅 2026-05-10
+Also buildable with [sm64pcbuilder2](https://github.com/Sebastrion/awesome-unofficial-pc-ports#sm64pcbuilder2) ⭐ 744 | 🐛 7 | 📅 2026-05-10
 
 #### Project(s)
 
-* [n64decomp: sm64](https://github.com/n64decomp/sm64) ⭐ 8,736 | 🐛 28 | 🌐 C | 📅 2024-02-04
+* [n64decomp: sm64](https://github.com/n64decomp/sm64) ⭐ 8,738 | 🐛 28 | 🌐 C | 📅 2024-02-04
 
 #### Ports
 
@@ -65,26 +65,26 @@ Also buildable with [sm64pcbuilder2](https://github.com/Sebastrion/awesome-unoff
 <details>
 <summary><strong>The Legend of Zelda: Ocarina of Time</strong></summary>
 
-### ⭐ [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) ⭐ 5,291 | 🐛 358 | 🌐 C | 📅 2026-08-23
+### ⭐ [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) ⭐ 5,294 | 🐛 354 | 🌐 C | 📅 2026-08-25
 
 GUI installer. Easily install mods.\
 📺 [YouTube Tutorial](https://youtu.be/IK4RzYLuFZM)
 
 #### Project(s)
 
-* [oot](https://github.com/zeldaret/oot) ⭐ 5,486 | 🐛 71 | 🌐 C | 📅 2026-08-19
+* [oot](https://github.com/zeldaret/oot) ⭐ 5,487 | 🐛 71 | 🌐 C | 📅 2026-08-19
 
 </details>
 
 <details>
 <summary><strong>The Legend of Zelda: Majora's Mask</strong></summary>
 
-### ⭐ [Zelda 64: Recompiled](https://github.com/Mr-Wiseguy/Zelda64Recomp) ⭐ 7,206 | 🐛 139 | 🌐 C | 📅 2026-08-17
+### ⭐ [Zelda 64: Recompiled](https://github.com/Mr-Wiseguy/Zelda64Recomp) ⭐ 7,207 | 🐛 139 | 🌐 C | 📅 2026-08-17
 
 GUI installer.\
 📺 [YouTube Tutorial](https://youtu.be/v255FoLaoNY?si=BZ9t0HA1pRV_i-Q9)
 
-### ⭐ [2 Ship 2 Harkinian](https://github.com/HarbourMasters/2ship2harkinian) ⭐ 2,175 | 🐛 158 | 🌐 C | 📅 2026-08-24
+### ⭐ [2 Ship 2 Harkinian](https://github.com/HarbourMasters/2ship2harkinian) ⭐ 2,175 | 🐛 156 | 🌐 C | 📅 2026-08-25
 
 GUI installer + mod support
 
@@ -99,14 +99,14 @@ Automated launcher/installer
 
 #### Project(s)
 
-* [tmc](https://github.com/MatheoVignaud/tmc) ⭐ 381 | 🐛 15 | 🌐 C | 📅 2026-05-17
+* [tmc](https://github.com/MatheoVignaud/tmc) ⭐ 382 | 🐛 15 | 🌐 C | 📅 2026-05-17
 
 </details>
 
 <details>
 <summary><strong>The Legend of Zelda: Twilight Princess</strong></summary>
 
-### ⭐ [dusk](https://github.com/TwilitRealm/dusk) ⭐ 5,136 | 🐛 402 | 🌐 C++ | 📅 2026-08-24
+### ⭐ [dusk](https://github.com/TwilitRealm/dusk) ⭐ 5,138 | 🐛 402 | 🌐 C++ | 📅 2026-08-25
 
 PC port
 
@@ -124,7 +124,7 @@ GUI installer + mod support
 <details>
 <summary><strong>Super Smash Bros.</strong></summary>
 
-### ⭐ [BattleShip](https://github.com/JRickey/BattleShip/releases/tag/v0.8.2-beta) ⭐ 401 | 🐛 13 | 🌐 C++ | 📅 2026-08-24
+### ⭐ [BattleShip](https://github.com/JRickey/BattleShip/releases/tag/v0.8.2-beta) ⭐ 403 | 🐛 13 | 🌐 C++ | 📅 2026-08-25
 
 GUI installer
 
@@ -139,7 +139,7 @@ Easy install/play
 
 #### Project(s)
 
-* [Perfect Dark Decompilation](https://github.com/n64decomp/perfect_dark) ⭐ 851 | 🐛 0 | 🌐 C | 📅 2025-03-15
+* [Perfect Dark Decompilation](https://github.com/n64decomp/perfect_dark) ⭐ 852 | 🐛 0 | 🌐 C | 📅 2025-03-15
 
 </details>
 
@@ -274,7 +274,7 @@ GUI installer + mod/texture support\
 
 #### Project(s)
 
-* [zelda3](https://github.com/snesrev/zelda3) ⭐ 4,736 | 🐛 88 | 🌐 C | 📅 2023-12-27
+* [zelda3](https://github.com/snesrev/zelda3) ⭐ 4,737 | 🐛 88 | 🌐 C | 📅 2023-12-27
 
 </details>
 
@@ -326,7 +326,7 @@ Drop BIN+CUE into `diskimages` and launch
 <details>
 <summary><strong>Jak and Daxter 1-3</strong></summary>
 
-### ⭐ [OpenGoal](https://github.com/open-goal/jak-project) ⭐ 3,486 | 🐛 190 | 🌐 Common Lisp | 📅 2026-08-25
+### ⭐ [OpenGoal](https://github.com/open-goal/jak-project) ⭐ 3,487 | 🐛 191 | 🌐 Common Lisp | 📅 2026-08-25
 
 GUI installer + mods\
 📺 [YouTube Tutorial](https://youtu.be/vwmkMjYFO-k)
@@ -336,7 +336,7 @@ GUI installer + mods\
 <details>
 <summary><strong>Driver 2</strong></summary>
 
-### ⭐ [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) ⭐ 1,328 | 🐛 32 | 🌐 C | 📅 2026-07-02
+### ⭐ [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) ⭐ 1,329 | 🐛 32 | 🌐 C | 📅 2026-07-02
 
 GUI installer + mods\
 📺 [YouTube Tutorial](https://youtu.be/XHAnxbYO3bw)
@@ -346,7 +346,7 @@ GUI installer + mods\
 <details>
 <summary><strong>Legend of Dragoon</strong></summary>
 
-### ⭐ [Legend of Dragoon Java](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java) ⭐ 507 | 🐛 209 | 🌐 Java | 📅 2026-08-23
+### ⭐ [Legend of Dragoon Java](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java) ⭐ 507 | 🐛 209 | 🌐 Java | 📅 2026-08-25
 
 Drop discs into `isos` folder\
 📖 [Setup Guide](https://legendofdragoon.org/guides/setup-severed-chains/)
@@ -367,7 +367,7 @@ Drag-and-drop setup\
 
 #### Project(s)
 
-* [Sonic 1/2 Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) ⭐ 1,119 | 🐛 16 | 🌐 C++ | 📅 2026-07-19
+* [Sonic 1/2 Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) ⭐ 1,120 | 🐛 16 | 🌐 C++ | 📅 2026-07-19
 
 </details>
 
@@ -381,14 +381,14 @@ Drag-and-drop setup\
 
 #### Project(s)
 
-* [Sonic 1/2 Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) ⭐ 1,119 | 🐛 16 | 🌐 C++ | 📅 2026-07-19
+* [Sonic 1/2 Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) ⭐ 1,120 | 🐛 16 | 🌐 C++ | 📅 2026-07-19
 
 </details>
 
 <details>
 <summary><strong>Sonic 3 & Knuckles</strong></summary>
 
-### ⭐ [Sonic 3 AIR](https://github.com/Eukaryot/sonic3air) ⭐ 627 | 🐛 6 | 🌐 C++ | 📅 2026-08-23
+### ⭐ [Sonic 3 AIR](https://github.com/Eukaryot/sonic3air) ⭐ 629 | 🐛 6 | 🌐 C++ | 📅 2026-08-23
 
 Launcher with mod support\
 📄 [Manual](https://sonic3air.org/Manual.pdf)
@@ -398,10 +398,10 @@ Launcher with mod support\
 <details>
 <summary><strong>Sonic Unleashed</strong></summary>
 
-### ⭐ [UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) ⭐ 4,983 | 🐛 234 | 🌐 C++ | 📅 2026-06-29
+### ⭐ [UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) ⭐ 4,984 | 🐛 234 | 🌐 C++ | 📅 2026-06-29
 
 Launcher with mod support\
-📖 [Install Guide](https://github.com/hedge-dev/UnleashedRecomp?tab=readme-ov-file#how-to-install) ⭐ 4,983 | 🐛 234 | 🌐 C++ | 📅 2026-06-29
+📖 [Install Guide](https://github.com/hedge-dev/UnleashedRecomp?tab=readme-ov-file#how-to-install) ⭐ 4,984 | 🐛 234 | 🌐 C++ | 📅 2026-06-29
 
 </details>
 
