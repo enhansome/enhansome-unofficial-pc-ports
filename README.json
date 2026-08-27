@@ -19,7 +19,7 @@
                     "last_commit": "2024-02-04T10:26:16Z",
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8737
+                    "stars": 8736
                   }
                 }
               ],
@@ -56,7 +56,7 @@
                     "last_commit": "2024-11-15T00:58:50Z",
                     "owner": "sm64-port",
                     "repo": "sm64-port",
-                    "stars": 1273
+                    "stars": 1272
                   }
                 },
                 {
@@ -124,7 +124,7 @@
             "last_commit": "2026-08-26T18:54:50Z",
             "owner": "HarbourMasters",
             "repo": "Shipwright",
-            "stars": 5294
+            "stars": 5296
           },
           "title": "⭐ Ship of Harkinian"
         }
@@ -160,7 +160,7 @@
             "last_commit": "2026-08-25T18:43:34Z",
             "owner": "HarbourMasters",
             "repo": "2ship2harkinian",
-            "stars": 2177
+            "stars": 2179
           },
           "title": "⭐ 2 Ship 2 Harkinian"
         }
@@ -186,7 +186,7 @@
                     "last_commit": "2026-05-17T09:54:49Z",
                     "owner": "MatheoVignaud",
                     "repo": "tmc",
-                    "stars": 382
+                    "stars": 384
                   }
                 }
               ],
@@ -222,10 +222,10 @@
             "archived": false,
             "id": 1106809206,
             "language": "C++",
-            "last_commit": "2026-08-26T06:05:37Z",
+            "last_commit": "2026-08-27T06:22:10Z",
             "owner": "TwilitRealm",
             "repo": "dusklight",
-            "stars": 5151
+            "stars": 5155
           },
           "title": "⭐ dusk"
         }
@@ -311,7 +311,7 @@
             "last_commit": "2026-08-13T05:58:19Z",
             "owner": "perfect-dark-pc-port",
             "repo": "perfect_dark",
-            "stars": 1963
+            "stars": 1964
           },
           "title": "⭐ Perfect Dark port"
         }
@@ -332,7 +332,7 @@
             "last_commit": "2026-08-22T13:05:11Z",
             "owner": "BanjoRecomp",
             "repo": "BanjoRecomp",
-            "stars": 1930
+            "stars": 1931
           },
           "title": "⭐ BanjoRecomp"
         }
@@ -395,7 +395,7 @@
             "last_commit": "2026-01-26T20:32:53Z",
             "owner": "Rainchus",
             "repo": "Quest64-Recomp",
-            "stars": 261
+            "stars": 263
           },
           "title": "⭐ Quest64-Recomp"
         }
@@ -458,7 +458,7 @@
             "last_commit": "2026-04-12T22:49:19Z",
             "owner": "klorfmorf",
             "repo": "Goemon64Recomp",
-            "stars": 292
+            "stars": 294
           },
           "title": "⭐ Goemon64Recomp"
         }
@@ -479,7 +479,7 @@
             "last_commit": "2026-07-18T23:13:21Z",
             "owner": "DinosaurPlanetRecomp",
             "repo": "dino-recomp",
-            "stars": 305
+            "stars": 307
           },
           "title": "⭐ Dinosaur Planet: Recompiled"
         }
@@ -563,7 +563,7 @@
             "last_commit": "2026-08-02T00:56:51Z",
             "owner": "flyngmt",
             "repo": "ACGC-PC-Port",
-            "stars": 1409
+            "stars": 1410
           },
           "title": "⭐ ACGC-PC-Port"
         }
@@ -589,7 +589,7 @@
                     "last_commit": "2023-12-27T23:15:02Z",
                     "owner": "snesrev",
                     "repo": "zelda3",
-                    "stars": 4737
+                    "stars": 4739
                   }
                 }
               ],
@@ -736,7 +736,7 @@
                     "last_commit": "2026-08-09T15:57:21Z",
                     "owner": "phoboslab",
                     "repo": "wipeout-rewrite",
-                    "stars": 2954
+                    "stars": 2953
                   }
                 }
               ],
@@ -775,7 +775,7 @@
             "last_commit": "2026-08-25T03:53:32Z",
             "owner": "open-goal",
             "repo": "jak-project",
-            "stars": 3489
+            "stars": 3491
           },
           "title": "⭐ OpenGoal"
         }
@@ -796,7 +796,7 @@
             "last_commit": "2026-07-02T07:38:45Z",
             "owner": "OpenDriver2",
             "repo": "REDRIVER2",
-            "stars": 1332
+            "stars": 1333
           },
           "title": "⭐ REDRIVER2"
         }
@@ -843,7 +843,7 @@
                     "last_commit": "2026-07-19T18:19:16Z",
                     "owner": "RSDKModding",
                     "repo": "RSDKv4-Decompilation",
-                    "stars": 1120
+                    "stars": 1121
                   }
                 }
               ],
@@ -878,7 +878,7 @@
                     "last_commit": "2026-07-19T18:19:16Z",
                     "owner": "RSDKModding",
                     "repo": "RSDKv4-Decompilation",
-                    "stars": 1120
+                    "stars": 1121
                   }
                 }
               ],
@@ -929,7 +929,7 @@
             "last_commit": "2026-06-29T11:05:43Z",
             "owner": "hedge-dev",
             "repo": "UnleashedRecomp",
-            "stars": 4988
+            "stars": 4995
           },
           "title": "⭐ UnleashedRecomp"
         }
@@ -950,7 +950,7 @@
             "last_commit": "2023-12-26T05:20:49Z",
             "owner": "djyt",
             "repo": "cannonball",
-            "stars": 861
+            "stars": 862
           },
           "title": "⭐ Cannonball - OutRun Engine"
         }
@@ -992,7 +992,7 @@
             "last_commit": "2026-06-26T12:10:10Z",
             "owner": "SirDiabo",
             "repo": "GithubLauncher",
-            "stars": 1558
+            "stars": 1561
           },
           "title": "⭐ N64RecompLauncher"
         }
@@ -1001,9 +1001,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:44:17.429Z",
-    "original_repository": "Sebastrion/awesome-unofficial-pc-ports",
-    "original_repository_id": 614646577,
+    "last_updated": "2026-08-27T12:07:22.031Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 614646577,
+      "language": null,
+      "last_commit": "2026-05-10T10:06:48Z",
+      "owner": "Sebastrion",
+      "repo": "awesome-unofficial-pc-ports",
+      "stars": 747
+    },
     "original_repository_sha": "0510121e68c0a32ac7bd02f5c1935bf8e46300c4",
     "enhanced_repository": "enhansome/enhansome-unofficial-pc-ports",
     "enhanced_repository_description": null,
