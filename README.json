@@ -19,7 +19,7 @@
                     "last_commit": "2024-02-04T10:26:16Z",
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8736
+                    "stars": 8738
                   }
                 }
               ],
@@ -41,7 +41,7 @@
                     "last_commit": "2024-12-17T14:37:36Z",
                     "owner": "sm64pc",
                     "repo": "sm64ex",
-                    "stars": 1828
+                    "stars": 1827
                   }
                 },
                 {
@@ -106,7 +106,7 @@
                     "last_commit": "2026-08-19T12:04:50Z",
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5488
+                    "stars": 5487
                   }
                 }
               ],
@@ -121,7 +121,7 @@
             "archived": false,
             "id": 472575717,
             "language": "C",
-            "last_commit": "2026-08-26T18:54:50Z",
+            "last_commit": "2026-08-27T19:35:25Z",
             "owner": "HarbourMasters",
             "repo": "Shipwright",
             "stars": 5296
@@ -160,7 +160,7 @@
             "last_commit": "2026-08-25T18:43:34Z",
             "owner": "HarbourMasters",
             "repo": "2ship2harkinian",
-            "stars": 2179
+            "stars": 2180
           },
           "title": "⭐ 2 Ship 2 Harkinian"
         }
@@ -246,7 +246,7 @@
             "last_commit": "2026-06-15T06:49:31Z",
             "owner": "HarbourMasters",
             "repo": "Starship",
-            "stars": 2034
+            "stars": 2035
           },
           "title": "⭐ Starship"
         }
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 1201525210,
             "language": "C++",
-            "last_commit": "2026-08-26T09:05:22Z",
+            "last_commit": "2026-08-27T19:08:12Z",
             "owner": "JRickey",
             "repo": "BattleShip",
-            "stars": 406
+            "stars": 408
           },
           "title": "⭐ BattleShip"
         }
@@ -293,7 +293,7 @@
                     "last_commit": "2025-03-15T00:36:30Z",
                     "owner": "n64decomp",
                     "repo": "perfect_dark",
-                    "stars": 853
+                    "stars": 854
                   }
                 }
               ],
@@ -311,7 +311,7 @@
             "last_commit": "2026-08-13T05:58:19Z",
             "owner": "perfect-dark-pc-port",
             "repo": "perfect_dark",
-            "stars": 1964
+            "stars": 1967
           },
           "title": "⭐ Perfect Dark port"
         }
@@ -332,7 +332,7 @@
             "last_commit": "2026-08-22T13:05:11Z",
             "owner": "BanjoRecomp",
             "repo": "BanjoRecomp",
-            "stars": 1931
+            "stars": 1932
           },
           "title": "⭐ BanjoRecomp"
         }
@@ -416,7 +416,7 @@
             "last_commit": "2026-04-30T20:35:04Z",
             "owner": "MegaMan64Recomp",
             "repo": "MegaMan64Recompiled",
-            "stars": 241
+            "stars": 242
           },
           "title": "⭐ MegaMan64Recompiled"
         }
@@ -500,7 +500,7 @@
             "last_commit": "2026-08-16T05:11:46Z",
             "owner": "HarbourMasters",
             "repo": "SpaghettiKart",
-            "stars": 2313
+            "stars": 2314
           },
           "title": "⭐ SpaghettiKart"
         }
@@ -563,7 +563,7 @@
             "last_commit": "2026-08-02T00:56:51Z",
             "owner": "flyngmt",
             "repo": "ACGC-PC-Port",
-            "stars": 1410
+            "stars": 1413
           },
           "title": "⭐ ACGC-PC-Port"
         }
@@ -607,7 +607,7 @@
             "last_commit": "2023-09-24T17:53:46Z",
             "owner": "RadzPrower",
             "repo": "Zelda-3-Launcher",
-            "stars": 439
+            "stars": 440
           },
           "title": "⭐ Zelda 3 Launcher"
         }
@@ -666,7 +666,7 @@
             "last_commit": "2023-03-23T11:56:09Z",
             "owner": "RadzPrower",
             "repo": "Super-Metroid-Launcher",
-            "stars": 188
+            "stars": 187
           },
           "title": "⭐ Super Metroid Launcher"
         }
@@ -692,7 +692,7 @@
                     "last_commit": "2024-01-22T23:14:55Z",
                     "owner": "snesrev",
                     "repo": "smw",
-                    "stars": 617
+                    "stars": 616
                   }
                 }
               ],
@@ -775,7 +775,7 @@
             "last_commit": "2026-08-25T03:53:32Z",
             "owner": "open-goal",
             "repo": "jak-project",
-            "stars": 3491
+            "stars": 3493
           },
           "title": "⭐ OpenGoal"
         }
@@ -814,10 +814,10 @@
             "archived": false,
             "id": 401141707,
             "language": "Java",
-            "last_commit": "2026-08-25T11:19:44Z",
+            "last_commit": "2026-08-27T16:39:59Z",
             "owner": "Legend-of-Dragoon-Modding",
             "repo": "Severed-Chains",
-            "stars": 509
+            "stars": 510
           },
           "title": "⭐ Legend of Dragoon Java"
         }
@@ -843,7 +843,7 @@
                     "last_commit": "2026-07-19T18:19:16Z",
                     "owner": "RSDKModding",
                     "repo": "RSDKv4-Decompilation",
-                    "stars": 1121
+                    "stars": 1120
                   }
                 }
               ],
@@ -878,7 +878,7 @@
                     "last_commit": "2026-07-19T18:19:16Z",
                     "owner": "RSDKModding",
                     "repo": "RSDKv4-Decompilation",
-                    "stars": 1121
+                    "stars": 1120
                   }
                 }
               ],
@@ -908,7 +908,7 @@
             "last_commit": "2026-08-23T13:38:11Z",
             "owner": "Eukaryot",
             "repo": "sonic3air",
-            "stars": 629
+            "stars": 628
           },
           "title": "⭐ Sonic 3 AIR"
         }
@@ -929,7 +929,7 @@
             "last_commit": "2026-06-29T11:05:43Z",
             "owner": "hedge-dev",
             "repo": "UnleashedRecomp",
-            "stars": 4995
+            "stars": 4997
           },
           "title": "⭐ UnleashedRecomp"
         }
@@ -950,7 +950,7 @@
             "last_commit": "2023-12-26T05:20:49Z",
             "owner": "djyt",
             "repo": "cannonball",
-            "stars": 862
+            "stars": 863
           },
           "title": "⭐ Cannonball - OutRun Engine"
         }
@@ -992,7 +992,7 @@
             "last_commit": "2026-06-26T12:10:10Z",
             "owner": "SirDiabo",
             "repo": "GithubLauncher",
-            "stars": 1561
+            "stars": 1562
           },
           "title": "⭐ N64RecompLauncher"
         }
@@ -1001,7 +1001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:07:22.031Z",
+    "last_updated": "2026-08-28T02:00:56.949Z",
     "original_repository_info": {
       "archived": false,
       "id": 614646577,
