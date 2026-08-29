@@ -99,14 +99,14 @@ Automated launcher/installer
 
 #### Project(s)
 
-* [tmc](https://github.com/MatheoVignaud/tmc) ⭐ 386 | 🐛 16 | 🌐 C | 📅 2026-05-17
+* [tmc](https://github.com/MatheoVignaud/tmc) ⭐ 387 | 🐛 16 | 🌐 C | 📅 2026-05-17
 
 </details>
 
 <details>
 <summary><strong>The Legend of Zelda: Twilight Princess</strong></summary>
 
-### ⭐ [dusk](https://github.com/TwilitRealm/dusk) ⭐ 5,165 | 🐛 394 | 🌐 C++ | 📅 2026-08-28
+### ⭐ [dusk](https://github.com/TwilitRealm/dusk) ⭐ 5,166 | 🐛 395 | 🌐 C++ | 📅 2026-08-28
 
 PC port
 
@@ -124,7 +124,7 @@ GUI installer + mod support
 <details>
 <summary><strong>Super Smash Bros.</strong></summary>
 
-### ⭐ [BattleShip](https://github.com/JRickey/BattleShip/releases/tag/v0.8.2-beta) ⭐ 409 | 🐛 15 | 🌐 C++ | 📅 2026-08-28
+### ⭐ [BattleShip](https://github.com/JRickey/BattleShip/releases/tag/v0.8.2-beta) ⭐ 410 | 🐛 15 | 🌐 C++ | 📅 2026-08-28
 
 GUI installer
 
