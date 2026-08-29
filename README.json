@@ -19,8 +19,9 @@
                     "last_commit": "2024-02-04T10:26:16Z",
                     "owner": "n64decomp",
                     "repo": "sm64",
-                    "stars": 8738
-                  }
+                    "stars": 8741
+                  },
+                  "first_seen": "2026-08-29T01:25:57.799Z"
                 }
               ],
               "description": null,
@@ -42,7 +43,8 @@
                     "owner": "sm64pc",
                     "repo": "sm64ex",
                     "stars": 1827
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:25:57.799Z"
                 },
                 {
                   "node_type": "item",
@@ -57,7 +59,8 @@
                     "owner": "sm64-port",
                     "repo": "sm64-port",
                     "stars": 1272
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:25:57.799Z"
                 },
                 {
                   "node_type": "item",
@@ -72,7 +75,8 @@
                     "owner": "DarioSamo",
                     "repo": "sm64rt",
                     "stars": 342
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:25:57.799Z"
                 }
               ],
               "description": null,
@@ -106,8 +110,9 @@
                     "last_commit": "2026-08-19T12:04:50Z",
                     "owner": "zeldaret",
                     "repo": "oot",
-                    "stars": 5487
-                  }
+                    "stars": 5490
+                  },
+                  "first_seen": "2026-08-29T01:25:57.799Z"
                 }
               ],
               "description": null,
@@ -124,9 +129,10 @@
             "last_commit": "2026-08-27T19:35:25Z",
             "owner": "HarbourMasters",
             "repo": "Shipwright",
-            "stars": 5296
+            "stars": 5298
           },
-          "title": "⭐ Ship of Harkinian"
+          "title": "⭐ Ship of Harkinian",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "The Legend of Zelda: Ocarina of Time"
@@ -145,9 +151,10 @@
             "last_commit": "2026-08-17T21:52:25Z",
             "owner": "Zelda64Recomp",
             "repo": "Zelda64Recomp",
-            "stars": 7209
+            "stars": 7210
           },
-          "title": "⭐ Zelda 64: Recompiled"
+          "title": "⭐ Zelda 64: Recompiled",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         },
         {
           "children": [],
@@ -160,9 +167,10 @@
             "last_commit": "2026-08-25T18:43:34Z",
             "owner": "HarbourMasters",
             "repo": "2ship2harkinian",
-            "stars": 2180
+            "stars": 2181
           },
-          "title": "⭐ 2 Ship 2 Harkinian"
+          "title": "⭐ 2 Ship 2 Harkinian",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "The Legend of Zelda: Majora's Mask"
@@ -186,8 +194,9 @@
                     "last_commit": "2026-05-17T09:54:49Z",
                     "owner": "MatheoVignaud",
                     "repo": "tmc",
-                    "stars": 384
-                  }
+                    "stars": 386
+                  },
+                  "first_seen": "2026-08-29T01:25:57.799Z"
                 }
               ],
               "description": null,
@@ -206,7 +215,8 @@
             "repo": "auto-tmc",
             "stars": 65
           },
-          "title": "⭐ auto-tmc"
+          "title": "⭐ auto-tmc",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "The Legend of Zelda: The Minish Cap"
@@ -222,12 +232,13 @@
             "archived": false,
             "id": 1106809206,
             "language": "C++",
-            "last_commit": "2026-08-27T06:22:10Z",
+            "last_commit": "2026-08-28T17:37:41Z",
             "owner": "TwilitRealm",
             "repo": "dusklight",
-            "stars": 5155
+            "stars": 5165
           },
-          "title": "⭐ dusk"
+          "title": "⭐ dusk",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "The Legend of Zelda: Twilight Princess"
@@ -246,9 +257,10 @@
             "last_commit": "2026-06-15T06:49:31Z",
             "owner": "HarbourMasters",
             "repo": "Starship",
-            "stars": 2035
+            "stars": 2037
           },
-          "title": "⭐ Starship"
+          "title": "⭐ Starship",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Star Fox 64"
@@ -264,12 +276,13 @@
             "archived": false,
             "id": 1201525210,
             "language": "C++",
-            "last_commit": "2026-08-27T19:08:12Z",
+            "last_commit": "2026-08-28T20:13:37Z",
             "owner": "JRickey",
             "repo": "BattleShip",
-            "stars": 408
+            "stars": 409
           },
-          "title": "⭐ BattleShip"
+          "title": "⭐ BattleShip",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Super Smash Bros."
@@ -293,8 +306,9 @@
                     "last_commit": "2025-03-15T00:36:30Z",
                     "owner": "n64decomp",
                     "repo": "perfect_dark",
-                    "stars": 854
-                  }
+                    "stars": 856
+                  },
+                  "first_seen": "2026-08-29T01:25:57.799Z"
                 }
               ],
               "description": null,
@@ -311,9 +325,10 @@
             "last_commit": "2026-08-13T05:58:19Z",
             "owner": "perfect-dark-pc-port",
             "repo": "perfect_dark",
-            "stars": 1967
+            "stars": 1971
           },
-          "title": "⭐ Perfect Dark port"
+          "title": "⭐ Perfect Dark port",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Perfect Dark"
@@ -332,9 +347,10 @@
             "last_commit": "2026-08-22T13:05:11Z",
             "owner": "BanjoRecomp",
             "repo": "BanjoRecomp",
-            "stars": 1932
+            "stars": 1935
           },
-          "title": "⭐ BanjoRecomp"
+          "title": "⭐ BanjoRecomp",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Banjo-Kazooie"
@@ -355,7 +371,8 @@
             "repo": "BM64Recomp",
             "stars": 265
           },
-          "title": "⭐ BM64Recomp"
+          "title": "⭐ BM64Recomp",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Bomberman 64"
@@ -376,7 +393,8 @@
             "repo": "BMHeroRecomp",
             "stars": 112
           },
-          "title": "⭐ BMHeroRecomp"
+          "title": "⭐ BMHeroRecomp",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Bomberman Hero"
@@ -397,7 +415,8 @@
             "repo": "Quest64-Recomp",
             "stars": 263
           },
-          "title": "⭐ Quest64-Recomp"
+          "title": "⭐ Quest64-Recomp",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Quest 64"
@@ -418,7 +437,8 @@
             "repo": "MegaMan64Recompiled",
             "stars": 242
           },
-          "title": "⭐ MegaMan64Recompiled"
+          "title": "⭐ MegaMan64Recompiled",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Mega Man 64"
@@ -439,7 +459,8 @@
             "repo": "SSSV_Recomp",
             "stars": 93
           },
-          "title": "⭐ SSSV_Recomp"
+          "title": "⭐ SSSV_Recomp",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Space Station Silicon Valley"
@@ -458,9 +479,10 @@
             "last_commit": "2026-04-12T22:49:19Z",
             "owner": "klorfmorf",
             "repo": "Goemon64Recomp",
-            "stars": 294
+            "stars": 295
           },
-          "title": "⭐ Goemon64Recomp"
+          "title": "⭐ Goemon64Recomp",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Mystical Ninja Starring Goemon"
@@ -481,7 +503,8 @@
             "repo": "dino-recomp",
             "stars": 307
           },
-          "title": "⭐ Dinosaur Planet: Recompiled"
+          "title": "⭐ Dinosaur Planet: Recompiled",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Dinosaur Planet"
@@ -500,9 +523,10 @@
             "last_commit": "2026-08-16T05:11:46Z",
             "owner": "HarbourMasters",
             "repo": "SpaghettiKart",
-            "stars": 2314
+            "stars": 2315
           },
-          "title": "⭐ SpaghettiKart"
+          "title": "⭐ SpaghettiKart",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Mario Kart 64"
@@ -523,7 +547,8 @@
             "repo": "ChameleonTwist1-JP-Recomp",
             "stars": 48
           },
-          "title": "⭐ Chameleon Twist: Recompiled"
+          "title": "⭐ Chameleon Twist: Recompiled",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Chameleon Twist"
@@ -542,9 +567,10 @@
             "last_commit": "2025-12-18T04:46:41Z",
             "owner": "theboy181",
             "repo": "drmario64_recomp_plus",
-            "stars": 139
+            "stars": 140
           },
-          "title": "⭐ Dr. Mario 64 Recomp Plus"
+          "title": "⭐ Dr. Mario 64 Recomp Plus",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Dr. Mario 64"
@@ -563,9 +589,10 @@
             "last_commit": "2026-08-02T00:56:51Z",
             "owner": "flyngmt",
             "repo": "ACGC-PC-Port",
-            "stars": 1413
+            "stars": 1416
           },
-          "title": "⭐ ACGC-PC-Port"
+          "title": "⭐ ACGC-PC-Port",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Animal Crossing (GameCube)"
@@ -590,7 +617,8 @@
                     "owner": "snesrev",
                     "repo": "zelda3",
                     "stars": 4739
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:25:57.799Z"
                 }
               ],
               "description": null,
@@ -607,9 +635,10 @@
             "last_commit": "2023-09-24T17:53:46Z",
             "owner": "RadzPrower",
             "repo": "Zelda-3-Launcher",
-            "stars": 440
+            "stars": 441
           },
-          "title": "⭐ Zelda 3 Launcher"
+          "title": "⭐ Zelda 3 Launcher",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "The Legend of Zelda: A Link to the Past"
@@ -633,8 +662,9 @@
                     "last_commit": "2023-08-21T22:53:49Z",
                     "owner": "snesrev",
                     "repo": "sm",
-                    "stars": 545
-                  }
+                    "stars": 546
+                  },
+                  "first_seen": "2026-08-29T01:25:57.799Z"
                 },
                 {
                   "node_type": "item",
@@ -649,7 +679,8 @@
                     "owner": "enderandrew",
                     "repo": "sm_rewrite",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:25:57.799Z"
                 }
               ],
               "description": null,
@@ -666,9 +697,10 @@
             "last_commit": "2023-03-23T11:56:09Z",
             "owner": "RadzPrower",
             "repo": "Super-Metroid-Launcher",
-            "stars": 187
+            "stars": 188
           },
-          "title": "⭐ Super Metroid Launcher"
+          "title": "⭐ Super Metroid Launcher",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Super Metroid"
@@ -693,7 +725,8 @@
                     "owner": "snesrev",
                     "repo": "smw",
                     "stars": 616
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:25:57.799Z"
                 }
               ],
               "description": null,
@@ -712,7 +745,8 @@
             "repo": "SMAS_Launcher",
             "stars": 53
           },
-          "title": "⭐ Super Mario All-Stars Launcher for SMW"
+          "title": "⭐ Super Mario All-Stars Launcher for SMW",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Super Mario World + All-Stars"
@@ -736,8 +770,9 @@
                     "last_commit": "2026-08-09T15:57:21Z",
                     "owner": "phoboslab",
                     "repo": "wipeout-rewrite",
-                    "stars": 2953
-                  }
+                    "stars": 2954
+                  },
+                  "first_seen": "2026-08-29T01:25:57.799Z"
                 }
               ],
               "description": null,
@@ -756,7 +791,8 @@
             "repo": "wipeout-phantom-edition",
             "stars": 950
           },
-          "title": "⭐ WipeOut Phantom Edition"
+          "title": "⭐ WipeOut Phantom Edition",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Wipeout"
@@ -772,12 +808,13 @@
             "archived": false,
             "id": 289585720,
             "language": "Common Lisp",
-            "last_commit": "2026-08-25T03:53:32Z",
+            "last_commit": "2026-08-28T14:42:48Z",
             "owner": "open-goal",
             "repo": "jak-project",
             "stars": 3493
           },
-          "title": "⭐ OpenGoal"
+          "title": "⭐ OpenGoal",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Jak and Daxter 1-3"
@@ -796,9 +833,10 @@
             "last_commit": "2026-07-02T07:38:45Z",
             "owner": "OpenDriver2",
             "repo": "REDRIVER2",
-            "stars": 1333
+            "stars": 1334
           },
-          "title": "⭐ REDRIVER2"
+          "title": "⭐ REDRIVER2",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Driver 2"
@@ -817,9 +855,10 @@
             "last_commit": "2026-08-27T16:39:59Z",
             "owner": "Legend-of-Dragoon-Modding",
             "repo": "Severed-Chains",
-            "stars": 510
+            "stars": 512
           },
-          "title": "⭐ Legend of Dragoon Java"
+          "title": "⭐ Legend of Dragoon Java",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Legend of Dragoon"
@@ -844,7 +883,8 @@
                     "owner": "RSDKModding",
                     "repo": "RSDKv4-Decompilation",
                     "stars": 1120
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:25:57.799Z"
                 }
               ],
               "description": null,
@@ -879,7 +919,8 @@
                     "owner": "RSDKModding",
                     "repo": "RSDKv4-Decompilation",
                     "stars": 1120
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:25:57.799Z"
                 }
               ],
               "description": null,
@@ -908,9 +949,10 @@
             "last_commit": "2026-08-23T13:38:11Z",
             "owner": "Eukaryot",
             "repo": "sonic3air",
-            "stars": 628
+            "stars": 630
           },
-          "title": "⭐ Sonic 3 AIR"
+          "title": "⭐ Sonic 3 AIR",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Sonic 3 & Knuckles"
@@ -929,9 +971,10 @@
             "last_commit": "2026-06-29T11:05:43Z",
             "owner": "hedge-dev",
             "repo": "UnleashedRecomp",
-            "stars": 4997
+            "stars": 5000
           },
-          "title": "⭐ UnleashedRecomp"
+          "title": "⭐ UnleashedRecomp",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Sonic Unleashed"
@@ -952,7 +995,8 @@
             "repo": "cannonball",
             "stars": 863
           },
-          "title": "⭐ Cannonball - OutRun Engine"
+          "title": "⭐ Cannonball - OutRun Engine",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "OutRun"
@@ -971,9 +1015,10 @@
             "last_commit": "2026-08-16T21:02:13Z",
             "owner": "doukutsu-rs",
             "repo": "doukutsu-rs",
-            "stars": 1284
+            "stars": 1283
           },
-          "title": "⭐ doukutsu-rs"
+          "title": "⭐ doukutsu-rs",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "Cave Story+"
@@ -992,16 +1037,17 @@
             "last_commit": "2026-06-26T12:10:10Z",
             "owner": "SirDiabo",
             "repo": "GithubLauncher",
-            "stars": 1562
+            "stars": 1568
           },
-          "title": "⭐ N64RecompLauncher"
+          "title": "⭐ N64RecompLauncher",
+          "first_seen": "2026-08-29T01:25:57.799Z"
         }
       ],
       "title": "N64 Recomp Launcher"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:00:56.949Z",
+    "last_updated": "2026-08-29T01:25:57.799Z",
     "original_repository_info": {
       "archived": false,
       "id": 614646577,
