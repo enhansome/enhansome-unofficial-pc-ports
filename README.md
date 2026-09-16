@@ -43,11 +43,11 @@ GUI app for compiling ports, applying mods, texture packs, and more.\
 ### ⭐ [sm64plus](https://www.mfgg.net/?act=resdb\&param=02\&c=2\&id=38190)
 
 Installer with GUI + quality-of-life features like 60 FPS and better camera.\
-Also buildable with [sm64pcbuilder2](https://github.com/Sebastrion/awesome-unofficial-pc-ports#sm64pcbuilder2) ⭐ 799 | 🐛 7 | 📅 2026-05-10
+Also buildable with [sm64pcbuilder2](https://github.com/Sebastrion/awesome-unofficial-pc-ports#sm64pcbuilder2) ⭐ 800 | 🐛 7 | 📅 2026-05-10
 
 #### Project(s)
 
-* [n64decomp: sm64](https://github.com/n64decomp/sm64) ⭐ 8,775 | 🐛 29 | 🌐 C | 📅 2024-02-04
+* [n64decomp: sm64](https://github.com/n64decomp/sm64) ⭐ 8,776 | 🐛 29 | 🌐 C | 📅 2024-02-04
 
 #### Ports
 
@@ -65,26 +65,26 @@ Also buildable with [sm64pcbuilder2](https://github.com/Sebastrion/awesome-unoff
 <details>
 <summary><strong>The Legend of Zelda: Ocarina of Time</strong></summary>
 
-### ⭐ [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) ⭐ 5,396 | 🐛 355 | 🌐 C | 📅 2026-09-15
+### ⭐ [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) ⭐ 5,402 | 🐛 358 | 🌐 C | 📅 2026-09-16
 
 GUI installer. Easily install mods.\
 📺 [YouTube Tutorial](https://youtu.be/IK4RzYLuFZM)
 
 #### Project(s)
 
-* [oot](https://github.com/zeldaret/oot) ⭐ 5,516 | 🐛 76 | 🌐 C | 📅 2026-09-14
+* [oot](https://github.com/zeldaret/oot) ⭐ 5,518 | 🐛 76 | 🌐 C | 📅 2026-09-14
 
 </details>
 
 <details>
 <summary><strong>The Legend of Zelda: Majora's Mask</strong></summary>
 
-### ⭐ [Zelda 64: Recompiled](https://github.com/Mr-Wiseguy/Zelda64Recomp) ⭐ 7,261 | 🐛 140 | 🌐 C | 📅 2026-08-17
+### ⭐ [Zelda 64: Recompiled](https://github.com/Mr-Wiseguy/Zelda64Recomp) ⭐ 7,264 | 🐛 140 | 🌐 C | 📅 2026-08-17
 
 GUI installer.\
 📺 [YouTube Tutorial](https://youtu.be/v255FoLaoNY?si=BZ9t0HA1pRV_i-Q9)
 
-### ⭐ [2 Ship 2 Harkinian](https://github.com/HarbourMasters/2ship2harkinian) ⭐ 2,224 | 🐛 157 | 🌐 C | 📅 2026-09-13
+### ⭐ [2 Ship 2 Harkinian](https://github.com/HarbourMasters/2ship2harkinian) ⭐ 2,227 | 🐛 156 | 🌐 C | 📅 2026-09-16
 
 GUI installer + mod support
 
@@ -99,14 +99,14 @@ Automated launcher/installer
 
 #### Project(s)
 
-* [tmc](https://github.com/MatheoVignaud/tmc) ⭐ 392 | 🐛 16 | 🌐 C | 📅 2026-05-17
+* [tmc](https://github.com/MatheoVignaud/tmc) ⭐ 393 | 🐛 16 | 🌐 C | 📅 2026-05-17
 
 </details>
 
 <details>
 <summary><strong>The Legend of Zelda: Twilight Princess</strong></summary>
 
-### ⭐ [dusk](https://github.com/TwilitRealm/dusk) ⭐ 5,282 | 🐛 362 | 🌐 C++ | 📅 2026-09-15
+### ⭐ [dusk](https://github.com/TwilitRealm/dusk) ⭐ 5,290 | 🐛 363 | 🌐 C++ | 📅 2026-09-16
 
 PC port
 
@@ -115,7 +115,7 @@ PC port
 <details>
 <summary><strong>Star Fox 64</strong></summary>
 
-### ⭐ [Starship](https://github.com/HarbourMasters/starship/releases/tag/v1.0.0) ⭐ 2,049 | 🐛 58 | 🌐 C | 📅 2026-09-08
+### ⭐ [Starship](https://github.com/HarbourMasters/starship/releases/tag/v1.0.0) ⭐ 2,050 | 🐛 54 | 🌐 C | 📅 2026-09-15
 
 GUI installer + mod support
 
@@ -124,7 +124,7 @@ GUI installer + mod support
 <details>
 <summary><strong>Super Smash Bros.</strong></summary>
 
-### ⭐ [BattleShip](https://github.com/JRickey/BattleShip/releases/tag/v0.8.2-beta) ⭐ 430 | 🐛 22 | 🌐 C++ | 📅 2026-09-15
+### ⭐ [BattleShip](https://github.com/JRickey/BattleShip/releases/tag/v0.8.2-beta) ⭐ 434 | 🐛 22 | 🌐 C++ | 📅 2026-09-16
 
 GUI installer
 
@@ -133,20 +133,20 @@ GUI installer
 <details>
 <summary><strong>Perfect Dark</strong></summary>
 
-### ⭐ [Perfect Dark port](https://github.com/fgsfdsfgs/perfect_dark) ⭐ 2,004 | 🐛 221 | 🌐 C | 📅 2026-08-13
+### ⭐ [Perfect Dark port](https://github.com/fgsfdsfgs/perfect_dark) ⭐ 2,006 | 🐛 221 | 🌐 C | 📅 2026-08-13
 
 Easy install/play
 
 #### Project(s)
 
-* [Perfect Dark Decompilation](https://github.com/n64decomp/perfect_dark) ⭐ 859 | 🐛 0 | 🌐 C | 📅 2025-03-15
+* [Perfect Dark Decompilation](https://github.com/n64decomp/perfect_dark) ⭐ 861 | 🐛 0 | 🌐 C | 📅 2025-03-15
 
 </details>
 
 <details>
 <summary><strong>Banjo-Kazooie</strong></summary>
 
-### ⭐ [BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) ⭐ 1,970 | 🐛 56 | 🌐 C | 📅 2026-08-22
+### ⭐ [BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) ⭐ 1,972 | 🐛 56 | 🌐 C | 📅 2026-08-22
 
 GUI installer + mod support
 
@@ -155,7 +155,7 @@ GUI installer + mod support
 <details>
 <summary><strong>Bomberman 64</strong></summary>
 
-### ⭐ [BM64Recomp](https://github.com/RevoSucks/BM64Recomp) ⭐ 271 | 🐛 19 | 🌐 C++ | 📅 2026-03-25
+### ⭐ [BM64Recomp](https://github.com/RevoSucks/BM64Recomp) ⭐ 272 | 🐛 19 | 🌐 C++ | 📅 2026-03-25
 
 GUI installer + mod support
 
@@ -164,7 +164,7 @@ GUI installer + mod support
 <details>
 <summary><strong>Bomberman Hero</strong></summary>
 
-### ⭐ [BMHeroRecomp](https://github.com/RevoSucks/BMHeroRecomp) ⭐ 116 | 🐛 1 | 🌐 C++ | 📅 2026-05-12
+### ⭐ [BMHeroRecomp](https://github.com/RevoSucks/BMHeroRecomp) ⭐ 117 | 🐛 1 | 🌐 C++ | 📅 2026-05-12
 
 GUI installer + mod support
 
@@ -182,7 +182,7 @@ GUI installer + mod support
 <details>
 <summary><strong>Mega Man 64</strong></summary>
 
-### ⭐ [MegaMan64Recompiled](https://github.com/MegaMan64Recomp/MegaMan64Recompiled/releases/tag/v0.9.1) ⭐ 249 | 🐛 5 | 🌐 C++ | 📅 2026-04-30
+### ⭐ [MegaMan64Recompiled](https://github.com/MegaMan64Recomp/MegaMan64Recompiled/releases/tag/v0.9.1) ⭐ 250 | 🐛 5 | 🌐 C++ | 📅 2026-04-30
 
 GUI installer + mod support
 
@@ -218,7 +218,7 @@ GUI installer
 <details>
 <summary><strong>Mario Kart 64</strong></summary>
 
-### ⭐ [SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) ⭐ 2,348 | 🐛 118 | 🌐 C | 📅 2026-09-08
+### ⭐ [SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) ⭐ 2,352 | 🐛 115 | 🌐 C | 📅 2026-09-16
 
 GUI installer + Track editor
 
@@ -258,7 +258,7 @@ GUI installer + improvements (4-player controller support, 60+ FPS interpolation
 <details>
 <summary><strong>Animal Crossing (GameCube)</strong></summary>
 
-### ⭐ [ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port) ⭐ 1,441 | 🐛 36 | 🌐 C | 📅 2026-08-02
+### ⭐ [ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port) ⭐ 1,442 | 🐛 36 | 🌐 C | 📅 2026-08-02
 
 PC port
 
@@ -274,7 +274,7 @@ GUI installer + mod/texture support\
 
 #### Project(s)
 
-* [zelda3](https://github.com/snesrev/zelda3) ⭐ 4,768 | 🐛 89 | 🌐 C | 📅 2023-12-27
+* [zelda3](https://github.com/snesrev/zelda3) ⭐ 4,770 | 🐛 89 | 🌐 C | 📅 2023-12-27
 
 </details>
 
@@ -326,7 +326,7 @@ Drop BIN+CUE into `diskimages` and launch
 <details>
 <summary><strong>Jak and Daxter 1-3</strong></summary>
 
-### ⭐ [OpenGoal](https://github.com/open-goal/jak-project) ⭐ 3,510 | 🐛 188 | 🌐 Common Lisp | 📅 2026-09-14
+### ⭐ [OpenGoal](https://github.com/open-goal/jak-project) ⭐ 3,511 | 🐛 188 | 🌐 Common Lisp | 📅 2026-09-14
 
 GUI installer + mods\
 📺 [YouTube Tutorial](https://youtu.be/vwmkMjYFO-k)
@@ -346,7 +346,7 @@ GUI installer + mods\
 <details>
 <summary><strong>Legend of Dragoon</strong></summary>
 
-### ⭐ [Legend of Dragoon Java](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java) ⭐ 522 | 🐛 188 | 🌐 Java | 📅 2026-09-14
+### ⭐ [Legend of Dragoon Java](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java) ⭐ 523 | 🐛 189 | 🌐 Java | 📅 2026-09-14
 
 Drop discs into `isos` folder\
 📖 [Setup Guide](https://legendofdragoon.org/guides/setup-severed-chains/)
@@ -367,7 +367,7 @@ Drag-and-drop setup\
 
 #### Project(s)
 
-* [Sonic 1/2 Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) ⭐ 1,127 | 🐛 16 | 🌐 C++ | 📅 2026-09-06
+* [Sonic 1/2 Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) ⭐ 1,128 | 🐛 16 | 🌐 C++ | 📅 2026-09-06
 
 </details>
 
@@ -381,14 +381,14 @@ Drag-and-drop setup\
 
 #### Project(s)
 
-* [Sonic 1/2 Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) ⭐ 1,127 | 🐛 16 | 🌐 C++ | 📅 2026-09-06
+* [Sonic 1/2 Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) ⭐ 1,128 | 🐛 16 | 🌐 C++ | 📅 2026-09-06
 
 </details>
 
 <details>
 <summary><strong>Sonic 3 & Knuckles</strong></summary>
 
-### ⭐ [Sonic 3 AIR](https://github.com/Eukaryot/sonic3air) ⭐ 634 | 🐛 6 | 🌐 C++ | 📅 2026-09-13
+### ⭐ [Sonic 3 AIR](https://github.com/Eukaryot/sonic3air) ⭐ 635 | 🐛 6 | 🌐 C++ | 📅 2026-09-13
 
 Launcher with mod support\
 📄 [Manual](https://sonic3air.org/Manual.pdf)
@@ -398,20 +398,20 @@ Launcher with mod support\
 <details>
 <summary><strong>Sonic Unleashed</strong></summary>
 
-### ⭐ [UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) ⭐ 5,055 | 🐛 238 | 🌐 C++ | 📅 2026-06-29
+### ⭐ [UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) ⭐ 5,058 | 🐛 238 | 🌐 C++ | 📅 2026-06-29
 
 Launcher with mod support\
-📖 [Install Guide](https://github.com/hedge-dev/UnleashedRecomp?tab=readme-ov-file#how-to-install) ⭐ 5,055 | 🐛 238 | 🌐 C++ | 📅 2026-06-29
+📖 [Install Guide](https://github.com/hedge-dev/UnleashedRecomp?tab=readme-ov-file#how-to-install) ⭐ 5,058 | 🐛 238 | 🌐 C++ | 📅 2026-06-29
 
 </details>
 
 <details>
 <summary><strong>OutRun</strong></summary>
 
-### ⭐ [Cannonball - OutRun Engine](https://github.com/djyt/cannonball) ⭐ 871 | 🐛 45 | 🌐 C++ | 📅 2023-12-26
+### ⭐ [Cannonball - OutRun Engine](https://github.com/djyt/cannonball) ⭐ 872 | 🐛 45 | 🌐 C++ | 📅 2023-12-26
 
 Drag-and-drop install\
-📖 [Setup Guide](https://github.com/djyt/cannonball/wiki/Cannonball-Manual#getting-started) ⭐ 871 | 🐛 45 | 🌐 C++ | 📅 2023-12-26
+📖 [Setup Guide](https://github.com/djyt/cannonball/wiki/Cannonball-Manual#getting-started) ⭐ 872 | 🐛 45 | 🌐 C++ | 📅 2023-12-26
 
 </details>
 
@@ -422,7 +422,7 @@ Drag-and-drop install\
 <details>
 <summary><strong>Cave Story+</strong></summary>
 
-### ⭐ [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) ⭐ 1,289 | 🐛 59 | 🌐 Rust | 📅 2026-09-04
+### ⭐ [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) ⭐ 1,290 | 🐛 59 | 🌐 Rust | 📅 2026-09-04
 
 Just drop the EXE into the Cave Story folder and run
 
@@ -458,7 +458,7 @@ A **lost 2006 J2ME game** that never officially released and was considered miss
 <details>
 <summary><strong>N64 Recomp Launcher</strong></summary>
 
-### ⭐ [N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher) ⭐ 1,613 | 🐛 45 | 🌐 C# | 📅 2026-06-26
+### ⭐ [N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher) ⭐ 1,619 | 🐛 47 | 🌐 C# | 📅 2026-06-26
 
 Automatically installs and updates N64 recompilations in one place. A must-have if you play multiple N64 recomps.
 
@@ -466,4 +466,4 @@ Automatically installs and updates N64 recompilations in one place. A must-have 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
