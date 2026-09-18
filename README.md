@@ -47,13 +47,13 @@ Also buildable with [sm64pcbuilder2](https://github.com/Sebastrion/awesome-unoff
 
 #### Project(s)
 
-* [n64decomp: sm64](https://github.com/n64decomp/sm64) ⭐ 8,777 | 🐛 29 | 🌐 C | 📅 2024-02-04
+* [n64decomp: sm64](https://github.com/n64decomp/sm64) ⭐ 8,778 | 🐛 29 | 🌐 C | 📅 2024-02-04
 
 #### Ports
 
 * [sm64ex](https://github.com/sm64pc/sm64ex) ⭐ 1,834 | 🐛 169 | 🌐 C | 📅 2024-12-17 – Easier modding
-* [sm64](https://github.com/sm64-port/sm64) ⭐ 1,284 | 🐛 15 | 🌐 C | 📅 2024-11-15 – Port for modern systems
-* [sm64rt](https://github.com/DarioSamo/sm64rt) ⭐ 350 | 🐛 35 | 🌐 C | 📅 2024-02-20 – Ray tracing
+* [sm64](https://github.com/sm64-port/sm64) ⭐ 1,283 | 🐛 15 | 🌐 C | 📅 2024-11-15 – Port for modern systems
+* [sm64rt](https://github.com/DarioSamo/sm64rt) ⭐ 351 | 🐛 35 | 🌐 C | 📅 2024-02-20 – Ray tracing
 
 #### Multiplayer
 
@@ -65,26 +65,26 @@ Also buildable with [sm64pcbuilder2](https://github.com/Sebastrion/awesome-unoff
 <details>
 <summary><strong>The Legend of Zelda: Ocarina of Time</strong></summary>
 
-### ⭐ [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) ⭐ 5,419 | 🐛 361 | 🌐 C | 📅 2026-09-17
+### ⭐ [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) ⭐ 5,433 | 🐛 361 | 🌐 C | 📅 2026-09-18
 
 GUI installer. Easily install mods.\
 📺 [YouTube Tutorial](https://youtu.be/IK4RzYLuFZM)
 
 #### Project(s)
 
-* [oot](https://github.com/zeldaret/oot) ⭐ 5,518 | 🐛 76 | 🌐 C | 📅 2026-09-17
+* [oot](https://github.com/zeldaret/oot) ⭐ 5,519 | 🐛 76 | 🌐 C | 📅 2026-09-17
 
 </details>
 
 <details>
 <summary><strong>The Legend of Zelda: Majora's Mask</strong></summary>
 
-### ⭐ [Zelda 64: Recompiled](https://github.com/Mr-Wiseguy/Zelda64Recomp) ⭐ 7,267 | 🐛 141 | 🌐 C | 📅 2026-08-17
+### ⭐ [Zelda 64: Recompiled](https://github.com/Mr-Wiseguy/Zelda64Recomp) ⭐ 7,268 | 🐛 141 | 🌐 C | 📅 2026-08-17
 
 GUI installer.\
 📺 [YouTube Tutorial](https://youtu.be/v255FoLaoNY?si=BZ9t0HA1pRV_i-Q9)
 
-### ⭐ [2 Ship 2 Harkinian](https://github.com/HarbourMasters/2ship2harkinian) ⭐ 2,235 | 🐛 156 | 🌐 C | 📅 2026-09-16
+### ⭐ [2 Ship 2 Harkinian](https://github.com/HarbourMasters/2ship2harkinian) ⭐ 2,240 | 🐛 155 | 🌐 C | 📅 2026-09-18
 
 GUI installer + mod support
 
@@ -106,7 +106,7 @@ Automated launcher/installer
 <details>
 <summary><strong>The Legend of Zelda: Twilight Princess</strong></summary>
 
-### ⭐ [dusk](https://github.com/TwilitRealm/dusk) ⭐ 5,298 | 🐛 367 | 🌐 C++ | 📅 2026-09-17
+### ⭐ [dusk](https://github.com/TwilitRealm/dusk) ⭐ 5,304 | 🐛 337 | 🌐 C++ | 📅 2026-09-18
 
 PC port
 
@@ -115,7 +115,7 @@ PC port
 <details>
 <summary><strong>Star Fox 64</strong></summary>
 
-### ⭐ [Starship](https://github.com/HarbourMasters/starship/releases/tag/v1.0.0) ⭐ 2,055 | 🐛 56 | 🌐 C | 📅 2026-09-15
+### ⭐ [Starship](https://github.com/HarbourMasters/starship/releases/tag/v1.0.0) ⭐ 2,060 | 🐛 56 | 🌐 C | 📅 2026-09-15
 
 GUI installer + mod support
 
@@ -124,7 +124,7 @@ GUI installer + mod support
 <details>
 <summary><strong>Super Smash Bros.</strong></summary>
 
-### ⭐ [BattleShip](https://github.com/JRickey/BattleShip/releases/tag/v0.8.2-beta) ⭐ 435 | 🐛 22 | 🌐 C++ | 📅 2026-09-17
+### ⭐ [BattleShip](https://github.com/JRickey/BattleShip/releases/tag/v0.8.2-beta) ⭐ 437 | 🐛 22 | 🌐 C++ | 📅 2026-09-18
 
 GUI installer
 
@@ -133,7 +133,7 @@ GUI installer
 <details>
 <summary><strong>Perfect Dark</strong></summary>
 
-### ⭐ [Perfect Dark port](https://github.com/fgsfdsfgs/perfect_dark) ⭐ 2,013 | 🐛 221 | 🌐 C | 📅 2026-08-13
+### ⭐ [Perfect Dark port](https://github.com/fgsfdsfgs/perfect_dark) ⭐ 2,015 | 🐛 221 | 🌐 C | 📅 2026-08-13
 
 Easy install/play
 
@@ -155,7 +155,7 @@ GUI installer + mod support
 <details>
 <summary><strong>Bomberman 64</strong></summary>
 
-### ⭐ [BM64Recomp](https://github.com/RevoSucks/BM64Recomp) ⭐ 274 | 🐛 19 | 🌐 C++ | 📅 2026-03-25
+### ⭐ [BM64Recomp](https://github.com/RevoSucks/BM64Recomp) ⭐ 275 | 🐛 20 | 🌐 C++ | 📅 2026-03-25
 
 GUI installer + mod support
 
@@ -173,7 +173,7 @@ GUI installer + mod support
 <details>
 <summary><strong>Quest 64</strong></summary>
 
-### ⭐ [Quest64-Recomp](https://github.com/Rainchus/Quest64-Recomp) ⭐ 267 | 🐛 4 | 🌐 C++ | 📅 2026-01-26
+### ⭐ [Quest64-Recomp](https://github.com/Rainchus/Quest64-Recomp) ⭐ 268 | 🐛 4 | 🌐 C++ | 📅 2026-01-26
 
 GUI installer + mod support
 
@@ -182,7 +182,7 @@ GUI installer + mod support
 <details>
 <summary><strong>Mega Man 64</strong></summary>
 
-### ⭐ [MegaMan64Recompiled](https://github.com/MegaMan64Recomp/MegaMan64Recompiled/releases/tag/v0.9.1) ⭐ 252 | 🐛 5 | 🌐 C++ | 📅 2026-04-30
+### ⭐ [MegaMan64Recompiled](https://github.com/MegaMan64Recomp/MegaMan64Recompiled/releases/tag/v0.9.1) ⭐ 254 | 🐛 5 | 🌐 C++ | 📅 2026-04-30
 
 GUI installer + mod support
 
@@ -191,7 +191,7 @@ GUI installer + mod support
 <details>
 <summary><strong>Space Station Silicon Valley</strong></summary>
 
-### ⭐ [SSSV\_Recomp](https://github.com/Cellenseres/SSSV_Recomp) ⭐ 96 | 🐛 4 | 🌐 C++ | 📅 2026-04-26
+### ⭐ [SSSV\_Recomp](https://github.com/Cellenseres/SSSV_Recomp) ⭐ 97 | 🐛 4 | 🌐 C++ | 📅 2026-04-26
 
 GUI installer + mod support
 
@@ -200,7 +200,7 @@ GUI installer + mod support
 <details>
 <summary><strong>Mystical Ninja Starring Goemon</strong></summary>
 
-### ⭐ [Goemon64Recomp](https://github.com/klorfmorf/Goemon64Recomp) ⭐ 303 | 🐛 23 | 🌐 C | 📅 2026-04-12
+### ⭐ [Goemon64Recomp](https://github.com/klorfmorf/Goemon64Recomp) ⭐ 302 | 🐛 23 | 🌐 C | 📅 2026-04-12
 
 GUI installer
 
@@ -209,7 +209,7 @@ GUI installer
 <details>
 <summary><strong>Dinosaur Planet</strong></summary>
 
-### ⭐ [Dinosaur Planet: Recompiled](https://github.com/Francessco121/dino-recomp) ⭐ 313 | 🐛 12 | 🌐 C++ | 📅 2026-07-18
+### ⭐ [Dinosaur Planet: Recompiled](https://github.com/Francessco121/dino-recomp) ⭐ 314 | 🐛 12 | 🌐 C++ | 📅 2026-07-18
 
 GUI installer
 
@@ -218,7 +218,7 @@ GUI installer
 <details>
 <summary><strong>Mario Kart 64</strong></summary>
 
-### ⭐ [SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) ⭐ 2,357 | 🐛 115 | 🌐 C | 📅 2026-09-16
+### ⭐ [SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) ⭐ 2,362 | 🐛 115 | 🌐 C | 📅 2026-09-16
 
 GUI installer + Track editor
 
@@ -240,7 +240,7 @@ GUI installer + mod support (Gyro aiming, 60+ FPS)
 <details>
 <summary><strong>Chameleon Twist</strong></summary>
 
-### ⭐ [Chameleon Twist: Recompiled](https://github.com/Rainchus/ChameleonTwist1-JP-Recomp) ⭐ 50 | 🐛 3 | 🌐 C++ | 📅 2025-03-11
+### ⭐ [Chameleon Twist: Recompiled](https://github.com/Rainchus/ChameleonTwist1-JP-Recomp) ⭐ 54 | 🐛 3 | 🌐 C++ | 📅 2025-03-11
 
 GUI installer
 
@@ -249,7 +249,7 @@ GUI installer
 <details>
 <summary><strong>Dr. Mario 64</strong></summary>
 
-### ⭐ [Dr. Mario 64 Recomp Plus](https://github.com/theboy181/drmario64_recomp_plus) ⭐ 145 | 🐛 2 | 🌐 C++ | 📅 2025-12-18
+### ⭐ [Dr. Mario 64 Recomp Plus](https://github.com/theboy181/drmario64_recomp_plus) ⭐ 146 | 🐛 2 | 🌐 C++ | 📅 2025-12-18
 
 GUI installer + improvements (4-player controller support, 60+ FPS interpolation)
 
@@ -258,7 +258,7 @@ GUI installer + improvements (4-player controller support, 60+ FPS interpolation
 <details>
 <summary><strong>Animal Crossing (GameCube)</strong></summary>
 
-### ⭐ [ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port) ⭐ 1,442 | 🐛 36 | 🌐 C | 📅 2026-08-02
+### ⭐ [ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port) ⭐ 1,443 | 🐛 36 | 🌐 C | 📅 2026-08-02
 
 PC port
 
@@ -267,14 +267,14 @@ PC port
 <details>
 <summary><strong>The Legend of Zelda: A Link to the Past</strong></summary>
 
-### ⭐ [Zelda 3 Launcher](https://github.com/RadzPrower/Zelda-3-Launcher) ⭐ 455 | 🐛 2 | 🌐 C# | 📅 2023-09-24
+### ⭐ [Zelda 3 Launcher](https://github.com/RadzPrower/Zelda-3-Launcher) ⭐ 456 | 🐛 2 | 🌐 C# | 📅 2023-09-24
 
 GUI installer + mod/texture support\
 📺 [YouTube Tutorial](https://youtu.be/fGNLr0cGBP4)
 
 #### Project(s)
 
-* [zelda3](https://github.com/snesrev/zelda3) ⭐ 4,771 | 🐛 89 | 🌐 C | 📅 2023-12-27
+* [zelda3](https://github.com/snesrev/zelda3) ⭐ 4,775 | 🐛 89 | 🌐 C | 📅 2023-12-27
 
 </details>
 
@@ -313,20 +313,20 @@ GUI installer
 <details>
 <summary><strong>Wipeout</strong></summary>
 
-### ⭐ [WipeOut Phantom Edition](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition) ⭐ 957 | 🐛 51 | 📅 2024-08-21
+### ⭐ [WipeOut Phantom Edition](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition) ⭐ 956 | 🐛 51 | 📅 2024-08-21
 
 Drop BIN+CUE into `diskimages` and launch
 
 #### Also see:
 
-* [wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite?tab=readme-ov-file) ⭐ 2,963 | 🐛 71 | 🌐 C | 📅 2026-08-09
+* [wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite?tab=readme-ov-file) ⭐ 2,964 | 🐛 71 | 🌐 C | 📅 2026-08-09
 
 </details>
 
 <details>
 <summary><strong>Jak and Daxter 1-3</strong></summary>
 
-### ⭐ [OpenGoal](https://github.com/open-goal/jak-project) ⭐ 3,515 | 🐛 186 | 🌐 Common Lisp | 📅 2026-09-17
+### ⭐ [OpenGoal](https://github.com/open-goal/jak-project) ⭐ 3,516 | 🐛 185 | 🌐 Common Lisp | 📅 2026-09-18
 
 GUI installer + mods\
 📺 [YouTube Tutorial](https://youtu.be/vwmkMjYFO-k)
@@ -346,7 +346,7 @@ GUI installer + mods\
 <details>
 <summary><strong>Legend of Dragoon</strong></summary>
 
-### ⭐ [Legend of Dragoon Java](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java) ⭐ 524 | 🐛 189 | 🌐 Java | 📅 2026-09-14
+### ⭐ [Legend of Dragoon Java](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java) ⭐ 525 | 🐛 191 | 🌐 Java | 📅 2026-09-14
 
 Drop discs into `isos` folder\
 📖 [Setup Guide](https://legendofdragoon.org/guides/setup-severed-chains/)
@@ -388,7 +388,7 @@ Drag-and-drop setup\
 <details>
 <summary><strong>Sonic 3 & Knuckles</strong></summary>
 
-### ⭐ [Sonic 3 AIR](https://github.com/Eukaryot/sonic3air) ⭐ 635 | 🐛 6 | 🌐 C++ | 📅 2026-09-13
+### ⭐ [Sonic 3 AIR](https://github.com/Eukaryot/sonic3air) ⭐ 637 | 🐛 6 | 🌐 C++ | 📅 2026-09-13
 
 Launcher with mod support\
 📄 [Manual](https://sonic3air.org/Manual.pdf)
@@ -398,10 +398,10 @@ Launcher with mod support\
 <details>
 <summary><strong>Sonic Unleashed</strong></summary>
 
-### ⭐ [UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) ⭐ 5,062 | 🐛 238 | 🌐 C++ | 📅 2026-06-29
+### ⭐ [UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) ⭐ 5,066 | 🐛 238 | 🌐 C++ | 📅 2026-06-29
 
 Launcher with mod support\
-📖 [Install Guide](https://github.com/hedge-dev/UnleashedRecomp?tab=readme-ov-file#how-to-install) ⭐ 5,062 | 🐛 238 | 🌐 C++ | 📅 2026-06-29
+📖 [Install Guide](https://github.com/hedge-dev/UnleashedRecomp?tab=readme-ov-file#how-to-install) ⭐ 5,066 | 🐛 238 | 🌐 C++ | 📅 2026-06-29
 
 </details>
 
@@ -422,7 +422,7 @@ Drag-and-drop install\
 <details>
 <summary><strong>Cave Story+</strong></summary>
 
-### ⭐ [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) ⭐ 1,291 | 🐛 59 | 🌐 Rust | 📅 2026-09-04
+### ⭐ [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) ⭐ 1,292 | 🐛 59 | 🌐 Rust | 📅 2026-09-04
 
 Just drop the EXE into the Cave Story folder and run
 
@@ -466,4 +466,4 @@ Automatically installs and updates N64 recompilations in one place. A must-have 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
