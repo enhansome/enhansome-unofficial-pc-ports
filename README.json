@@ -8,1175 +8,1002 @@
             {
               "children": [
                 {
-                  "node_type": "item",
-                  "title": "n64decomp: sm64",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "n64decomp: sm64",
+                      "description": "n64decomp/sm64",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+                        "homepage": "https://discord.gg/DuYH3Fh",
+                        "id": 190845267,
+                        "language": "C",
+                        "license": "CC0-1.0",
+                        "last_commit": "2024-02-04T10:26:16Z",
+                        "open_issues": 29,
+                        "owner": "n64decomp",
+                        "repo": "sm64",
+                        "stars": 8799,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T01:25:57.799Z"
+                    }
+                  ],
                   "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
-                    "homepage": "https://discord.gg/DuYH3Fh",
-                    "id": 190845267,
-                    "language": "C",
-                    "license": "CC0-1.0",
-                    "last_commit": "2024-02-04T10:26:16Z",
-                    "open_issues": 29,
-                    "owner": "n64decomp",
-                    "repo": "sm64",
-                    "stars": 8799,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:25:57.799Z"
+                  "node_type": "group",
+                  "title": "Project(s)"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "sm64ex",
+                      "description": "Easier modding",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Fork of https://github.com/sm64-port/sm64-port with additional features.",
+                        "homepage": null,
+                        "id": 262091731,
+                        "language": "C",
+                        "license": null,
+                        "last_commit": "2024-12-17T14:37:36Z",
+                        "open_issues": 168,
+                        "owner": "sm64pc",
+                        "repo": "sm64ex",
+                        "stars": 1840,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T01:25:57.799Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "sm64",
+                      "description": "Port for modern systems",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A port of https://www.github.com/n64decomp/sm64 for modern devices.",
+                        "homepage": "https://discord.gg/7bcNTPK",
+                        "id": 272814190,
+                        "language": "C",
+                        "license": null,
+                        "last_commit": "2024-11-15T00:58:50Z",
+                        "open_issues": 15,
+                        "owner": "sm64-port",
+                        "repo": "sm64-port",
+                        "stars": 1295,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T01:25:57.799Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "sm64rt",
+                      "description": "Ray tracing",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Fork of https://github.com/sm64pc/sm64ex with raytracing support.",
+                        "homepage": null,
+                        "id": 354433963,
+                        "language": "C",
+                        "license": null,
+                        "last_commit": "2024-02-20T03:15:11Z",
+                        "open_issues": 35,
+                        "owner": "DarioSamo",
+                        "repo": "sm64rt",
+                        "stars": 358,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T01:25:57.799Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Ports"
                 }
               ],
-              "description": null,
+              "description": "Installer with GUI + quality-of-life features like 60 FPS and better camera.Also buildable with sm64pcbuilder2",
               "node_type": "group",
-              "title": "Project(s)"
+              "title": "⭐ sm64plus"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Super Mario 64"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "oot",
+                      "description": "zeldaret/oot",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Decompilation of The Legend of Zelda: Ocarina of Time",
+                        "homepage": null,
+                        "id": 247875738,
+                        "language": "C",
+                        "license": null,
+                        "last_commit": "2026-09-30T12:18:54Z",
+                        "open_issues": 73,
+                        "owner": "zeldaret",
+                        "repo": "oot",
+                        "stars": 5548,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T01:25:57.799Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Project(s)"
+                }
+              ],
+              "description": "GUI installer. Easily install mods.📺 YouTube Tutorial",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": "https://shipofharkinian.com",
+                "id": 472575717,
+                "language": "C",
+                "license": null,
+                "last_commit": "2026-10-02T15:34:13Z",
+                "open_issues": 393,
+                "owner": "HarbourMasters",
+                "repo": "Shipwright",
+                "stars": 5517,
+                "topics": []
+              },
+              "title": "⭐ Ship of Harkinian",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "The Legend of Zelda: Ocarina of Time"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "GUI installer.📺 YouTube Tutorial",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)",
+                "homepage": null,
+                "id": 708994262,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-25T18:57:57Z",
+                "open_issues": 140,
+                "owner": "Zelda64Recomp",
+                "repo": "Zelda64Recomp",
+                "stars": 7337,
+                "topics": []
+              },
+              "title": "⭐ Zelda 64: Recompiled",
+              "first_seen": "2026-08-29T01:25:57.799Z"
             },
             {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "sm64ex",
-                  "description": "Easier modding",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Fork of https://github.com/sm64-port/sm64-port with additional features.",
-                    "homepage": null,
-                    "id": 262091731,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2024-12-17T14:37:36Z",
-                    "open_issues": 168,
-                    "owner": "sm64pc",
-                    "repo": "sm64ex",
-                    "stars": 1840,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:25:57.799Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "sm64",
-                  "description": "Port for modern systems",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A port of https://www.github.com/n64decomp/sm64 for modern devices.",
-                    "homepage": "https://discord.gg/7bcNTPK",
-                    "id": 272814190,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2024-11-15T00:58:50Z",
-                    "open_issues": 15,
-                    "owner": "sm64-port",
-                    "repo": "sm64-port",
-                    "stars": 1294,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:25:57.799Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "sm64rt",
-                  "description": "Ray tracing",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Fork of https://github.com/sm64pc/sm64ex with raytracing support.",
-                    "homepage": null,
-                    "id": 354433963,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2024-02-20T03:15:11Z",
-                    "open_issues": 35,
-                    "owner": "DarioSamo",
-                    "repo": "sm64rt",
-                    "stars": 358,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:25:57.799Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Ports"
+              "children": [],
+              "description": "GUI installer + mod support",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 718907857,
+                "language": "C",
+                "license": "CC0-1.0",
+                "last_commit": "2026-09-25T12:37:45Z",
+                "open_issues": 167,
+                "owner": "2ship2harkinian",
+                "repo": "2ship2harkinian",
+                "stars": 2280,
+                "topics": []
+              },
+              "title": "⭐ 2 Ship 2 Harkinian",
+              "first_seen": "2026-09-24T21:06:01.694Z"
             }
           ],
-          "description": "Installer with GUI + quality-of-life features like 60 FPS and better camera.Also buildable with sm64pcbuilder2",
+          "description": null,
           "node_type": "group",
-          "title": "⭐ sm64plus"
-        }
-      ],
-      "title": "Super Mario 64"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "oot",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Decompilation of The Legend of Zelda: Ocarina of Time",
-                    "homepage": null,
-                    "id": 247875738,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2026-09-30T12:18:54Z",
-                    "open_issues": 73,
-                    "owner": "zeldaret",
-                    "repo": "oot",
-                    "stars": 5548,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:25:57.799Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Project(s)"
-            }
-          ],
-          "description": "GUI installer. Easily install mods.📺 YouTube Tutorial",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": "https://shipofharkinian.com",
-            "id": 472575717,
-            "language": "C",
-            "license": null,
-            "last_commit": "2026-10-02T15:34:13Z",
-            "open_issues": 391,
-            "owner": "HarbourMasters",
-            "repo": "Shipwright",
-            "stars": 5517,
-            "topics": []
-          },
-          "title": "⭐ Ship of Harkinian",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "The Legend of Zelda: Ocarina of Time"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "GUI installer.📺 YouTube Tutorial",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)",
-            "homepage": null,
-            "id": 708994262,
-            "language": "C",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-25T18:57:57Z",
-            "open_issues": 140,
-            "owner": "Zelda64Recomp",
-            "repo": "Zelda64Recomp",
-            "stars": 7335,
-            "topics": []
-          },
-          "title": "⭐ Zelda 64: Recompiled",
-          "first_seen": "2026-08-29T01:25:57.799Z"
+          "title": "The Legend of Zelda: Majora's Mask"
         },
         {
-          "children": [],
-          "description": "GUI installer + mod support",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 718907857,
-            "language": "C",
-            "license": "CC0-1.0",
-            "last_commit": "2026-09-25T12:37:45Z",
-            "open_issues": 167,
-            "owner": "2ship2harkinian",
-            "repo": "2ship2harkinian",
-            "stars": 2279,
-            "topics": []
-          },
-          "title": "⭐ 2 Ship 2 Harkinian",
-          "first_seen": "2026-09-24T21:06:01.694Z"
-        }
-      ],
-      "title": "The Legend of Zelda: Majora's Mask"
-    },
-    {
-      "description": null,
-      "items": [
-        {
           "children": [
             {
               "children": [
                 {
-                  "node_type": "item",
-                  "title": "tmc",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "tmc",
+                      "description": "MatheoVignaud/tmc",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Decompilation of The Legend of Zelda: The Minish Cap (USA/JP/EU)",
+                        "homepage": "https://zeldaret.github.io/tmc/html/index.html",
+                        "id": 568064888,
+                        "language": "C",
+                        "license": null,
+                        "last_commit": "2026-05-17T09:54:49Z",
+                        "open_issues": 17,
+                        "owner": "MatheoVignaud",
+                        "repo": "tmc",
+                        "stars": 403,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T01:25:57.799Z"
+                    }
+                  ],
                   "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Decompilation of The Legend of Zelda: The Minish Cap (USA/JP/EU)",
-                    "homepage": "https://zeldaret.github.io/tmc/html/index.html",
-                    "id": 568064888,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2026-05-17T09:54:49Z",
-                    "open_issues": 17,
-                    "owner": "MatheoVignaud",
-                    "repo": "tmc",
-                    "stars": 403,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:25:57.799Z"
+                  "node_type": "group",
+                  "title": "Project(s)"
                 }
               ],
-              "description": null,
-              "node_type": "group",
-              "title": "Project(s)"
+              "description": "Automated launcher/installer",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "GUI to automate tmc setup (must provide own rom file) ",
+                "homepage": null,
+                "id": 1226956231,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-07-25T13:28:01Z",
+                "open_issues": 0,
+                "owner": "StonedModder",
+                "repo": "auto-tmc",
+                "stars": 66,
+                "topics": []
+              },
+              "title": "⭐ auto-tmc",
+              "first_seen": "2026-08-29T01:25:57.799Z"
             }
           ],
-          "description": "Automated launcher/installer",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "GUI to automate tmc setup (must provide own rom file) ",
-            "homepage": null,
-            "id": 1226956231,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-07-25T13:28:01Z",
-            "open_issues": 0,
-            "owner": "StonedModder",
-            "repo": "auto-tmc",
-            "stars": 66,
-            "topics": []
-          },
-          "title": "⭐ auto-tmc",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "The Legend of Zelda: The Minish Cap"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "PC port",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.",
-            "homepage": "https://twilitrealm.dev",
-            "id": 1106809206,
-            "language": "C++",
-            "license": "CC0-1.0",
-            "last_commit": "2026-09-30T06:23:24Z",
-            "open_issues": 362,
-            "owner": "TwilitRealm",
-            "repo": "dusklight",
-            "stars": 5621,
-            "topics": []
-          },
-          "title": "⭐ dusk",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "The Legend of Zelda: Twilight Princess"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "GUI installer + mod support",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "SF64 PC Port",
-            "homepage": null,
-            "id": 803601986,
-            "language": "C",
-            "license": "CC0-1.0",
-            "last_commit": "2026-09-15T21:17:12Z",
-            "open_issues": 59,
-            "owner": "HarbourMasters",
-            "repo": "Starship",
-            "stars": 2078,
-            "topics": []
-          },
-          "title": "⭐ Starship",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Star Fox 64"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "GUI installer",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A smashin' port for PC, Mac, and Linux!",
-            "homepage": "https://discord.gg/bAE73kxKXY",
-            "id": 1201525210,
-            "language": "C++",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T14:46:59Z",
-            "open_issues": 21,
-            "owner": "JRickey",
-            "repo": "BattleShip",
-            "stars": 457,
-            "topics": []
-          },
-          "title": "⭐ BattleShip",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Super Smash Bros."
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Perfect Dark Decompilation",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A decompilation of Perfect Dark. (MIRROR of https://gitlab.com/ryandwyer/perfect-dark)",
-                    "homepage": null,
-                    "id": 241214589,
-                    "language": "C",
-                    "license": "MIT",
-                    "last_commit": "2025-03-15T00:36:30Z",
-                    "open_issues": 0,
-                    "owner": "n64decomp",
-                    "repo": "perfect_dark",
-                    "stars": 868,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:25:57.799Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Project(s)"
-            }
-          ],
-          "description": "Easy install/play",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "work in progress port of n64decomp/perfect_dark to modern platforms",
-            "homepage": null,
-            "id": 669207138,
-            "language": "C",
-            "license": "MIT",
-            "last_commit": "2026-08-13T05:58:19Z",
-            "open_issues": 223,
-            "owner": "perfect-dark-pc-port",
-            "repo": "perfect_dark",
-            "stars": 2032,
-            "topics": []
-          },
-          "title": "⭐ Perfect Dark port",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Perfect Dark"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "GUI installer + mod support",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "PC Port of Banjo-Kazooie made using N64: Recompiled (Windows/Linux/Mac) ",
-            "homepage": null,
-            "id": 934549500,
-            "language": "C",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-25T18:57:08Z",
-            "open_issues": 57,
-            "owner": "BanjoRecomp",
-            "repo": "BanjoRecomp",
-            "stars": 1999,
-            "topics": []
-          },
-          "title": "⭐ BanjoRecomp",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Banjo-Kazooie"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "GUI installer + mod support",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1136087342,
-            "language": "C++",
-            "license": "GPL-3.0",
-            "last_commit": "2026-03-25T20:52:36Z",
-            "open_issues": 20,
-            "owner": "RevoSucks",
-            "repo": "BM64Recomp",
-            "stars": 286,
-            "topics": []
-          },
-          "title": "⭐ BM64Recomp",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Bomberman 64"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "GUI installer + mod support",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1202246140,
-            "language": "C++",
-            "license": "GPL-3.0",
-            "last_commit": "2026-05-12T03:54:09Z",
-            "open_issues": 1,
-            "owner": "RevoSucks",
-            "repo": "BMHeroRecomp",
-            "stars": 124,
-            "topics": []
-          },
-          "title": "⭐ BMHeroRecomp",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Bomberman Hero"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "GUI installer + mod support",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 909124418,
-            "language": "C++",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-29T01:15:22Z",
-            "open_issues": 5,
-            "owner": "Rainchus",
-            "repo": "Quest64-Recomp",
-            "stars": 273,
-            "topics": []
-          },
-          "title": "⭐ Quest64-Recomp",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Quest 64"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "GUI installer + mod support",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Recompilation of Mega Man 64",
-            "homepage": null,
-            "id": 968721788,
-            "language": "C++",
-            "license": "GPL-3.0",
-            "last_commit": "2026-04-30T20:35:04Z",
-            "open_issues": 7,
-            "owner": "MegaMan64Recomp",
-            "repo": "MegaMan64Recompiled",
-            "stars": 260,
-            "topics": []
-          },
-          "title": "⭐ MegaMan64Recompiled",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Mega Man 64"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "GUI installer + mod support",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Space Station Silicon Valley Recompilation Project",
-            "homepage": null,
-            "id": 1148377573,
-            "language": "C++",
-            "license": null,
-            "last_commit": "2026-04-26T09:36:28Z",
-            "open_issues": 4,
-            "owner": "Cellenseres",
-            "repo": "SSSV_Recomp",
-            "stars": 99,
-            "topics": []
-          },
-          "title": "⭐ SSSV_Recomp",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Space Station Silicon Valley"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "GUI installer",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "An unofficial PC port of Mystical Ninja Starring Goemon achieved via static recompilation.",
-            "homepage": null,
-            "id": 931851021,
-            "language": "C",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-19T19:36:05Z",
-            "open_issues": 23,
-            "owner": "klorfmorf",
-            "repo": "Goemon64Recomp",
-            "stars": 304,
-            "topics": [
-              "goemon",
-              "mystical-ninja",
-              "n64",
-              "pc-port",
-              "recompilation"
-            ]
-          },
-          "title": "⭐ Goemon64Recomp",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Mystical Ninja Starring Goemon"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "GUI installer",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A static recompilation/native port of Dinosaur Planet (Dec 2000 prototype).",
-            "homepage": null,
-            "id": 802614930,
-            "language": "C++",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-25T20:57:27Z",
-            "open_issues": 12,
-            "owner": "DinosaurPlanetRecomp",
-            "repo": "dino-recomp",
-            "stars": 319,
-            "topics": []
-          },
-          "title": "⭐ Dinosaur Planet: Recompiled",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Dinosaur Planet"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "GUI installer + Track editor",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "I have spaghetti, now i just need a kart",
-            "homepage": "https://harbourmasters.github.io/SpaghettiKart/",
-            "id": 783333624,
-            "language": "C",
-            "license": null,
-            "last_commit": "2026-09-16T15:07:51Z",
-            "open_issues": 120,
-            "owner": "HarbourMasters",
-            "repo": "SpaghettiKart",
-            "stars": 2386,
-            "topics": []
-          },
-          "title": "⭐ SpaghettiKart",
-          "first_seen": "2026-08-29T01:25:57.799Z"
+          "description": null,
+          "node_type": "group",
+          "title": "The Legend of Zelda: The Minish Cap"
         },
         {
-          "children": [],
-          "description": "GUI installer + mod support",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Mario Kart 64 for PC (Windows/Linux/MacOS)",
-            "homepage": null,
-            "id": 918400712,
-            "language": "C++",
-            "license": "GPL-3.0",
-            "last_commit": "2026-08-11T17:09:05Z",
-            "open_issues": 9,
-            "owner": "sonicdcer",
-            "repo": "MarioKart64Recomp",
-            "stars": 601,
-            "topics": []
-          },
-          "title": "⭐ MarioKart64Recomp",
-          "first_seen": "2026-10-01T22:18:16.121Z"
-        }
-      ],
-      "title": "Mario Kart 64"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "GUI installer + mod support (Gyro aiming, 60+ FPS)",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Recompilation of Duke Nukem Zero Hour",
-            "homepage": null,
-            "id": 1081519438,
-            "language": "C++",
-            "license": "GPL-3.0",
-            "last_commit": "2025-11-03T00:08:08Z",
-            "open_issues": 10,
-            "owner": "sonicdcer",
-            "repo": "DNZHRecomp",
-            "stars": 186,
-            "topics": []
-          },
-          "title": "⭐ Duke Nukem Zero Hour: Recompiled",
-          "first_seen": "2026-10-01T22:18:16.121Z"
-        }
-      ],
-      "title": "Duke Nukem: Zero Hour"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "GUI installer",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 803577244,
-            "language": "C++",
-            "license": "GPL-3.0",
-            "last_commit": "2025-03-11T04:41:16Z",
-            "open_issues": 3,
-            "owner": "Rainchus",
-            "repo": "ChameleonTwist1-JP-Recomp",
-            "stars": 56,
-            "topics": []
-          },
-          "title": "⭐ Chameleon Twist: Recompiled",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Chameleon Twist"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "GUI installer + improvements (4-player controller support, 60+ FPS interpolation)",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Recompilation of Dr. Mario 64 ",
-            "homepage": null,
-            "id": 1118560225,
-            "language": "C++",
-            "license": "GPL-3.0",
-            "last_commit": "2025-12-18T04:46:41Z",
-            "open_issues": 2,
-            "owner": "theboy181",
-            "repo": "drmario64_recomp_plus",
-            "stars": 148,
-            "topics": []
-          },
-          "title": "⭐ Dr. Mario 64 Recomp Plus",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Dr. Mario 64"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "PC port",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Unofficial PC Port of Animal Crossing Gamecube",
-            "homepage": null,
-            "id": 1177228792,
-            "language": "C",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-02T00:56:51Z",
-            "open_issues": 37,
-            "owner": "flyngmt",
-            "repo": "ACGC-PC-Port",
-            "stars": 1462,
-            "topics": []
-          },
-          "title": "⭐ ACGC-PC-Port",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Animal Crossing (GameCube)"
-    },
-    {
-      "description": null,
-      "items": [
-        {
           "children": [
             {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "zelda3",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": "https://discord.gg/AJJbJAzNNJ",
-                    "id": 523544748,
-                    "language": "C",
-                    "license": "NOASSERTION",
-                    "last_commit": "2023-12-27T23:15:02Z",
-                    "open_issues": 89,
-                    "owner": "snesrev",
-                    "repo": "zelda3",
-                    "stars": 4830,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:25:57.799Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Project(s)"
+              "children": [],
+              "description": "PC port",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.",
+                "homepage": "https://twilitrealm.dev",
+                "id": 1106809206,
+                "language": "C++",
+                "license": "CC0-1.0",
+                "last_commit": "2026-09-30T06:23:24Z",
+                "open_issues": 361,
+                "owner": "TwilitRealm",
+                "repo": "dusklight",
+                "stars": 5623,
+                "topics": []
+              },
+              "title": "⭐ dusk",
+              "first_seen": "2026-08-29T01:25:57.799Z"
             }
           ],
-          "description": "GUI installer + mod/texture support📺 YouTube Tutorial",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "An all-purpose GUI tool to download, extract, compile, and launch Zelda 3 on PC.",
-            "homepage": null,
-            "id": 597469139,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2023-09-24T17:53:46Z",
-            "open_issues": 2,
-            "owner": "RadzPrower",
-            "repo": "Zelda-3-Launcher",
-            "stars": 464,
-            "topics": []
-          },
-          "title": "⭐ Zelda 3 Launcher",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "The Legend of Zelda: A Link to the Past"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "sm",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "early version",
-                    "homepage": null,
-                    "id": 609755453,
-                    "language": "C",
-                    "license": "NOASSERTION",
-                    "last_commit": "2023-08-21T22:53:49Z",
-                    "open_issues": 24,
-                    "owner": "snesrev",
-                    "repo": "sm",
-                    "stars": 554,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:25:57.799Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "sm_rewrite",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Super Metroid emscripten port",
-                    "homepage": null,
-                    "id": 772097173,
-                    "language": "C",
-                    "license": "NOASSERTION",
-                    "last_commit": "2024-03-14T14:40:29Z",
-                    "open_issues": 0,
-                    "owner": "enderandrew",
-                    "repo": "sm_rewrite",
-                    "stars": 6,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:25:57.799Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Project(s)"
-            }
-          ],
-          "description": "GUI installer + mod/texture support📺 YouTube Tutorial",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Conversion of Zelda 3 Launcher to Super Metroid Launcher",
-            "homepage": null,
-            "id": 616668791,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2023-03-23T11:56:09Z",
-            "open_issues": 5,
-            "owner": "RadzPrower",
-            "repo": "Super-Metroid-Launcher",
-            "stars": 202,
-            "topics": []
-          },
-          "title": "⭐ Super Metroid Launcher",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Super Metroid"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "smw",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Smw",
-                    "homepage": "https://discord.gg/AJJbJAzNNJ",
-                    "id": 643020453,
-                    "language": "C",
-                    "license": "NOASSERTION",
-                    "last_commit": "2024-01-22T23:14:55Z",
-                    "open_issues": 28,
-                    "owner": "snesrev",
-                    "repo": "smw",
-                    "stars": 629,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:25:57.799Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Project(s)"
-            }
-          ],
-          "description": "GUI installer",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 705917475,
-            "language": null,
-            "license": null,
-            "last_commit": "2023-11-03T23:22:49Z",
-            "open_issues": 0,
-            "owner": "qurious-pixel",
-            "repo": "SMAS_Launcher",
-            "stars": 56,
-            "topics": []
-          },
-          "title": "⭐ Super Mario All-Stars Launcher for SMW",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Super Mario World + All-Stars"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "wipeout-rewrite",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 676941180,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2026-09-27T13:52:26Z",
-                    "open_issues": 68,
-                    "owner": "phoboslab",
-                    "repo": "wipeout-rewrite",
-                    "stars": 2970,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:25:57.799Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Also see:"
-            }
-          ],
-          "description": "Drop BIN+CUE into and launch",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "An enhanced PC source port of the original WipeOut.",
-            "homepage": null,
-            "id": 663795157,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-08-21T02:53:02Z",
-            "open_issues": 51,
-            "owner": "wipeout-phantom-edition",
-            "repo": "wipeout-phantom-edition",
-            "stars": 963,
-            "topics": [
-              "source-port",
-              "windows",
-              "wipeout"
-            ]
-          },
-          "title": "⭐ WipeOut Phantom Edition",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Wipeout"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "GUI installer + mods📺 YouTube Tutorial",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Reviving the language that brought us the Jak & Daxter Series",
-            "homepage": "https://opengoal.dev",
-            "id": 289585720,
-            "language": "Common Lisp",
-            "license": "ISC",
-            "last_commit": "2026-10-01T02:23:17Z",
-            "open_issues": 188,
-            "owner": "open-goal",
-            "repo": "jak-project",
-            "stars": 3542,
-            "topics": [
-              "jak",
-              "jak-and-daxter",
-              "lisp",
-              "ps2",
-              "reverse-engineering",
-              "scheme"
-            ]
-          },
-          "title": "⭐ OpenGoal",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Jak and Daxter 1-3"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "GUI installer + mods📺 YouTube Tutorial",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Driver 2 Playstation game reverse engineering effort",
-            "homepage": "https://opendriver2.github.io/",
-            "id": 309615063,
-            "language": "C",
-            "license": "MIT",
-            "last_commit": "2026-09-22T12:58:13Z",
-            "open_issues": 34,
-            "owner": "OpenDriver2",
-            "repo": "REDRIVER2",
-            "stars": 1364,
-            "topics": [
-              "decompilation",
-              "decompile",
-              "disassemble",
-              "driver2",
-              "game",
-              "ghidra",
-              "playstation",
-              "psx",
-              "reverse-engineering",
-              "sym"
-            ]
-          },
-          "title": "⭐ REDRIVER2",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Driver 2"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "Drop discs into folder📖 Setup Guide",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Legend of Dragoon decompiled, reverse engineered, and ported to PC/Mac/Linux/Steam Deck",
-            "homepage": "https://legendofdragoon.org/projects/severed-chains/",
-            "id": 401141707,
-            "language": "Java",
-            "license": null,
-            "last_commit": "2026-09-28T01:48:40Z",
-            "open_issues": 177,
-            "owner": "Legend-of-Dragoon-Modding",
-            "repo": "Severed-Chains",
-            "stars": 535,
-            "topics": [
-              "java",
-              "reverse-engineering"
-            ]
-          },
-          "title": "⭐ Legend of Dragoon Java",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Legend of Dragoon"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Sonic 1/2 Decompilation",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A complete decompilation of Sonic 1 & Sonic 2 (2013) & Retro Engine (v4)",
-                    "homepage": null,
-                    "id": 321543928,
-                    "language": "C++",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-09-06T17:42:24Z",
-                    "open_issues": 16,
-                    "owner": "RSDKModding",
-                    "repo": "RSDKv4-Decompilation",
-                    "stars": 1141,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:25:57.799Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Project(s)"
-            }
-          ],
-          "description": "Drag-and-drop setup📺 Tutorial",
+          "description": null,
           "node_type": "group",
-          "title": "⭐ Sonic the Hedgehog Forever"
+          "title": "The Legend of Zelda: Twilight Princess"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "GUI installer + mod support",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "SF64 PC Port",
+                "homepage": null,
+                "id": 803601986,
+                "language": "C",
+                "license": "CC0-1.0",
+                "last_commit": "2026-09-15T21:17:12Z",
+                "open_issues": 60,
+                "owner": "HarbourMasters",
+                "repo": "Starship",
+                "stars": 2079,
+                "topics": []
+              },
+              "title": "⭐ Starship",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Star Fox 64"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "GUI installer",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A smashin' port for PC, Mac, and Linux!",
+                "homepage": "https://discord.gg/bAE73kxKXY",
+                "id": 1201525210,
+                "language": "C++",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-02T14:46:59Z",
+                "open_issues": 21,
+                "owner": "JRickey",
+                "repo": "BattleShip",
+                "stars": 459,
+                "topics": []
+              },
+              "title": "⭐ BattleShip",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Super Smash Bros."
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Perfect Dark Decompilation",
+                      "description": "n64decomp/perfect_dark",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A decompilation of Perfect Dark. (MIRROR of https://gitlab.com/ryandwyer/perfect-dark)",
+                        "homepage": null,
+                        "id": 241214589,
+                        "language": "C",
+                        "license": "MIT",
+                        "last_commit": "2025-03-15T00:36:30Z",
+                        "open_issues": 0,
+                        "owner": "n64decomp",
+                        "repo": "perfect_dark",
+                        "stars": 868,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T01:25:57.799Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Project(s)"
+                }
+              ],
+              "description": "Easy install/play",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "work in progress port of n64decomp/perfect_dark to modern platforms",
+                "homepage": null,
+                "id": 669207138,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-08-13T05:58:19Z",
+                "open_issues": 223,
+                "owner": "perfect-dark-pc-port",
+                "repo": "perfect_dark",
+                "stars": 2033,
+                "topics": []
+              },
+              "title": "⭐ Perfect Dark port",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Perfect Dark"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "GUI installer + mod support",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "PC Port of Banjo-Kazooie made using N64: Recompiled (Windows/Linux/Mac) ",
+                "homepage": null,
+                "id": 934549500,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-25T18:57:08Z",
+                "open_issues": 57,
+                "owner": "BanjoRecomp",
+                "repo": "BanjoRecomp",
+                "stars": 2000,
+                "topics": []
+              },
+              "title": "⭐ BanjoRecomp",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Banjo-Kazooie"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "GUI installer + mod support",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1136087342,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-03-25T20:52:36Z",
+                "open_issues": 20,
+                "owner": "RevoSucks",
+                "repo": "BM64Recomp",
+                "stars": 286,
+                "topics": []
+              },
+              "title": "⭐ BM64Recomp",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Bomberman 64"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "GUI installer + mod support",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1202246140,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-05-12T03:54:09Z",
+                "open_issues": 1,
+                "owner": "RevoSucks",
+                "repo": "BMHeroRecomp",
+                "stars": 125,
+                "topics": []
+              },
+              "title": "⭐ BMHeroRecomp",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Bomberman Hero"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "GUI installer + mod support",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 909124418,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-29T01:15:22Z",
+                "open_issues": 5,
+                "owner": "Rainchus",
+                "repo": "Quest64-Recomp",
+                "stars": 273,
+                "topics": []
+              },
+              "title": "⭐ Quest64-Recomp",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Quest 64"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "GUI installer + mod support",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Recompilation of Mega Man 64",
+                "homepage": null,
+                "id": 968721788,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-04-30T20:35:04Z",
+                "open_issues": 7,
+                "owner": "MegaMan64Recomp",
+                "repo": "MegaMan64Recompiled",
+                "stars": 260,
+                "topics": []
+              },
+              "title": "⭐ MegaMan64Recompiled",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mega Man 64"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "GUI installer + mod support",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Space Station Silicon Valley Recompilation Project",
+                "homepage": null,
+                "id": 1148377573,
+                "language": "C++",
+                "license": null,
+                "last_commit": "2026-04-26T09:36:28Z",
+                "open_issues": 4,
+                "owner": "Cellenseres",
+                "repo": "SSSV_Recomp",
+                "stars": 99,
+                "topics": []
+              },
+              "title": "⭐ SSSV_Recomp",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Space Station Silicon Valley"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "GUI installer",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "An unofficial PC port of Mystical Ninja Starring Goemon achieved via static recompilation.",
+                "homepage": null,
+                "id": 931851021,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-19T19:36:05Z",
+                "open_issues": 23,
+                "owner": "klorfmorf",
+                "repo": "Goemon64Recomp",
+                "stars": 305,
+                "topics": [
+                  "goemon",
+                  "mystical-ninja",
+                  "n64",
+                  "pc-port",
+                  "recompilation"
+                ]
+              },
+              "title": "⭐ Goemon64Recomp",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mystical Ninja Starring Goemon"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "GUI installer",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A static recompilation/native port of Dinosaur Planet (Dec 2000 prototype).",
+                "homepage": null,
+                "id": 802614930,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-25T20:57:27Z",
+                "open_issues": 12,
+                "owner": "DinosaurPlanetRecomp",
+                "repo": "dino-recomp",
+                "stars": 319,
+                "topics": []
+              },
+              "title": "⭐ Dinosaur Planet: Recompiled",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dinosaur Planet"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "GUI installer + Track editor",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "I have spaghetti, now i just need a kart",
+                "homepage": "https://harbourmasters.github.io/SpaghettiKart/",
+                "id": 783333624,
+                "language": "C",
+                "license": null,
+                "last_commit": "2026-09-16T15:07:51Z",
+                "open_issues": 120,
+                "owner": "HarbourMasters",
+                "repo": "SpaghettiKart",
+                "stars": 2386,
+                "topics": []
+              },
+              "title": "⭐ SpaghettiKart",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            },
+            {
+              "children": [],
+              "description": "GUI installer + mod support",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Mario Kart 64 for PC (Windows/Linux/MacOS)",
+                "homepage": null,
+                "id": 918400712,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-11T17:09:05Z",
+                "open_issues": 9,
+                "owner": "sonicdcer",
+                "repo": "MarioKart64Recomp",
+                "stars": 601,
+                "topics": []
+              },
+              "title": "⭐ MarioKart64Recomp",
+              "first_seen": "2026-10-01T22:18:16.121Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mario Kart 64"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "GUI installer + mod support (Gyro aiming, 60+ FPS)",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Recompilation of Duke Nukem Zero Hour",
+                "homepage": null,
+                "id": 1081519438,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2025-11-03T00:08:08Z",
+                "open_issues": 10,
+                "owner": "sonicdcer",
+                "repo": "DNZHRecomp",
+                "stars": 186,
+                "topics": []
+              },
+              "title": "⭐ Duke Nukem Zero Hour: Recompiled",
+              "first_seen": "2026-10-01T22:18:16.121Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Duke Nukem: Zero Hour"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "GUI installer",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 803577244,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2025-03-11T04:41:16Z",
+                "open_issues": 3,
+                "owner": "Rainchus",
+                "repo": "ChameleonTwist1-JP-Recomp",
+                "stars": 56,
+                "topics": []
+              },
+              "title": "⭐ Chameleon Twist: Recompiled",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Chameleon Twist"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "GUI installer + improvements (4-player controller support, 60+ FPS interpolation)",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Recompilation of Dr. Mario 64 ",
+                "homepage": null,
+                "id": 1118560225,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2025-12-18T04:46:41Z",
+                "open_issues": 2,
+                "owner": "theboy181",
+                "repo": "drmario64_recomp_plus",
+                "stars": 148,
+                "topics": []
+              },
+              "title": "⭐ Dr. Mario 64 Recomp Plus",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dr. Mario 64"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "PC port",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Unofficial PC Port of Animal Crossing Gamecube",
+                "homepage": null,
+                "id": 1177228792,
+                "language": "C",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-02T00:56:51Z",
+                "open_issues": 37,
+                "owner": "flyngmt",
+                "repo": "ACGC-PC-Port",
+                "stars": 1463,
+                "topics": []
+              },
+              "title": "⭐ ACGC-PC-Port",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Animal Crossing (GameCube)"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "zelda3",
+                      "description": "snesrev/zelda3",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": "https://discord.gg/AJJbJAzNNJ",
+                        "id": 523544748,
+                        "language": "C",
+                        "license": "NOASSERTION",
+                        "last_commit": "2026-10-02T23:58:23Z",
+                        "open_issues": 86,
+                        "owner": "snesrev",
+                        "repo": "zelda3",
+                        "stars": 4831,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T01:25:57.799Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Project(s)"
+                }
+              ],
+              "description": "GUI installer + mod/texture support📺 YouTube Tutorial",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "An all-purpose GUI tool to download, extract, compile, and launch Zelda 3 on PC.",
+                "homepage": null,
+                "id": 597469139,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2023-09-24T17:53:46Z",
+                "open_issues": 2,
+                "owner": "RadzPrower",
+                "repo": "Zelda-3-Launcher",
+                "stars": 464,
+                "topics": []
+              },
+              "title": "⭐ Zelda 3 Launcher",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "The Legend of Zelda: A Link to the Past"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "sm",
+                      "description": "snesrev/sm",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "early version",
+                        "homepage": null,
+                        "id": 609755453,
+                        "language": "C",
+                        "license": "NOASSERTION",
+                        "last_commit": "2023-08-21T22:53:49Z",
+                        "open_issues": 24,
+                        "owner": "snesrev",
+                        "repo": "sm",
+                        "stars": 554,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T01:25:57.799Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "sm_rewrite",
+                      "description": "enderandrew/sm_rewrite",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Super Metroid emscripten port",
+                        "homepage": null,
+                        "id": 772097173,
+                        "language": "C",
+                        "license": "NOASSERTION",
+                        "last_commit": "2024-03-14T14:40:29Z",
+                        "open_issues": 0,
+                        "owner": "enderandrew",
+                        "repo": "sm_rewrite",
+                        "stars": 6,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T01:25:57.799Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Project(s)"
+                }
+              ],
+              "description": "GUI installer + mod/texture support📺 YouTube Tutorial",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Conversion of Zelda 3 Launcher to Super Metroid Launcher",
+                "homepage": null,
+                "id": 616668791,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2023-03-23T11:56:09Z",
+                "open_issues": 5,
+                "owner": "RadzPrower",
+                "repo": "Super-Metroid-Launcher",
+                "stars": 202,
+                "topics": []
+              },
+              "title": "⭐ Super Metroid Launcher",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Super Metroid"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "smw",
+                      "description": "snesrev/smw",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Smw",
+                        "homepage": "https://discord.gg/AJJbJAzNNJ",
+                        "id": 643020453,
+                        "language": "C",
+                        "license": "NOASSERTION",
+                        "last_commit": "2024-01-22T23:14:55Z",
+                        "open_issues": 28,
+                        "owner": "snesrev",
+                        "repo": "smw",
+                        "stars": 630,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T01:25:57.799Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Project(s)"
+                }
+              ],
+              "description": "GUI installer",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 705917475,
+                "language": null,
+                "license": null,
+                "last_commit": "2023-11-03T23:22:49Z",
+                "open_issues": 0,
+                "owner": "qurious-pixel",
+                "repo": "SMAS_Launcher",
+                "stars": 56,
+                "topics": []
+              },
+              "title": "⭐ Super Mario All-Stars Launcher for SMW",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Super Mario World + All-Stars"
         }
       ],
-      "title": "Sonic the Hedgehog 1"
+      "title": "🎮 Nintendo"
     },
     {
       "description": null,
@@ -1186,192 +1013,430 @@
             {
               "children": [
                 {
-                  "node_type": "item",
-                  "title": "Sonic 1/2 Decompilation",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "wipeout-rewrite",
+                      "description": "phoboslab/wipeout-rewrite",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 676941180,
+                        "language": "C",
+                        "license": null,
+                        "last_commit": "2026-09-27T13:52:26Z",
+                        "open_issues": 68,
+                        "owner": "phoboslab",
+                        "repo": "wipeout-rewrite",
+                        "stars": 2970,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T01:25:57.799Z"
+                    }
+                  ],
                   "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A complete decompilation of Sonic 1 & Sonic 2 (2013) & Retro Engine (v4)",
-                    "homepage": null,
-                    "id": 321543928,
-                    "language": "C++",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-09-06T17:42:24Z",
-                    "open_issues": 16,
-                    "owner": "RSDKModding",
-                    "repo": "RSDKv4-Decompilation",
-                    "stars": 1141,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T01:25:57.799Z"
+                  "node_type": "group",
+                  "title": "Also see:"
                 }
               ],
-              "description": null,
-              "node_type": "group",
-              "title": "Project(s)"
+              "description": "Drop BIN+CUE into and launch",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "An enhanced PC source port of the original WipeOut.",
+                "homepage": null,
+                "id": 663795157,
+                "language": null,
+                "license": null,
+                "last_commit": "2024-08-21T02:53:02Z",
+                "open_issues": 51,
+                "owner": "wipeout-phantom-edition",
+                "repo": "wipeout-phantom-edition",
+                "stars": 963,
+                "topics": [
+                  "source-port",
+                  "windows",
+                  "wipeout"
+                ]
+              },
+              "title": "⭐ WipeOut Phantom Edition",
+              "first_seen": "2026-08-29T01:25:57.799Z"
             }
           ],
-          "description": "Drag-and-drop setup📺 Tutorial",
+          "description": null,
           "node_type": "group",
-          "title": "⭐ Sonic the Hedgehog 2 Absolute"
+          "title": "Wipeout"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "GUI installer + mods📺 YouTube Tutorial",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Reviving the language that brought us the Jak & Daxter Series",
+                "homepage": "https://opengoal.dev",
+                "id": 289585720,
+                "language": "Common Lisp",
+                "license": "ISC",
+                "last_commit": "2026-10-01T02:23:17Z",
+                "open_issues": 188,
+                "owner": "open-goal",
+                "repo": "jak-project",
+                "stars": 3542,
+                "topics": [
+                  "jak",
+                  "jak-and-daxter",
+                  "lisp",
+                  "ps2",
+                  "reverse-engineering",
+                  "scheme"
+                ]
+              },
+              "title": "⭐ OpenGoal",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Jak and Daxter 1-3"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "GUI installer + mods📺 YouTube Tutorial",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Driver 2 Playstation game reverse engineering effort",
+                "homepage": "https://opendriver2.github.io/",
+                "id": 309615063,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-09-22T12:58:13Z",
+                "open_issues": 34,
+                "owner": "OpenDriver2",
+                "repo": "REDRIVER2",
+                "stars": 1364,
+                "topics": [
+                  "decompilation",
+                  "decompile",
+                  "disassemble",
+                  "driver2",
+                  "game",
+                  "ghidra",
+                  "playstation",
+                  "psx",
+                  "reverse-engineering",
+                  "sym"
+                ]
+              },
+              "title": "⭐ REDRIVER2",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Driver 2"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Drop discs into folder📖 Setup Guide",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Legend of Dragoon decompiled, reverse engineered, and ported to PC/Mac/Linux/Steam Deck",
+                "homepage": "https://legendofdragoon.org/projects/severed-chains/",
+                "id": 401141707,
+                "language": "Java",
+                "license": null,
+                "last_commit": "2026-09-28T01:48:40Z",
+                "open_issues": 177,
+                "owner": "Legend-of-Dragoon-Modding",
+                "repo": "Severed-Chains",
+                "stars": 536,
+                "topics": [
+                  "java",
+                  "reverse-engineering"
+                ]
+              },
+              "title": "⭐ Legend of Dragoon Java",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Legend of Dragoon"
         }
       ],
-      "title": "Sonic the Hedgehog 2"
+      "title": "🕹️ PlayStation"
     },
     {
       "description": null,
       "items": [
         {
-          "children": [],
-          "description": "Launcher with mod support📄 Manual",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Source and data to build Sonic 3 A.I.R. (Angel Island Revisited) and the Oxygen Engine",
-            "homepage": null,
-            "id": 419820751,
-            "language": "C++",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-20T11:24:16Z",
-            "open_issues": 7,
-            "owner": "Eukaryot",
-            "repo": "sonic3air",
-            "stars": 646,
-            "topics": []
-          },
-          "title": "⭐ Sonic 3 AIR",
-          "first_seen": "2026-08-29T01:25:57.799Z"
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Sonic 1/2 Decompilation",
+                      "description": "RSDKModding/RSDKv4-Decompilation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A complete decompilation of Sonic 1 & Sonic 2 (2013) & Retro Engine (v4)",
+                        "homepage": null,
+                        "id": 321543928,
+                        "language": "C++",
+                        "license": "NOASSERTION",
+                        "last_commit": "2026-09-06T17:42:24Z",
+                        "open_issues": 16,
+                        "owner": "RSDKModding",
+                        "repo": "RSDKv4-Decompilation",
+                        "stars": 1141,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T01:25:57.799Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Project(s)"
+                }
+              ],
+              "description": "Drag-and-drop setup📺 Tutorial",
+              "node_type": "group",
+              "title": "⭐ Sonic the Hedgehog Forever"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sonic the Hedgehog 1"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Sonic 1/2 Decompilation",
+                      "description": "RSDKModding/RSDKv4-Decompilation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A complete decompilation of Sonic 1 & Sonic 2 (2013) & Retro Engine (v4)",
+                        "homepage": null,
+                        "id": 321543928,
+                        "language": "C++",
+                        "license": "NOASSERTION",
+                        "last_commit": "2026-09-06T17:42:24Z",
+                        "open_issues": 16,
+                        "owner": "RSDKModding",
+                        "repo": "RSDKv4-Decompilation",
+                        "stars": 1141,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-29T01:25:57.799Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Project(s)"
+                }
+              ],
+              "description": "Drag-and-drop setup📺 Tutorial",
+              "node_type": "group",
+              "title": "⭐ Sonic the Hedgehog 2 Absolute"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sonic the Hedgehog 2"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Launcher with mod support📄 Manual",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Source and data to build Sonic 3 A.I.R. (Angel Island Revisited) and the Oxygen Engine",
+                "homepage": null,
+                "id": 419820751,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-20T11:24:16Z",
+                "open_issues": 7,
+                "owner": "Eukaryot",
+                "repo": "sonic3air",
+                "stars": 646,
+                "topics": []
+              },
+              "title": "⭐ Sonic 3 AIR",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sonic 3 & Knuckles"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Launcher with mod support📖 Install Guide",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.",
+                "homepage": null,
+                "id": 865232212,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-06-29T11:05:43Z",
+                "open_issues": 239,
+                "owner": "hedge-dev",
+                "repo": "UnleashedRecomp",
+                "stars": 5108,
+                "topics": []
+              },
+              "title": "⭐ UnleashedRecomp",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sonic Unleashed"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Drag-and-drop install📖 Setup Guide",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Cannonball: An Enhanced OutRun Engine",
+                "homepage": "http://reassembler.blogspot.com",
+                "id": 5940101,
+                "language": "C++",
+                "license": null,
+                "last_commit": "2023-12-26T05:20:49Z",
+                "open_issues": 45,
+                "owner": "djyt",
+                "repo": "cannonball",
+                "stars": 876,
+                "topics": []
+              },
+              "title": "⭐ Cannonball - OutRun Engine",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OutRun"
         }
       ],
-      "title": "Sonic 3 & Knuckles"
+      "title": "🌀 SEGA"
     },
     {
       "description": null,
       "items": [
         {
-          "children": [],
-          "description": "Launcher with mod support📖 Install Guide",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.",
-            "homepage": null,
-            "id": 865232212,
-            "language": "C++",
-            "license": "GPL-3.0",
-            "last_commit": "2026-06-29T11:05:43Z",
-            "open_issues": 239,
-            "owner": "hedge-dev",
-            "repo": "UnleashedRecomp",
-            "stars": 5107,
-            "topics": []
-          },
-          "title": "⭐ UnleashedRecomp",
-          "first_seen": "2026-08-29T01:25:57.799Z"
+          "children": [
+            {
+              "children": [],
+              "description": "Just drop the EXE into the Cave Story folder and run",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A faithful and open-source remake of Cave Story's engine written in Rust",
+                "homepage": "https://doukutsu.rs",
+                "id": 288316523,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-09-04T09:32:20Z",
+                "open_issues": 61,
+                "owner": "doukutsu-rs",
+                "repo": "doukutsu-rs",
+                "stars": 1303,
+                "topics": [
+                  "cave-story",
+                  "cavestory",
+                  "doukutsu-monogatari",
+                  "hacktoberfest",
+                  "hacktoberfest2022",
+                  "metroidvania",
+                  "rust",
+                  "rust-lang",
+                  "studio-pixel"
+                ]
+              },
+              "title": "⭐ doukutsu-rs",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cave Story+"
         }
       ],
-      "title": "Sonic Unleashed"
+      "title": "🌟 Indie"
     },
     {
       "description": null,
       "items": [
         {
-          "children": [],
-          "description": "Drag-and-drop install📖 Setup Guide",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "Cannonball: An Enhanced OutRun Engine",
-            "homepage": "http://reassembler.blogspot.com",
-            "id": 5940101,
-            "language": "C++",
-            "license": null,
-            "last_commit": "2023-12-26T05:20:49Z",
-            "open_issues": 45,
-            "owner": "djyt",
-            "repo": "cannonball",
-            "stars": 876,
-            "topics": []
-          },
-          "title": "⭐ Cannonball - OutRun Engine",
-          "first_seen": "2026-08-29T01:25:57.799Z"
+          "children": [
+            {
+              "children": [],
+              "description": "Automatically installs and updates N64 recompilations in one place. A must-have if you play multiple N64 recomps.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A Launcher that Downloads and Updates Applications from Github Releases",
+                "homepage": null,
+                "id": 1041721463,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-06-26T12:10:10Z",
+                "open_issues": 49,
+                "owner": "SirDiabo",
+                "repo": "GithubLauncher",
+                "stars": 1682,
+                "topics": [
+                  "dotnet",
+                  "games",
+                  "launcher",
+                  "launcher-application"
+                ]
+              },
+              "title": "⭐ N64RecompLauncher",
+              "first_seen": "2026-08-29T01:25:57.799Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "N64 Recomp Launcher"
         }
       ],
-      "title": "OutRun"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "Just drop the EXE into the Cave Story folder and run",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A faithful and open-source remake of Cave Story's engine written in Rust",
-            "homepage": "https://doukutsu.rs",
-            "id": 288316523,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-09-04T09:32:20Z",
-            "open_issues": 61,
-            "owner": "doukutsu-rs",
-            "repo": "doukutsu-rs",
-            "stars": 1302,
-            "topics": [
-              "cave-story",
-              "cavestory",
-              "doukutsu-monogatari",
-              "hacktoberfest",
-              "hacktoberfest2022",
-              "metroidvania",
-              "rust",
-              "rust-lang",
-              "studio-pixel"
-            ]
-          },
-          "title": "⭐ doukutsu-rs",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "Cave Story+"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "Automatically installs and updates N64 recompilations in one place. A must-have if you play multiple N64 recomps.",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A Launcher that Downloads and Updates Applications from Github Releases",
-            "homepage": null,
-            "id": 1041721463,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-26T12:10:10Z",
-            "open_issues": 49,
-            "owner": "SirDiabo",
-            "repo": "GithubLauncher",
-            "stars": 1680,
-            "topics": [
-              "dotnet",
-              "games",
-              "launcher",
-              "launcher-application"
-            ]
-          },
-          "title": "⭐ N64RecompLauncher",
-          "first_seen": "2026-08-29T01:25:57.799Z"
-        }
-      ],
-      "title": "N64 Recomp Launcher"
+      "title": "🔧 Utilities"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:46:44.192Z",
+    "last_updated": "2026-10-03T05:12:07.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unoffical PC Ports.",
@@ -1383,7 +1448,7 @@
       "open_issues": 7,
       "owner": "Sebastrion",
       "repo": "awesome-unofficial-pc-ports",
-      "stars": 816,
+      "stars": 817,
       "topics": [
         "awesome",
         "awesome-list",
