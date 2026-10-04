@@ -25,7 +25,7 @@
                         "open_issues": 29,
                         "owner": "n64decomp",
                         "repo": "sm64",
-                        "stars": 8800,
+                        "stars": 8810,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -74,7 +74,7 @@
                         "open_issues": 15,
                         "owner": "sm64-port",
                         "repo": "sm64-port",
-                        "stars": 1295,
+                        "stars": 1298,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -137,7 +137,7 @@
                         "open_issues": 73,
                         "owner": "zeldaret",
                         "repo": "oot",
-                        "stars": 5548,
+                        "stars": 5554,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -157,11 +157,11 @@
                 "id": 472575717,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-03T18:29:17Z",
-                "open_issues": 386,
+                "last_commit": "2026-10-04T19:44:12Z",
+                "open_issues": 385,
                 "owner": "HarbourMasters",
                 "repo": "Shipwright",
-                "stars": 5519,
+                "stars": 5525,
                 "topics": []
               },
               "title": "⭐ Ship of Harkinian",
@@ -189,7 +189,7 @@
                 "open_issues": 140,
                 "owner": "Zelda64Recomp",
                 "repo": "Zelda64Recomp",
-                "stars": 7339,
+                "stars": 7343,
                 "topics": []
               },
               "title": "⭐ Zelda 64: Recompiled",
@@ -207,10 +207,10 @@
                 "language": "C",
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-25T12:37:45Z",
-                "open_issues": 168,
+                "open_issues": 170,
                 "owner": "2ship2harkinian",
                 "repo": "2ship2harkinian",
-                "stars": 2280,
+                "stars": 2282,
                 "topics": []
               },
               "title": "⭐ 2 Ship 2 Harkinian",
@@ -291,11 +291,11 @@
                 "id": 1106809206,
                 "language": "C++",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-30T06:23:24Z",
-                "open_issues": 364,
+                "last_commit": "2026-10-04T17:23:15Z",
+                "open_issues": 366,
                 "owner": "TwilitRealm",
                 "repo": "dusklight",
-                "stars": 5626,
+                "stars": 5637,
                 "topics": []
               },
               "title": "⭐ dusk",
@@ -347,11 +347,11 @@
                 "id": 1201525210,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T13:28:41Z",
+                "last_commit": "2026-10-04T14:07:34Z",
                 "open_issues": 21,
                 "owner": "JRickey",
                 "repo": "BattleShip",
-                "stars": 461,
+                "stars": 462,
                 "topics": []
               },
               "title": "⭐ BattleShip",
@@ -408,7 +408,7 @@
                 "open_issues": 223,
                 "owner": "perfect-dark-pc-port",
                 "repo": "perfect_dark",
-                "stars": 2034,
+                "stars": 2037,
                 "topics": []
               },
               "title": "⭐ Perfect Dark port",
@@ -421,6 +421,27 @@
         },
         {
           "children": [
+            {
+              "children": [],
+              "description": "Native PC port with Anchor multiplayer, romhack/multi-language support, and a built-in randomizer. Extract the release, launch it, and select your compatible ROM.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A Banjo-Kazooie PC port with Anchor multiplayer, romhack and multi-language support, and a built-in randomizer.",
+                "homepage": "https://www.harbourmasters.org",
+                "id": 895293282,
+                "language": "C",
+                "license": "CC0-1.0",
+                "last_commit": "2026-10-03T19:14:13Z",
+                "open_issues": 36,
+                "owner": "HarbourMasters",
+                "repo": "Lighthouse",
+                "stars": 474,
+                "topics": []
+              },
+              "title": "⭐ Lighthouse",
+              "first_seen": "2026-10-04T20:50:07.781Z"
+            },
             {
               "children": [],
               "description": "GUI installer + mod support",
@@ -436,7 +457,7 @@
                 "open_issues": 56,
                 "owner": "BanjoRecomp",
                 "repo": "BanjoRecomp",
-                "stars": 2004,
+                "stars": 2011,
                 "topics": []
               },
               "title": "⭐ BanjoRecomp",
@@ -548,7 +569,7 @@
                 "open_issues": 7,
                 "owner": "MegaMan64Recomp",
                 "repo": "MegaMan64Recompiled",
-                "stars": 260,
+                "stars": 262,
                 "topics": []
               },
               "title": "⭐ MegaMan64Recompiled",
@@ -604,7 +625,7 @@
                 "open_issues": 23,
                 "owner": "klorfmorf",
                 "repo": "Goemon64Recomp",
-                "stars": 305,
+                "stars": 307,
                 "topics": [
                   "goemon",
                   "mystical-ninja",
@@ -638,7 +659,7 @@
                 "open_issues": 12,
                 "owner": "DinosaurPlanetRecomp",
                 "repo": "dino-recomp",
-                "stars": 319,
+                "stars": 321,
                 "topics": []
               },
               "title": "⭐ Dinosaur Planet: Recompiled",
@@ -666,7 +687,7 @@
                 "open_issues": 120,
                 "owner": "HarbourMasters",
                 "repo": "SpaghettiKart",
-                "stars": 2386,
+                "stars": 2387,
                 "topics": []
               },
               "title": "⭐ SpaghettiKart",
@@ -687,7 +708,7 @@
                 "open_issues": 9,
                 "owner": "sonicdcer",
                 "repo": "MarioKart64Recomp",
-                "stars": 602,
+                "stars": 603,
                 "topics": []
               },
               "title": "⭐ MarioKart64Recomp",
@@ -715,7 +736,7 @@
                 "open_issues": 10,
                 "owner": "sonicdcer",
                 "repo": "DNZHRecomp",
-                "stars": 186,
+                "stars": 187,
                 "topics": []
               },
               "title": "⭐ Duke Nukem Zero Hour: Recompiled",
@@ -743,7 +764,7 @@
                 "open_issues": 3,
                 "owner": "Rainchus",
                 "repo": "ChameleonTwist1-JP-Recomp",
-                "stars": 56,
+                "stars": 58,
                 "topics": []
               },
               "title": "⭐ Chameleon Twist: Recompiled",
@@ -771,7 +792,7 @@
                 "open_issues": 2,
                 "owner": "theboy181",
                 "repo": "drmario64_recomp_plus",
-                "stars": 148,
+                "stars": 149,
                 "topics": []
               },
               "title": "⭐ Dr. Mario 64 Recomp Plus",
@@ -781,6 +802,79 @@
           "description": null,
           "node_type": "group",
           "title": "Dr. Mario 64"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Native N64 static recompilation. Unzip and supply your own ROM on first launch.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Native Windows, Linux and macOS port of Pokémon Snap (N64) by static recompilation. Plays like the cartridge by default; every enhancement is opt-in. Bring your own dump; no game data is included.",
+                "homepage": "https://github.com/JackandBeans/Snap64Recomp/releases/latest",
+                "id": 1358365242,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-04T02:59:59Z",
+                "open_issues": 1,
+                "owner": "JackandBeans",
+                "repo": "Snap64Recomp",
+                "stars": 94,
+                "topics": [
+                  "linux",
+                  "macos",
+                  "n64",
+                  "n64recomp",
+                  "nintendo-64",
+                  "pokemon",
+                  "pokemon-snap",
+                  "recompilation",
+                  "rt64",
+                  "static-recompilation",
+                  "steam-deck",
+                  "windows"
+                ]
+              },
+              "title": "⭐ Snap64Recomp",
+              "first_seen": "2026-10-04T20:50:07.781Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Pokémon Snap"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Native N64 static recompilation + enhancements and mod support.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Snowboard Kids 2 for PC (Windows/Linux/MacOS)",
+                "homepage": null,
+                "id": 1136986611,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-27T17:23:17Z",
+                "open_issues": 21,
+                "owner": "cdlewis",
+                "repo": "snowboardkids2-recomp",
+                "stars": 100,
+                "topics": [
+                  "n64",
+                  "nintendo",
+                  "recompilation"
+                ]
+              },
+              "title": "⭐ snowboardkids2-recomp",
+              "first_seen": "2026-10-04T20:50:07.781Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Snowboard Kids 2"
         },
         {
           "children": [
@@ -799,7 +893,7 @@
                 "open_issues": 37,
                 "owner": "flyngmt",
                 "repo": "ACGC-PC-Port",
-                "stars": 1466,
+                "stars": 1467,
                 "topics": []
               },
               "title": "⭐ ACGC-PC-Port",
@@ -832,7 +926,7 @@
                         "open_issues": 86,
                         "owner": "snesrev",
                         "repo": "zelda3",
-                        "stars": 4834,
+                        "stars": 4836,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -886,7 +980,7 @@
                         "language": "C",
                         "license": "NOASSERTION",
                         "last_commit": "2023-08-21T22:53:49Z",
-                        "open_issues": 24,
+                        "open_issues": 23,
                         "owner": "snesrev",
                         "repo": "sm",
                         "stars": 554,
@@ -967,7 +1061,7 @@
                         "open_issues": 28,
                         "owner": "snesrev",
                         "repo": "smw",
-                        "stars": 630,
+                        "stars": 634,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -1030,7 +1124,7 @@
                         "open_issues": 68,
                         "owner": "phoboslab",
                         "repo": "wipeout-rewrite",
-                        "stars": 2970,
+                        "stars": 2971,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -1051,10 +1145,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-08-21T02:53:02Z",
-                "open_issues": 51,
+                "open_issues": 52,
                 "owner": "wipeout-phantom-edition",
                 "repo": "wipeout-phantom-edition",
-                "stars": 963,
+                "stars": 965,
                 "topics": [
                   "source-port",
                   "windows",
@@ -1086,7 +1180,7 @@
                 "open_issues": 189,
                 "owner": "open-goal",
                 "repo": "jak-project",
-                "stars": 3542,
+                "stars": 3544,
                 "topics": [
                   "jak",
                   "jak-and-daxter",
@@ -1121,7 +1215,7 @@
                 "open_issues": 34,
                 "owner": "OpenDriver2",
                 "repo": "REDRIVER2",
-                "stars": 1364,
+                "stars": 1371,
                 "topics": [
                   "decompilation",
                   "decompile",
@@ -1147,7 +1241,49 @@
           "children": [
             {
               "children": [],
-              "description": "Drop discs into folder📖 Setup Guide",
+              "description": "Native PC port based on a byte-exact matching decompilation. Put your supported disc image in the folder and launch. Windows and Linux releases are available.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Native PC port of the PlayStation game Vandal Hearts, built on a byte-exact matching decompilation. Windows & Linux; bring your own disc.",
+                "homepage": null,
+                "id": 1309777569,
+                "language": "C",
+                "license": "GPL-2.0",
+                "last_commit": "2026-08-31T01:19:30Z",
+                "open_issues": 0,
+                "owner": "HalmyLyseas",
+                "repo": "VandalHearts-PcPort",
+                "stars": 43,
+                "topics": [
+                  "decomp",
+                  "decompilation",
+                  "native-port",
+                  "playstation",
+                  "port",
+                  "preservation",
+                  "ps1",
+                  "psx",
+                  "reverse-engineering",
+                  "sdl2",
+                  "srpg",
+                  "tactical-rpg",
+                  "vandal-hearts"
+                ]
+              },
+              "title": "⭐ VandalHearts-PcPort",
+              "first_seen": "2026-10-04T20:50:07.781Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vandal Hearts"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Reverse-engineered native recreation with mod support. Drop your disc images into the folder.📖 Setup Guide",
               "node_type": "item",
               "repo_info": {
                 "archived": false,
@@ -1160,22 +1296,379 @@
                 "open_issues": 177,
                 "owner": "Legend-of-Dragoon-Modding",
                 "repo": "Severed-Chains",
-                "stars": 537,
+                "stars": 539,
                 "topics": [
                   "java",
                   "reverse-engineering"
                 ]
               },
-              "title": "⭐ Legend of Dragoon Java",
+              "title": "⭐ Severed Chains",
               "first_seen": "2026-08-29T01:25:57.799Z"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Legend of Dragoon"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Native PC port based on the PlayStation decompilation. Extract the release, add your disc image to , and launch.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.",
+                "homepage": "https://sh1pc.com",
+                "id": 1174059600,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-04T07:42:27Z",
+                "open_issues": 21,
+                "owner": "SlickAmogus",
+                "repo": "silent-hill-decomp",
+                "stars": 619,
+                "topics": [
+                  "android",
+                  "c",
+                  "decompilation",
+                  "game-port",
+                  "ios",
+                  "konami",
+                  "n64",
+                  "pc-port",
+                  "playstation",
+                  "ps3",
+                  "psp",
+                  "psx",
+                  "silent-hill",
+                  "silent-hill-1",
+                  "survival-horror",
+                  "xbox"
+                ]
+              },
+              "title": "⭐ Silent Hill Native PC Port",
+              "first_seen": "2026-10-04T20:50:07.781Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Silent Hill"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "GUI setup from your own CUE/BIN disc image; the game is checked, built, and launched automatically.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Native Windows port of the 2000 PlayStation wrestling game (NTSC-U), built on your PC from your own disc with the RecompOne static recompiler. No game data included.",
+                "homepage": "https://github.com/Comfubar/KnowYourRoleRecomp/releases/latest",
+                "id": 1391970625,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-10-01T14:00:49Z",
+                "open_issues": 0,
+                "owner": "Comfubar",
+                "repo": "KnowYourRoleRecomp",
+                "stars": 2,
+                "topics": [
+                  "native-port",
+                  "pc-port",
+                  "playstation",
+                  "ps1",
+                  "psx",
+                  "recompilation",
+                  "recompone",
+                  "static-recompilation",
+                  "windows",
+                  "wrestling"
+                ]
+              },
+              "title": "⭐ KnowYourRoleRecomp",
+              "first_seen": "2026-10-04T20:50:07.781Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WWF SmackDown! 2: Know Your Role"
         }
       ],
       "title": "🕹️ PlayStation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Native original-Xbox static recompilation. Drag your ISO onto , then launch through .",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Native Windows port of Dead or Alive Xtreme Beach Volleyball (Xbox), built by static recompilation with a hand-written runtime. Requires your own copy of the game.",
+                "homepage": "https://github.com/NoRain211/doaxbv-re/releases/latest",
+                "id": 1335797829,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-02T03:27:15Z",
+                "open_issues": 32,
+                "owner": "NoRain211",
+                "repo": "doaxvb-re",
+                "stars": 77,
+                "topics": [
+                  "dead-or-alive",
+                  "direct3d11",
+                  "game-port",
+                  "pc-port",
+                  "recompilation",
+                  "reverse-engineering",
+                  "static-recompilation",
+                  "windows",
+                  "xbox"
+                ]
+              },
+              "title": "⭐ doaxvb-re",
+              "first_seen": "2026-10-04T20:50:07.781Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dead or Alive Xtreme Beach Volleyball"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Native Xbox 360 static recompilation. Extract the release, copy your own game dump into the included folder, and launch.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1372222981,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-04T20:17:53Z",
+                "open_issues": 14,
+                "owner": "portingpete",
+                "repo": "The-Darkness-Recomp",
+                "stars": 207,
+                "topics": []
+              },
+              "title": "⭐ The-Darkness-Recomp",
+              "first_seen": "2026-10-04T20:50:07.781Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "The Darkness"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Native Xbox 360 static recompilation with a launcher and first-run ISO installer.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Silent Hill: Downpour — native Windows PC port via static recompilation of the Xbox 360 binary. v1.0 stable: 60 FPS unlocked, ROV warm-cache, standalone launcher, DualSense adaptive triggers, portable saves. Tested on USA + Europe X360 dumps.",
+                "homepage": null,
+                "id": 1274423441,
+                "language": "C++",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-09-02T22:18:50Z",
+                "open_issues": 22,
+                "owner": "LittleBitUA",
+                "repo": "DownpourRecomp",
+                "stars": 258,
+                "topics": [
+                  "d3d12",
+                  "downpour",
+                  "konami",
+                  "native-port",
+                  "pc-port",
+                  "recompilation",
+                  "rexglue",
+                  "silent-hill",
+                  "silent-hill-downpour",
+                  "static-recompilation",
+                  "vatra-games",
+                  "windows",
+                  "xbox-360"
+                ]
+              },
+              "title": "⭐ DownpourRecomp",
+              "first_seen": "2026-10-04T20:50:07.781Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Silent Hill: Downpour"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Native Xbox 360 static recompilation with a built-in ISO installer and launcher.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Deadly Premonition (Xbox 360) native PC port by static recompilation - v2.0.14: native DirectX 12 renderer ready for testing (up to 4x internal resolution); 60 FPS, mouse look, keyboard driving, FSR 3, ISO installer, PAL + USA",
+                "homepage": "https://github.com/LittleBitUA/DPRecomp/releases/latest",
+                "id": 1269663771,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-10-03T19:32:00Z",
+                "open_issues": 16,
+                "owner": "LittleBitUA",
+                "repo": "DPRecomp",
+                "stars": 156,
+                "topics": [
+                  "access-games",
+                  "d3d12",
+                  "deadly-premonition",
+                  "horror-game",
+                  "native-port",
+                  "pc-port",
+                  "recompilation",
+                  "rexglue",
+                  "static-recompilation",
+                  "swery",
+                  "windows",
+                  "xbox-360"
+                ]
+              },
+              "title": "⭐ DPRecomp",
+              "first_seen": "2026-10-04T20:50:07.781Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deadly Premonition"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Native Xbox 360 static recompilation. The launcher reads your own disc image and sets up the game.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Native PC port of Tony Hawk's Project 8 (Xbox 360) by static recompilation.",
+                "homepage": "https://github.com/theokyr/Project8Recomp/releases/latest",
+                "id": 1337490574,
+                "language": "C++",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-24T13:46:17Z",
+                "open_issues": 7,
+                "owner": "theokyr",
+                "repo": "Project8Recomp",
+                "stars": 30,
+                "topics": [
+                  "cpp",
+                  "decompilation",
+                  "game-preservation",
+                  "linux-gaming",
+                  "native-port",
+                  "pc-port",
+                  "powerpc",
+                  "recomp",
+                  "reverse-engineering",
+                  "rexglue",
+                  "skateboarding",
+                  "static-recompilation",
+                  "steam-deck",
+                  "tony-hawk",
+                  "tony-hawks-project-8",
+                  "vulkan",
+                  "xbox360",
+                  "xenia"
+                ]
+              },
+              "title": "⭐ Project8Recomp",
+              "first_seen": "2026-10-04T20:50:07.781Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tony Hawk's Project 8"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Native Xbox 360 recompilation with a GUI installer, launcher, keyboard/mouse controls, and mod support.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Unofficial Windows recompilation of Spider-Man: Edge of Time with PC controls, settings, localization, achievements and mod support.",
+                "homepage": "https://t.me/teamgenrythefox",
+                "id": 1380148378,
+                "language": "C#",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-01T10:23:51Z",
+                "open_issues": 2,
+                "owner": "GenryTheFox0",
+                "repo": "Project-2099",
+                "stars": 50,
+                "topics": [
+                  "modding",
+                  "pc-port",
+                  "spider-man",
+                  "static-recompilation",
+                  "xbox-360"
+                ]
+              },
+              "title": "⭐ Project-2099",
+              "first_seen": "2026-10-04T20:50:07.781Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Spider-Man: Edge of Time"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Native Xbox 360 static recompilation. Put your XBLA package next to the release and use the launcher to set up and play.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Native PC port of 3 on 3 NHL Arcade (Xbox 360) via static recompilation.",
+                "homepage": null,
+                "id": 1394649082,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-09-30T02:27:19Z",
+                "open_issues": 0,
+                "owner": "Wndwsqrrl",
+                "repo": "3on3NHL-recomp",
+                "stars": 2,
+                "topics": [
+                  "hockey",
+                  "nhl",
+                  "recomp",
+                  "rexglue",
+                  "rexglue-recomp",
+                  "static-recompilation",
+                  "xbox-360",
+                  "xbox360"
+                ]
+              },
+              "title": "⭐ 3on3NHL-recomp",
+              "first_seen": "2026-10-04T20:50:07.781Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3 on 3 NHL Arcade"
+        }
+      ],
+      "title": "❎ Xbox"
     },
     {
       "description": null,
@@ -1281,7 +1774,7 @@
                 "open_issues": 7,
                 "owner": "Eukaryot",
                 "repo": "sonic3air",
-                "stars": 646,
+                "stars": 647,
                 "topics": []
               },
               "title": "⭐ Sonic 3 AIR",
@@ -1309,7 +1802,7 @@
                 "open_issues": 239,
                 "owner": "hedge-dev",
                 "repo": "UnleashedRecomp",
-                "stars": 5111,
+                "stars": 5118,
                 "topics": []
               },
               "title": "⭐ UnleashedRecomp",
@@ -1371,7 +1864,7 @@
                 "open_issues": 61,
                 "owner": "doukutsu-rs",
                 "repo": "doukutsu-rs",
-                "stars": 1304,
+                "stars": 1303,
                 "topics": [
                   "cave-story",
                   "cavestory",
@@ -1412,10 +1905,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-06-26T12:10:10Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "SirDiabo",
                 "repo": "GithubLauncher",
-                "stars": 1684,
+                "stars": 1693,
                 "topics": [
                   "dotnet",
                   "games",
@@ -1436,7 +1929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T20:33:50.138Z",
+    "last_updated": "2026-10-04T20:50:07.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unoffical PC Ports.",
@@ -1444,11 +1937,11 @@
       "id": 614646577,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-05-10T10:06:48Z",
-      "open_issues": 7,
+      "last_commit": "2026-10-04T08:39:48Z",
+      "open_issues": 6,
       "owner": "Sebastrion",
       "repo": "awesome-unofficial-pc-ports",
-      "stars": 818,
+      "stars": 825,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1461,10 +1954,11 @@
         "playstation",
         "recompilation",
         "sega",
-        "unofficial"
+        "unofficial",
+        "xbox"
       ]
     },
-    "original_repository_sha": "0510121e68c0a32ac7bd02f5c1935bf8e46300c4",
+    "original_repository_sha": "ee3d3450770cabbce91e61151bd3750d38f5213c",
     "enhanced_repository": "enhansome/enhansome-unofficial-pc-ports",
     "enhanced_repository_description": null,
     "title": "Awesome, unofficial PC ports with stars"
