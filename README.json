@@ -25,7 +25,7 @@
                         "open_issues": 29,
                         "owner": "n64decomp",
                         "repo": "sm64",
-                        "stars": 8823,
+                        "stars": 8828,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -53,7 +53,7 @@
                         "open_issues": 168,
                         "owner": "sm64pc",
                         "repo": "sm64ex",
-                        "stars": 1842,
+                        "stars": 1844,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -106,9 +106,24 @@
                   "title": "Ports"
                 }
               ],
-              "description": "Installer with GUI + quality-of-life features like 60 FPS and better camera.Also buildable with sm64pcbuilder2",
-              "node_type": "group",
-              "title": "⭐ sm64plus"
+              "description": "Harbour Masters source port. Extract the release, launch , and select a supported US or JP ROM. Includes mods, modern graphics backends, and additional platform support.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": "https://ghostship.net64.dev/",
+                "id": 690636028,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-09-11T05:06:37Z",
+                "open_issues": 65,
+                "owner": "HarbourMasters",
+                "repo": "Ghostship",
+                "stars": 805,
+                "topics": []
+              },
+              "title": "⭐ Ghostship",
+              "first_seen": "2026-10-07T22:38:11.080Z"
             }
           ],
           "description": null,
@@ -133,11 +148,11 @@
                         "id": 247875738,
                         "language": "C",
                         "license": null,
-                        "last_commit": "2026-09-30T12:18:54Z",
-                        "open_issues": 74,
+                        "last_commit": "2026-10-07T07:27:22Z",
+                        "open_issues": 75,
                         "owner": "zeldaret",
                         "repo": "oot",
-                        "stars": 5560,
+                        "stars": 5562,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -157,11 +172,11 @@
                 "id": 472575717,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-06T13:54:41Z",
-                "open_issues": 387,
+                "last_commit": "2026-10-07T14:14:54Z",
+                "open_issues": 389,
                 "owner": "HarbourMasters",
                 "repo": "Shipwright",
-                "stars": 5539,
+                "stars": 5546,
                 "topics": []
               },
               "title": "⭐ Ship of Harkinian",
@@ -189,7 +204,7 @@
                 "open_issues": 140,
                 "owner": "Zelda64Recomp",
                 "repo": "Zelda64Recomp",
-                "stars": 7347,
+                "stars": 7350,
                 "topics": []
               },
               "title": "⭐ Zelda 64: Recompiled",
@@ -207,10 +222,10 @@
                 "language": "C",
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-25T12:37:45Z",
-                "open_issues": 173,
+                "open_issues": 174,
                 "owner": "2ship2harkinian",
                 "repo": "2ship2harkinian",
-                "stars": 2291,
+                "stars": 2293,
                 "topics": []
               },
               "title": "⭐ 2 Ship 2 Harkinian",
@@ -243,7 +258,7 @@
                         "open_issues": 17,
                         "owner": "MatheoVignaud",
                         "repo": "tmc",
-                        "stars": 402,
+                        "stars": 401,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -282,6 +297,64 @@
           "children": [
             {
               "children": [],
+              "description": "Native static recompilation of the Wii U version for Windows, Linux, macOS, and Android. Portable releases prepare the game from your own dump on first launch and include a built-in mod manager.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Zelda Wind Waker HD Recomp",
+                "homepage": null,
+                "id": 1399935626,
+                "language": "C++",
+                "license": "MPL-2.0",
+                "last_commit": "2026-10-07T22:30:47Z",
+                "open_issues": 15,
+                "owner": "ZeldaWWHDRecomp",
+                "repo": "ZeldaWWHDRecomp",
+                "stars": 233,
+                "topics": []
+              },
+              "title": "⭐ ZeldaWWHDRecomp",
+              "first_seen": "2026-10-07T22:38:11.080Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "The Legend of Zelda: The Wind Waker HD"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Native GameCube static recompilation. The Windows build is ready-made: launch it and select your own USA revision 0 disc image. Also supports iOS/macOS builds, controller support, and mods.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "The Legend of Zelda: The Wind Waker Recompiled. Native for iOS and Windows.",
+                "homepage": null,
+                "id": 1392424843,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-07T09:22:32Z",
+                "open_issues": 42,
+                "owner": "chrissotraidis",
+                "repo": "bluewake",
+                "stars": 257,
+                "topics": [
+                  "padmint"
+                ]
+              },
+              "title": "⭐ BlueWake",
+              "first_seen": "2026-10-07T22:38:11.080Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "The Legend of Zelda: The Wind Waker"
+        },
+        {
+          "children": [
+            {
+              "children": [],
               "description": "PC port",
               "node_type": "item",
               "repo_info": {
@@ -291,11 +364,11 @@
                 "id": 1106809206,
                 "language": "C++",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-04T17:23:15Z",
-                "open_issues": 372,
+                "last_commit": "2026-10-07T18:53:07Z",
+                "open_issues": 375,
                 "owner": "TwilitRealm",
                 "repo": "dusklight",
-                "stars": 5665,
+                "stars": 5681,
                 "topics": []
               },
               "title": "⭐ dusk",
@@ -323,7 +396,7 @@
                 "open_issues": 60,
                 "owner": "HarbourMasters",
                 "repo": "Starship",
-                "stars": 2080,
+                "stars": 2081,
                 "topics": []
               },
               "title": "⭐ Starship",
@@ -347,11 +420,11 @@
                 "id": 1201525210,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T15:16:27Z",
+                "last_commit": "2026-10-07T15:36:39Z",
                 "open_issues": 21,
                 "owner": "JRickey",
                 "repo": "BattleShip",
-                "stars": 464,
+                "stars": 465,
                 "topics": []
               },
               "title": "⭐ BattleShip",
@@ -408,7 +481,7 @@
                 "open_issues": 223,
                 "owner": "perfect-dark-pc-port",
                 "repo": "perfect_dark",
-                "stars": 2043,
+                "stars": 2045,
                 "topics": []
               },
               "title": "⭐ Perfect Dark port",
@@ -432,11 +505,11 @@
                 "id": 895293282,
                 "language": "C",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-03T19:14:13Z",
-                "open_issues": 37,
+                "last_commit": "2026-10-07T21:12:40Z",
+                "open_issues": 35,
                 "owner": "HarbourMasters",
                 "repo": "Lighthouse",
-                "stars": 479,
+                "stars": 480,
                 "topics": []
               },
               "title": "⭐ Lighthouse",
@@ -457,7 +530,7 @@
                 "open_issues": 56,
                 "owner": "BanjoRecomp",
                 "repo": "BanjoRecomp",
-                "stars": 2018,
+                "stars": 2021,
                 "topics": []
               },
               "title": "⭐ BanjoRecomp",
@@ -467,6 +540,34 @@
           "description": null,
           "node_type": "group",
           "title": "Banjo-Kazooie"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Native N64 static recompilation. Ready-made Windows/Linux releases; select your US ROM on first launch. Playable end-to-end with widescreen and high-refresh-rate support.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1371760314,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-17T19:09:55Z",
+                "open_issues": 8,
+                "owner": "Vidanox",
+                "repo": "BanjoTooieRecompiled",
+                "stars": 5,
+                "topics": []
+              },
+              "title": "⭐ Banjo-Tooie: Recompiled",
+              "first_seen": "2026-10-07T22:38:11.080Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Banjo-Tooie"
         },
         {
           "children": [
@@ -541,7 +642,7 @@
                 "open_issues": 5,
                 "owner": "Rainchus",
                 "repo": "Quest64-Recomp",
-                "stars": 275,
+                "stars": 274,
                 "topics": []
               },
               "title": "⭐ Quest64-Recomp",
@@ -569,7 +670,7 @@
                 "open_issues": 7,
                 "owner": "MegaMan64Recomp",
                 "repo": "MegaMan64Recompiled",
-                "stars": 265,
+                "stars": 264,
                 "topics": []
               },
               "title": "⭐ MegaMan64Recompiled",
@@ -597,7 +698,7 @@
                 "open_issues": 4,
                 "owner": "Cellenseres",
                 "repo": "SSSV_Recomp",
-                "stars": 99,
+                "stars": 98,
                 "topics": []
               },
               "title": "⭐ SSSV_Recomp",
@@ -687,7 +788,7 @@
                 "open_issues": 120,
                 "owner": "HarbourMasters",
                 "repo": "SpaghettiKart",
-                "stars": 2393,
+                "stars": 2392,
                 "topics": []
               },
               "title": "⭐ SpaghettiKart",
@@ -708,7 +809,7 @@
                 "open_issues": 9,
                 "owner": "sonicdcer",
                 "repo": "MarioKart64Recomp",
-                "stars": 605,
+                "stars": 606,
                 "topics": []
               },
               "title": "⭐ MarioKart64Recomp",
@@ -792,7 +893,7 @@
                 "open_issues": 2,
                 "owner": "theboy181",
                 "repo": "drmario64_recomp_plus",
-                "stars": 150,
+                "stars": 149,
                 "topics": []
               },
               "title": "⭐ Dr. Mario 64 Recomp Plus",
@@ -893,7 +994,7 @@
                 "open_issues": 11,
                 "owner": "new-coke",
                 "repo": "strikers",
-                "stars": 295,
+                "stars": 297,
                 "topics": [
                   "aurora",
                   "gamecube",
@@ -924,10 +1025,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-04T21:22:36Z",
-                "open_issues": 69,
+                "open_issues": 70,
                 "owner": "alondero",
                 "repo": "automobililamborghini-recomp",
-                "stars": 40,
+                "stars": 41,
                 "topics": [
                   "n64",
                   "nintendo",
@@ -1135,6 +1236,160 @@
           "children": [
             {
               "children": [],
+              "description": "Harbour Masters source port based on the Paper Mario decompilation. Download a release, provide a supported ROM, and launch.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Paper Mario 64 port based on the Paper Mario DX decompilation",
+                "homepage": "https://www.harbourmasters.org",
+                "id": 1175026745,
+                "language": "C",
+                "license": "CC0-1.0",
+                "last_commit": "2026-10-07T21:11:56Z",
+                "open_issues": 33,
+                "owner": "HarbourMasters",
+                "repo": "PaperBoat",
+                "stars": 438,
+                "topics": []
+              },
+              "title": "⭐ PaperBoat",
+              "first_seen": "2026-10-07T22:38:11.080Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Paper Mario"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Native N64 static recompilation with plug-and-play releases, high-framerate support, modern menus, and Linux/Steam Deck support.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1263414275,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-30T00:21:10Z",
+                "open_issues": 25,
+                "owner": "Rainchus",
+                "repo": "Donkey-Kong-64-Recompiled",
+                "stars": 480,
+                "topics": []
+              },
+              "title": "⭐ Donkey Kong 64: Recompiled",
+              "first_seen": "2026-10-07T22:38:11.080Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Donkey Kong 64"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Native N64 static recompilation for Windows, Linux, Steam Deck, and Android. Launch it and select or drag in your supported US ROM.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Rocket: Robot on Wheels - Recompiled by ThatGuyMcd",
+                "homepage": null,
+                "id": 1380478921,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-06T15:06:13Z",
+                "open_issues": 1,
+                "owner": "ThatGuyMcd",
+                "repo": "Rocket-R",
+                "stars": 35,
+                "topics": []
+              },
+              "title": "⭐ Rocket-R",
+              "first_seen": "2026-10-07T22:38:11.080Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rocket: Robot on Wheels"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "foxhollow",
+                      "description": "JackPriceBurns/foxhollow",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Foxhollow: a native port of Star Fox Adventures built on the SFA decompilation and Aurora",
+                        "homepage": null,
+                        "id": 1327134479,
+                        "language": "C",
+                        "license": "CC0-1.0",
+                        "last_commit": "2026-10-06T21:30:00Z",
+                        "open_issues": 36,
+                        "owner": "JackPriceBurns",
+                        "repo": "foxhollow",
+                        "stars": 55,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-07T22:38:11.080Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Project(s)"
+                }
+              ],
+              "description": "Native PC port built from the completed Star Fox Adventures decompilation, with Windows, Linux, macOS, modern display support, and mods.",
+              "node_type": "group",
+              "title": "⭐ FoxHollow"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Star Fox Adventures"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Native Game Boy Advance static recompilation for Windows and Linux. Download the release, launch , select your own ROM, and the bundled compiler prepares the game automatically. Currently a public-testing pre-release, but playable through the ending credits.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1387240252,
+                "language": "C++",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-07T17:10:45Z",
+                "open_issues": 2,
+                "owner": "Shmargus",
+                "repo": "GSRecomp",
+                "stars": 32,
+                "topics": []
+              },
+              "title": "⭐ GSRecomp",
+              "first_seen": "2026-10-07T22:38:11.080Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Golden Sun"
+        },
+        {
+          "children": [
+            {
+              "children": [],
               "description": "PC port",
               "node_type": "item",
               "repo_info": {
@@ -1145,10 +1400,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-02T00:56:51Z",
-                "open_issues": 37,
+                "open_issues": 33,
                 "owner": "flyngmt",
                 "repo": "ACGC-PC-Port",
-                "stars": 1469,
+                "stars": 1470,
                 "topics": []
               },
               "title": "⭐ ACGC-PC-Port",
@@ -1181,7 +1436,7 @@
                         "open_issues": 86,
                         "owner": "snesrev",
                         "repo": "zelda3",
-                        "stars": 4836,
+                        "stars": 4835,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -1201,11 +1456,11 @@
                 "id": 597469139,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2023-09-24T17:53:46Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-07T11:52:34Z",
+                "open_issues": 2,
                 "owner": "RadzPrower",
                 "repo": "Zelda-3-Launcher",
-                "stars": 465,
+                "stars": 464,
                 "topics": []
               },
               "title": "⭐ Zelda 3 Launcher",
@@ -1365,6 +1620,91 @@
                   "children": [
                     {
                       "node_type": "item",
+                      "title": "CTR Native",
+                      "description": "Native PC port based on the CTR decompilation.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A Crash Team Racing Decompilation Project",
+                        "homepage": "https://discord.gg/WHkuh2n",
+                        "id": 1241036951,
+                        "language": "C",
+                        "license": "GPL-3.0",
+                        "last_commit": "2026-10-02T09:42:44Z",
+                        "open_issues": 16,
+                        "owner": "CTR-tools",
+                        "repo": "ctr-native",
+                        "stars": 384,
+                        "topics": [
+                          "crash-bandicoot",
+                          "crash-team-racing",
+                          "decompilation",
+                          "playstation",
+                          "ps1",
+                          "psx"
+                        ]
+                      },
+                      "first_seen": "2026-10-07T22:38:11.080Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Crash Team Racing: High Octane",
+                      "description": "Advanced source port for PC, PS Vita, and web with widescreen, 60 FPS, and gameplay enhancements.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Advanced sourceport of Crash Team Racing for PSVita, PC and Web Browser.",
+                        "homepage": null,
+                        "id": 1276246666,
+                        "language": "C",
+                        "license": "GPL-3.0",
+                        "last_commit": "2026-09-30T17:08:49Z",
+                        "open_issues": 13,
+                        "owner": "Rinnegatamante",
+                        "repo": "Crash-Team-Racing-High-Octane",
+                        "stars": 173,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-07T22:38:11.080Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Also see:"
+                }
+              ],
+              "description": "PC-focused source port with a native 3D renderer, true widescreen, high-resolution rendering, up to 240 FPS, and additional quality-of-life options.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "PC-focused fork of the CTR sourceport (High Octane) with a native 3D renderer, widescreen, up to 240 FPS, and quality-of-life options.",
+                "homepage": null,
+                "id": 1406358870,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-06T19:44:08Z",
+                "open_issues": 12,
+                "owner": "CameronRedmore",
+                "repo": "Crash-Team-Racing-Turbocharged",
+                "stars": 44,
+                "topics": []
+              },
+              "title": "⭐ Crash Team Racing: Turbocharged",
+              "first_seen": "2026-10-07T22:38:11.080Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Crash Team Racing"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
                       "title": "wipeout-rewrite",
                       "description": "phoboslab/wipeout-rewrite",
                       "children": [],
@@ -1403,7 +1743,7 @@
                 "open_issues": 52,
                 "owner": "wipeout-phantom-edition",
                 "repo": "wipeout-phantom-edition",
-                "stars": 966,
+                "stars": 967,
                 "topics": [
                   "source-port",
                   "windows",
@@ -1432,10 +1772,10 @@
                 "language": "Common Lisp",
                 "license": "ISC",
                 "last_commit": "2026-10-05T22:19:32Z",
-                "open_issues": 190,
+                "open_issues": 191,
                 "owner": "open-goal",
                 "repo": "jak-project",
-                "stars": 3547,
+                "stars": 3548,
                 "topics": [
                   "jak",
                   "jak-and-daxter",
@@ -1470,7 +1810,7 @@
                 "open_issues": 35,
                 "owner": "OpenDriver2",
                 "repo": "REDRIVER2",
-                "stars": 1385,
+                "stars": 1390,
                 "topics": [
                   "decompilation",
                   "decompile",
@@ -1551,7 +1891,7 @@
                 "open_issues": 177,
                 "owner": "Legend-of-Dragoon-Modding",
                 "repo": "Severed-Chains",
-                "stars": 541,
+                "stars": 542,
                 "topics": [
                   "java",
                   "reverse-engineering"
@@ -1578,11 +1918,11 @@
                 "id": 1174059600,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-06T04:34:23Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-07T21:35:25Z",
+                "open_issues": 22,
                 "owner": "SlickAmogus",
                 "repo": "silent-hill-decomp",
-                "stars": 624,
+                "stars": 627,
                 "topics": [
                   "android",
                   "c",
@@ -1666,7 +2006,7 @@
                 "open_issues": 4,
                 "owner": "novapowers0",
                 "repo": "BloodyRoar2Recomp",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "bloody-roar-2",
                   "native-pc-port",
@@ -1733,8 +2073,8 @@
                 "id": 1380619417,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T18:00:12Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-07T21:27:16Z",
+                "open_issues": 7,
                 "owner": "Unchiga",
                 "repo": "Yu-Gi-Oh-Forbidden-Memories-Recompiled",
                 "stars": 129,
@@ -1768,7 +2108,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-05T08:07:09Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "NoRain211",
                 "repo": "doaxvb-re",
                 "stars": 78,
@@ -1805,11 +2145,11 @@
                 "id": 1372222981,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-06T03:30:06Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-07T22:16:17Z",
+                "open_issues": 12,
                 "owner": "portingpete",
                 "repo": "The-Darkness-Recomp",
-                "stars": 214,
+                "stars": 217,
                 "topics": []
               },
               "title": "⭐ The-Darkness-Recomp",
@@ -1837,7 +2177,7 @@
                 "open_issues": 24,
                 "owner": "LittleBitUA",
                 "repo": "DownpourRecomp",
-                "stars": 257,
+                "stars": 264,
                 "topics": [
                   "d3d12",
                   "downpour",
@@ -1964,7 +2304,7 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-01T10:23:51Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "GenryTheFox0",
                 "repo": "Project-2099",
                 "stars": 50,
@@ -2034,7 +2374,7 @@
                 "id": 1323091678,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T18:59:15Z",
+                "last_commit": "2026-10-07T07:00:16Z",
                 "open_issues": 0,
                 "owner": "wivi514",
                 "repo": "Dead_Rising_2_Case_Zero_Xenon_Recomp",
@@ -2081,7 +2421,7 @@
                 "open_issues": 0,
                 "owner": "wivi514",
                 "repo": "Dead_Rising_2_Case_West_Xenon_Recomp",
-                "stars": 47,
+                "stars": 49,
                 "topics": [
                   "case-west",
                   "dead-rising",
@@ -2124,7 +2464,7 @@
                 "open_issues": 9,
                 "owner": "YesterMester",
                 "repo": "TheSimpsonsGameRecomp",
-                "stars": 299,
+                "stars": 302,
                 "topics": []
               },
               "title": "⭐ TheSimpsonsGameRecomp",
@@ -2134,6 +2474,90 @@
           "description": null,
           "node_type": "group",
           "title": "The Simpsons Game"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Native Xbox 360 static recompilation. The setup wizard asks for your three retail disc images, validates them, extracts the required files, and installs the port. Includes modern resolutions, unlocked frame rates, keyboard/mouse support, and mods.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Recompilation of Blue Dragon",
+                "homepage": null,
+                "id": 1152398510,
+                "language": "C++",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-10-05T15:34:30Z",
+                "open_issues": 22,
+                "owner": "zolaware",
+                "repo": "reblue",
+                "stars": 749,
+                "topics": []
+              },
+              "title": "⭐ re:Blue",
+              "first_seen": "2026-10-07T22:38:11.080Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Blue Dragon"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Native Xbox Live Arcade static recompilation for Windows. Download the release, launch it, select or drag in your own XBLA package, and press Play. Includes automatic updates, modern graphics settings, high frame-rate support, remappable controls, and achievements.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Native PC port of Earthworm Jim HD (Xbox Live Arcade) via static recompilation, with the TRG launcher",
+                "homepage": null,
+                "id": 1408042090,
+                "language": "C++",
+                "license": null,
+                "last_commit": "2026-10-07T15:17:47Z",
+                "open_issues": 0,
+                "owner": "TekRantGaming",
+                "repo": "earthworm-jim-hd-recompiled",
+                "stars": 29,
+                "topics": []
+              },
+              "title": "⭐ Earthworm Jim HD: Recompiled",
+              "first_seen": "2026-10-07T22:38:11.080Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Earthworm Jim HD"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Native Xbox 360 static recompilation for Windows. The launcher installs the game directly from your own disc image and adds modern resolutions, high frame-rate options, keyboard/mouse support, remappable controls, achievements, and automatic updates.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Native PC port of Peter Jackson's King Kong (Xbox 360) via static recompilation",
+                "homepage": null,
+                "id": 1404952082,
+                "language": "C++",
+                "license": null,
+                "last_commit": "2026-10-07T22:34:53Z",
+                "open_issues": 13,
+                "owner": "TekRantGaming",
+                "repo": "king-kong-recompiled",
+                "stars": 76,
+                "topics": []
+              },
+              "title": "⭐ King Kong: Recompiled",
+              "first_seen": "2026-10-07T22:38:11.080Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Peter Jackson's King Kong"
         }
       ],
       "title": "❎ Xbox"
@@ -2242,7 +2666,7 @@
                 "open_issues": 7,
                 "owner": "Eukaryot",
                 "repo": "sonic3air",
-                "stars": 649,
+                "stars": 651,
                 "topics": []
               },
               "title": "⭐ Sonic 3 AIR",
@@ -2270,7 +2694,7 @@
                 "open_issues": 239,
                 "owner": "hedge-dev",
                 "repo": "UnleashedRecomp",
-                "stars": 5124,
+                "stars": 5128,
                 "topics": []
               },
               "title": "⭐ UnleashedRecomp",
@@ -2373,10 +2797,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-06-26T12:10:10Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "SirDiabo",
                 "repo": "GithubLauncher",
-                "stars": 1712,
+                "stars": 1719,
                 "topics": [
                   "dotnet",
                   "games",
@@ -2433,7 +2857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T22:16:12.534Z",
+    "last_updated": "2026-10-07T22:38:11.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unoffical PC Ports.",
@@ -2441,11 +2865,11 @@
       "id": 614646577,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-05T11:36:09Z",
+      "last_commit": "2026-10-07T04:59:03Z",
       "open_issues": 6,
       "owner": "Sebastrion",
       "repo": "awesome-unofficial-pc-ports",
-      "stars": 831,
+      "stars": 832,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2462,7 +2886,7 @@
         "xbox"
       ]
     },
-    "original_repository_sha": "4741363ead1d62908a2fbf1c5c6f6312c4b0748a",
+    "original_repository_sha": "f6a83944fda53119ad9c2310a35602ce6a73dfd1",
     "enhanced_repository": "enhansome/enhansome-unofficial-pc-ports",
     "enhanced_repository_description": null,
     "title": "Awesome, unofficial PC ports with stars"
