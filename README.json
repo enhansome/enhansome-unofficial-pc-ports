@@ -25,7 +25,7 @@
                         "open_issues": 29,
                         "owner": "n64decomp",
                         "repo": "sm64",
-                        "stars": 8892,
+                        "stars": 8894,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -53,7 +53,7 @@
                         "open_issues": 167,
                         "owner": "sm64pc",
                         "repo": "sm64ex",
-                        "stars": 1866,
+                        "stars": 1867,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -119,7 +119,7 @@
                 "open_issues": 67,
                 "owner": "HarbourMasters",
                 "repo": "Ghostship",
-                "stars": 829,
+                "stars": 832,
                 "topics": []
               },
               "title": "⭐ Ghostship",
@@ -148,11 +148,11 @@
                         "id": 247875738,
                         "language": "C",
                         "license": null,
-                        "last_commit": "2026-10-14T18:19:57Z",
-                        "open_issues": 68,
+                        "last_commit": "2026-10-18T12:31:57Z",
+                        "open_issues": 67,
                         "owner": "zeldaret",
                         "repo": "oot",
-                        "stars": 5598,
+                        "stars": 5601,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -172,11 +172,11 @@
                 "id": 472575717,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-17T16:45:33Z",
-                "open_issues": 396,
+                "last_commit": "2026-10-18T16:30:01Z",
+                "open_issues": 397,
                 "owner": "HarbourMasters",
                 "repo": "Shipwright",
-                "stars": 5652,
+                "stars": 5669,
                 "topics": []
               },
               "title": "⭐ Ship of Harkinian",
@@ -204,7 +204,7 @@
                 "open_issues": 139,
                 "owner": "Zelda64Recomp",
                 "repo": "Zelda64Recomp",
-                "stars": 7450,
+                "stars": 7464,
                 "topics": []
               },
               "title": "⭐ Zelda 64: Recompiled",
@@ -222,10 +222,10 @@
                 "language": "C",
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-14T16:36:30Z",
-                "open_issues": 175,
+                "open_issues": 178,
                 "owner": "2ship2harkinian",
                 "repo": "2ship2harkinian",
-                "stars": 2334,
+                "stars": 2341,
                 "topics": []
               },
               "title": "⭐ 2 Ship 2 Harkinian",
@@ -258,7 +258,7 @@
                         "open_issues": 17,
                         "owner": "MatheoVignaud",
                         "repo": "tmc",
-                        "stars": 403,
+                        "stars": 401,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -306,11 +306,11 @@
                 "id": 1399935626,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-17T19:53:56Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-18T19:59:42Z",
+                "open_issues": 21,
                 "owner": "ZeldaWWHDRecomp",
                 "repo": "ZeldaWWHDRecomp",
-                "stars": 726,
+                "stars": 757,
                 "topics": []
               },
               "title": "⭐ ZeldaWWHDRecomp",
@@ -334,11 +334,11 @@
                 "id": 1392424843,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-17T15:18:56Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-18T07:02:43Z",
+                "open_issues": 61,
                 "owner": "chrissotraidis",
                 "repo": "bluewake",
-                "stars": 391,
+                "stars": 405,
                 "topics": [
                   "padmint"
                 ]
@@ -365,10 +365,10 @@
                 "language": "C++",
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-11T11:04:10Z",
-                "open_issues": 403,
+                "open_issues": 406,
                 "owner": "TwilitRealm",
                 "repo": "dusklight",
-                "stars": 5904,
+                "stars": 5930,
                 "topics": []
               },
               "title": "⭐ dusk",
@@ -396,7 +396,7 @@
                 "open_issues": 59,
                 "owner": "HarbourMasters",
                 "repo": "Starship",
-                "stars": 2100,
+                "stars": 2106,
                 "topics": []
               },
               "title": "⭐ Starship",
@@ -420,11 +420,11 @@
                 "id": 1201525210,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-17T12:14:21Z",
+                "last_commit": "2026-10-18T12:38:46Z",
                 "open_issues": 22,
                 "owner": "JRickey",
                 "repo": "BattleShip",
-                "stars": 490,
+                "stars": 496,
                 "topics": []
               },
               "title": "⭐ BattleShip",
@@ -457,7 +457,7 @@
                         "open_issues": 0,
                         "owner": "n64decomp",
                         "repo": "perfect_dark",
-                        "stars": 871,
+                        "stars": 872,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -478,10 +478,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-08-13T05:58:19Z",
-                "open_issues": 223,
+                "open_issues": 224,
                 "owner": "perfect-dark-pc-port",
                 "repo": "perfect_dark",
-                "stars": 2059,
+                "stars": 2061,
                 "topics": []
               },
               "title": "⭐ Perfect Dark port",
@@ -506,10 +506,10 @@
                 "language": "C",
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-14T22:02:47Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "HarbourMasters",
                 "repo": "Lighthouse",
-                "stars": 508,
+                "stars": 511,
                 "topics": []
               },
               "title": "⭐ Lighthouse",
@@ -527,10 +527,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-25T18:57:08Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "BanjoRecomp",
                 "repo": "BanjoRecomp",
-                "stars": 2048,
+                "stars": 2055,
                 "topics": []
               },
               "title": "⭐ BanjoRecomp",
@@ -558,7 +558,7 @@
                 "open_issues": 16,
                 "owner": "Vidanox",
                 "repo": "BanjoTooieRecompiled",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "title": "⭐ Banjo-Tooie: Recompiled",
@@ -591,7 +591,7 @@
                         "open_issues": 0,
                         "owner": "TheGh0stShip",
                         "repo": "BattleTanx-Global-Assault",
-                        "stars": 4,
+                        "stars": 5,
                         "topics": [
                           "battletanx",
                           "decompilation",
@@ -623,7 +623,7 @@
                 "open_issues": 0,
                 "owner": "TheGh0stShip",
                 "repo": "BattleTanx-Global-Assault-PC-Port",
-                "stars": 11,
+                "stars": 13,
                 "topics": [
                   "battletanx",
                   "game-recompilation",
@@ -660,7 +660,7 @@
                 "open_issues": 19,
                 "owner": "RevoSucks",
                 "repo": "BM64Recomp",
-                "stars": 301,
+                "stars": 304,
                 "topics": []
               },
               "title": "⭐ BM64Recomp",
@@ -744,7 +744,7 @@
                 "open_issues": 8,
                 "owner": "MegaMan64Recomp",
                 "repo": "MegaMan64Recompiled",
-                "stars": 272,
+                "stars": 273,
                 "topics": []
               },
               "title": "⭐ MegaMan64Recompiled",
@@ -800,7 +800,7 @@
                 "open_issues": 23,
                 "owner": "klorfmorf",
                 "repo": "Goemon64Recomp",
-                "stars": 319,
+                "stars": 322,
                 "topics": [
                   "goemon",
                   "mystical-ninja",
@@ -834,7 +834,7 @@
                 "open_issues": 12,
                 "owner": "DinosaurPlanetRecomp",
                 "repo": "dino-recomp",
-                "stars": 328,
+                "stars": 329,
                 "topics": []
               },
               "title": "⭐ Dinosaur Planet: Recompiled",
@@ -862,7 +862,7 @@
                 "open_issues": 126,
                 "owner": "HarbourMasters",
                 "repo": "SpaghettiKart",
-                "stars": 2419,
+                "stars": 2427,
                 "topics": []
               },
               "title": "⭐ SpaghettiKart",
@@ -883,7 +883,7 @@
                 "open_issues": 9,
                 "owner": "sonicdcer",
                 "repo": "MarioKart64Recomp",
-                "stars": 613,
+                "stars": 616,
                 "topics": []
               },
               "title": "⭐ MarioKart64Recomp",
@@ -991,11 +991,11 @@
                 "id": 1358365242,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-17T20:02:27Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-17T21:05:53Z",
+                "open_issues": 1,
                 "owner": "JackandBeans",
                 "repo": "Snap64Recomp",
-                "stars": 114,
+                "stars": 115,
                 "topics": [
                   "linux",
                   "macos",
@@ -1033,7 +1033,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-17T17:25:00Z",
-                "open_issues": 22,
+                "open_issues": 19,
                 "owner": "cdlewis",
                 "repo": "snowboardkids2-recomp",
                 "stars": 109,
@@ -1068,7 +1068,7 @@
                 "open_issues": 13,
                 "owner": "new-coke",
                 "repo": "strikers",
-                "stars": 336,
+                "stars": 342,
                 "topics": [
                   "aurora",
                   "gamecube",
@@ -1098,11 +1098,11 @@
                 "id": 1289395864,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-17T20:02:25Z",
+                "last_commit": "2026-10-18T19:54:53Z",
                 "open_issues": 82,
                 "owner": "alondero",
                 "repo": "automobililamborghini-recomp",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "n64",
                   "nintendo",
@@ -1210,7 +1210,7 @@
                 "open_issues": 1,
                 "owner": "jessetbh",
                 "repo": "WWFWrestleMania2000Recomp",
-                "stars": 15,
+                "stars": 17,
                 "topics": [
                   "aki",
                   "game-preservation",
@@ -1285,7 +1285,7 @@
                 "open_issues": 4,
                 "owner": "jessetbh",
                 "repo": "WWFNoMercyRecomp",
-                "stars": 33,
+                "stars": 36,
                 "topics": [
                   "aki",
                   "game-preservation",
@@ -1320,10 +1320,10 @@
                 "language": "C",
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-15T20:45:18Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "HarbourMasters",
                 "repo": "PaperBoat",
-                "stars": 483,
+                "stars": 494,
                 "topics": []
               },
               "title": "⭐ PaperBoat",
@@ -1351,7 +1351,7 @@
                 "open_issues": 29,
                 "owner": "Rainchus",
                 "repo": "Donkey-Kong-64-Recompiled",
-                "stars": 517,
+                "stars": 521,
                 "topics": []
               },
               "title": "⭐ Donkey Kong 64: Recompiled",
@@ -1376,10 +1376,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-06T15:06:13Z",
-                "open_issues": 1,
+                "open_issues": 3,
                 "owner": "ThatGuyMcd",
                 "repo": "Rocket-R",
-                "stars": 38,
+                "stars": 40,
                 "topics": []
               },
               "title": "⭐ Rocket-R",
@@ -1412,7 +1412,7 @@
                         "open_issues": 26,
                         "owner": "JackPriceBurns",
                         "repo": "foxhollow",
-                        "stars": 70,
+                        "stars": 72,
                         "topics": []
                       },
                       "first_seen": "2026-10-07T22:38:11.080Z"
@@ -1445,7 +1445,7 @@
                 "id": 1387240252,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T22:25:17Z",
+                "last_commit": "2026-10-18T11:25:36Z",
                 "open_issues": 1,
                 "owner": "Shmargus",
                 "repo": "GSRecomp",
@@ -1474,10 +1474,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-02T00:56:51Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "flyngmt",
                 "repo": "ACGC-PC-Port",
-                "stars": 1496,
+                "stars": 1503,
                 "topics": []
               },
               "title": "⭐ ACGC-PC-Port",
@@ -1510,7 +1510,7 @@
                         "open_issues": 88,
                         "owner": "snesrev",
                         "repo": "zelda3",
-                        "stars": 4870,
+                        "stars": 4876,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -1534,7 +1534,7 @@
                 "open_issues": 2,
                 "owner": "RadzPrower",
                 "repo": "Zelda-3-Launcher",
-                "stars": 473,
+                "stars": 475,
                 "topics": []
               },
               "title": "⭐ Zelda 3 Launcher",
@@ -1567,7 +1567,7 @@
                         "open_issues": 23,
                         "owner": "snesrev",
                         "repo": "sm",
-                        "stars": 556,
+                        "stars": 557,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -1645,7 +1645,7 @@
                         "open_issues": 28,
                         "owner": "snesrev",
                         "repo": "smw",
-                        "stars": 643,
+                        "stars": 644,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -1669,7 +1669,7 @@
                 "open_issues": 0,
                 "owner": "qurious-pixel",
                 "repo": "SMAS_Launcher",
-                "stars": 59,
+                "stars": 60,
                 "topics": []
               },
               "title": "⭐ Super Mario All-Stars Launcher for SMW",
@@ -1700,10 +1700,10 @@
                 "language": "C#",
                 "license": null,
                 "last_commit": "2026-09-27T18:12:27Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "BlackLabelHQ",
                 "repo": "SymphonyRecomp",
-                "stars": 912,
+                "stars": 918,
                 "topics": []
               },
               "title": "⭐ SymphonyRecomp",
@@ -1733,10 +1733,10 @@
                         "language": "C",
                         "license": "GPL-3.0",
                         "last_commit": "2026-10-12T09:52:18Z",
-                        "open_issues": 13,
+                        "open_issues": 14,
                         "owner": "CTR-tools",
                         "repo": "ctr-native",
-                        "stars": 413,
+                        "stars": 419,
                         "topics": [
                           "crash-bandicoot",
                           "crash-team-racing",
@@ -1764,7 +1764,7 @@
                         "open_issues": 18,
                         "owner": "Rinnegatamante",
                         "repo": "Crash-Team-Racing-High-Octane",
-                        "stars": 196,
+                        "stars": 204,
                         "topics": []
                       },
                       "first_seen": "2026-10-07T22:38:11.080Z"
@@ -1785,10 +1785,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-06T19:44:08Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "CameronRedmore",
                 "repo": "Crash-Team-Racing-Turbocharged",
-                "stars": 133,
+                "stars": 144,
                 "topics": []
               },
               "title": "⭐ Crash Team Racing: Turbocharged",
@@ -1821,7 +1821,7 @@
                         "open_issues": 72,
                         "owner": "phoboslab",
                         "repo": "wipeout-rewrite",
-                        "stars": 2979,
+                        "stars": 2982,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T01:25:57.799Z"
@@ -1845,7 +1845,7 @@
                 "open_issues": 52,
                 "owner": "wipeout-phantom-edition",
                 "repo": "wipeout-phantom-edition",
-                "stars": 973,
+                "stars": 977,
                 "topics": [
                   "source-port",
                   "windows",
@@ -1874,10 +1874,10 @@
                 "language": "Common Lisp",
                 "license": "ISC",
                 "last_commit": "2026-10-16T01:27:52Z",
-                "open_issues": 190,
+                "open_issues": 191,
                 "owner": "open-goal",
                 "repo": "jak-project",
-                "stars": 3579,
+                "stars": 3587,
                 "topics": [
                   "jak",
                   "jak-and-daxter",
@@ -1912,7 +1912,7 @@
                 "open_issues": 36,
                 "owner": "OpenDriver2",
                 "repo": "REDRIVER2",
-                "stars": 1409,
+                "stars": 1414,
                 "topics": [
                   "decompilation",
                   "decompile",
@@ -1993,7 +1993,7 @@
                 "open_issues": 179,
                 "owner": "Legend-of-Dragoon-Modding",
                 "repo": "Severed-Chains",
-                "stars": 555,
+                "stars": 558,
                 "topics": [
                   "java",
                   "reverse-engineering"
@@ -2020,11 +2020,11 @@
                 "id": 1174059600,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-16T21:38:10Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-18T09:34:54Z",
+                "open_issues": 25,
                 "owner": "SlickAmogus",
                 "repo": "silent-hill-decomp",
-                "stars": 703,
+                "stars": 718,
                 "topics": [
                   "android",
                   "c",
@@ -2175,11 +2175,11 @@
                 "id": 1380619417,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-17T19:52:21Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-18T18:41:42Z",
+                "open_issues": 8,
                 "owner": "Unchiga",
                 "repo": "Yu-Gi-Oh-Forbidden-Memories-Recompiled",
-                "stars": 195,
+                "stars": 205,
                 "topics": []
               },
               "title": "⭐ Yu-Gi-Oh-Forbidden-Memories-Recompiled",
@@ -2209,11 +2209,11 @@
                 "id": 1346650977,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-17T20:01:44Z",
-                "open_issues": 113,
+                "last_commit": "2026-10-18T18:01:18Z",
+                "open_issues": 135,
                 "owner": "arcanite24",
                 "repo": "pinyon-shift",
-                "stars": 715,
+                "stars": 754,
                 "topics": [
                   "forza-horizon",
                   "rexglue",
@@ -2243,11 +2243,11 @@
                 "id": 1335797829,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-14T08:23:29Z",
+                "last_commit": "2026-10-18T03:39:50Z",
                 "open_issues": 32,
                 "owner": "NoRain211",
                 "repo": "doaxvb-re",
-                "stars": 177,
+                "stars": 183,
                 "topics": [
                   "dead-or-alive",
                   "direct3d11",
@@ -2285,7 +2285,7 @@
                 "open_issues": 12,
                 "owner": "portingpete",
                 "repo": "The-Darkness-Recomp",
-                "stars": 295,
+                "stars": 308,
                 "topics": []
               },
               "title": "⭐ The-Darkness-Recomp",
@@ -2310,10 +2310,10 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-02T22:18:50Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "LittleBitUA",
                 "repo": "DownpourRecomp",
-                "stars": 301,
+                "stars": 307,
                 "topics": [
                   "d3d12",
                   "downpour",
@@ -2355,7 +2355,7 @@
                 "open_issues": 19,
                 "owner": "LittleBitUA",
                 "repo": "DPRecomp",
-                "stars": 164,
+                "stars": 166,
                 "topics": [
                   "access-games",
                   "d3d12",
@@ -2443,7 +2443,7 @@
                 "open_issues": 1,
                 "owner": "GenryTheFox0",
                 "repo": "Project-2099",
-                "stars": 66,
+                "stars": 68,
                 "topics": [
                   "modding",
                   "pc-port",
@@ -2477,7 +2477,7 @@
                 "open_issues": 1,
                 "owner": "Wndwsqrrl",
                 "repo": "3on3NHL-recomp",
-                "stars": 6,
+                "stars": 8,
                 "topics": [
                   "hockey",
                   "nhl",
@@ -2514,7 +2514,7 @@
                 "open_issues": 19,
                 "owner": "wivi514",
                 "repo": "Dead_Rising_2_Case_Zero_Xenon_Recomp",
-                "stars": 91,
+                "stars": 95,
                 "topics": [
                   "case-zero",
                   "dead-rising",
@@ -2557,7 +2557,7 @@
                 "open_issues": 3,
                 "owner": "wivi514",
                 "repo": "Dead_Rising_2_Case_West_Xenon_Recomp",
-                "stars": 84,
+                "stars": 86,
                 "topics": [
                   "case-west",
                   "dead-rising",
@@ -2600,7 +2600,7 @@
                 "open_issues": 8,
                 "owner": "YesterMester",
                 "repo": "TheSimpsonsGameRecomp",
-                "stars": 361,
+                "stars": 363,
                 "topics": []
               },
               "title": "⭐ TheSimpsonsGameRecomp",
@@ -2628,7 +2628,7 @@
                 "open_issues": 39,
                 "owner": "zolaware",
                 "repo": "reblue",
-                "stars": 803,
+                "stars": 814,
                 "topics": []
               },
               "title": "⭐ re:Blue",
@@ -2652,11 +2652,11 @@
                 "id": 1408042090,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-13T22:17:50Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-18T00:30:53Z",
+                "open_issues": 0,
                 "owner": "TekRantGaming",
                 "repo": "earthworm-jim-hd-recompiled",
-                "stars": 78,
+                "stars": 83,
                 "topics": []
               },
               "title": "⭐ Earthworm Jim HD: Recompiled",
@@ -2681,10 +2681,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-10-13T22:17:46Z",
-                "open_issues": 8,
+                "open_issues": 4,
                 "owner": "TekRantGaming",
                 "repo": "king-kong-recompiled",
-                "stars": 185,
+                "stars": 186,
                 "topics": []
               },
               "title": "⭐ King Kong: Recompiled",
@@ -2798,11 +2798,11 @@
                 "id": 419820751,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T11:24:16Z",
+                "last_commit": "2026-10-18T19:52:00Z",
                 "open_issues": 7,
                 "owner": "Eukaryot",
                 "repo": "sonic3air",
-                "stars": 659,
+                "stars": 661,
                 "topics": []
               },
               "title": "⭐ Sonic 3 AIR",
@@ -2827,10 +2827,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-06-29T11:05:43Z",
-                "open_issues": 240,
+                "open_issues": 241,
                 "owner": "hedge-dev",
                 "repo": "UnleashedRecomp",
-                "stars": 5206,
+                "stars": 5218,
                 "topics": []
               },
               "title": "⭐ UnleashedRecomp",
@@ -2858,7 +2858,7 @@
                 "open_issues": 45,
                 "owner": "djyt",
                 "repo": "cannonball",
-                "stars": 884,
+                "stars": 885,
                 "topics": []
               },
               "title": "⭐ Cannonball - OutRun Engine",
@@ -2933,10 +2933,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-06-26T12:10:10Z",
-                "open_issues": 55,
+                "open_issues": 56,
                 "owner": "SirDiabo",
                 "repo": "GithubLauncher",
-                "stars": 1852,
+                "stars": 1882,
                 "topics": [
                   "dotnet",
                   "games",
@@ -2969,7 +2969,7 @@
                 "open_issues": 0,
                 "owner": "jessetbh",
                 "repo": "AkiLauncher",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "game-preservation",
                   "launcher",
@@ -2993,7 +2993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T20:02:56.950Z",
+    "last_updated": "2026-10-18T20:02:33.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unoffical PC Ports.",
@@ -3005,7 +3005,7 @@
       "open_issues": 8,
       "owner": "Sebastrion",
       "repo": "awesome-unofficial-pc-ports",
-      "stars": 919,
+      "stars": 929,
       "topics": [
         "awesome",
         "awesome-list",
