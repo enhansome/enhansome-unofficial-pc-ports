@@ -58,19 +58,19 @@ GUI app for compiling ports, applying mods, texture packs, and more.\
 Installer with GUI + quality-of-life features like 60 FPS and better camera.\
 Also buildable with [sm64pcbuilder2](https://github.com/Sebastrion/awesome-unofficial-pc-ports#sm64pcbuilder2)
 
-### ⭐ [Ghostship](https://github.com/HarbourMasters/Ghostship) ⭐ 937 | 🐛 23 | 🌐 C | 📅 2026-10-27
+### ⭐ [Ghostship](https://github.com/HarbourMasters/Ghostship) ⭐ 942 | 🐛 23 | 🌐 C | 📅 2026-10-27
 
 Harbour Masters source port. Extract the release, launch `Ghostship.exe`, and select a supported US or JP ROM. Includes mods, modern graphics backends, and additional platform support.
 
 #### Project(s)
 
-* [n64decomp: sm64](https://github.com/n64decomp/sm64) ⭐ 8,991 | 🐛 29 | 🌐 C | 📅 2024-02-04
+* [n64decomp: sm64](https://github.com/n64decomp/sm64) ⭐ 8,992 | 🐛 29 | 🌐 C | 📅 2024-02-04
 
 #### Ports
 
-* [sm64ex](https://github.com/sm64pc/sm64ex) ⭐ 1,890 | 🐛 167 | 🌐 C | 📅 2024-12-17 – Easier modding
+* [sm64ex](https://github.com/sm64pc/sm64ex) ⭐ 1,892 | 🐛 167 | 🌐 C | 📅 2024-12-17 – Easier modding
 * [sm64](https://github.com/sm64-port/sm64) ⭐ 1,341 | 🐛 15 | 🌐 C | 📅 2024-11-15 – Port for modern systems
-* [sm64rt](https://github.com/DarioSamo/sm64rt) ⭐ 387 | 🐛 35 | 🌐 C | 📅 2024-02-20 – Ray tracing
+* [sm64rt](https://github.com/DarioSamo/sm64rt) ⭐ 389 | 🐛 35 | 🌐 C | 📅 2024-02-20 – Ray tracing
 
 #### Multiplayer
 
@@ -82,26 +82,26 @@ Harbour Masters source port. Extract the release, launch `Ghostship.exe`, and se
 <details>
 <summary><strong>The Legend of Zelda: Ocarina of Time</strong></summary>
 
-### ⭐ [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) ⭐ 6,151 | 🐛 448 | 🌐 C | 📅 2026-11-22
+### ⭐ [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) ⭐ 6,162 | 🐛 447 | 🌐 C | 📅 2026-11-23
 
 GUI installer. Easily install mods.\
 📺 [YouTube Tutorial](https://youtu.be/IK4RzYLuFZM)
 
 #### Project(s)
 
-* [oot](https://github.com/zeldaret/oot) ⭐ 5,785 | 🐛 73 | 🌐 C | 📅 2026-10-18
+* [oot](https://github.com/zeldaret/oot) ⭐ 5,789 | 🐛 71 | 🌐 C | 📅 2026-11-23
 
 </details>
 
 <details>
 <summary><strong>The Legend of Zelda: Majora's Mask</strong></summary>
 
-### ⭐ [Zelda 64: Recompiled](https://github.com/Mr-Wiseguy/Zelda64Recomp) ⭐ 7,754 | 🐛 144 | 🌐 C | 📅 2026-09-25
+### ⭐ [Zelda 64: Recompiled](https://github.com/Mr-Wiseguy/Zelda64Recomp) ⭐ 7,764 | 🐛 144 | 🌐 C | 📅 2026-09-25
 
 GUI installer.\
 📺 [YouTube Tutorial](https://youtu.be/v255FoLaoNY?si=BZ9t0HA1pRV_i-Q9)
 
-### ⭐ [2 Ship 2 Harkinian](https://github.com/HarbourMasters/2ship2harkinian) ⭐ 2,514 | 🐛 193 | 🌐 C | 📅 2026-11-18
+### ⭐ [2 Ship 2 Harkinian](https://github.com/HarbourMasters/2ship2harkinian) ⭐ 2,520 | 🐛 191 | 🌐 C | 📅 2026-11-23
 
 GUI installer + mod support
 
@@ -116,14 +116,14 @@ Automated launcher/installer
 
 #### Project(s)
 
-* [tmc](https://github.com/MatheoVignaud/tmc) ⭐ 402 | 🐛 16 | 🌐 C | 📅 2026-05-17
+* [tmc](https://github.com/MatheoVignaud/tmc) ⭐ 403 | 🐛 16 | 🌐 C | 📅 2026-05-17
 
 </details>
 
 <details>
 <summary><strong>The Legend of Zelda: The Wind Waker HD</strong></summary>
 
-### ⭐ [ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) ⭐ 1,653 | 🐛 38 | 🌐 C++ | 📅 2026-11-21
+### ⭐ [ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) ⭐ 1,670 | 🐛 40 | 🌐 C++ | 📅 2026-11-23
 
 Native static recompilation of the Wii U version for Windows, Linux, macOS, and Android. Portable releases prepare the game from your own dump on first launch and include a built-in mod manager.
 
@@ -132,7 +132,7 @@ Native static recompilation of the Wii U version for Windows, Linux, macOS, and 
 <details>
 <summary><strong>The Legend of Zelda: The Wind Waker</strong></summary>
 
-### ⭐ [BlueWake](https://github.com/chrissotraidis/bluewake) ⭐ 657 | 🐛 66 | 🌐 C | 📅 2026-11-22
+### ⭐ [BlueWake](https://github.com/chrissotraidis/bluewake) ⭐ 663 | 🐛 67 | 🌐 C | 📅 2026-11-24
 
 Native GameCube static recompilation. The Windows build is ready-made: launch it and select your own USA revision 0 disc image. Also supports iOS/macOS builds, controller support, and mods.
 
@@ -141,7 +141,7 @@ Native GameCube static recompilation. The Windows build is ready-made: launch it
 <details>
 <summary><strong>The Legend of Zelda: Twilight Princess</strong></summary>
 
-### ⭐ [dusk](https://github.com/TwilitRealm/dusk) ⭐ 6,518 | 🐛 433 | 🌐 C++ | 📅 2026-10-26
+### ⭐ [dusk](https://github.com/TwilitRealm/dusk) ⭐ 6,529 | 🐛 436 | 🌐 C++ | 📅 2026-11-23
 
 PC port
 
@@ -150,7 +150,7 @@ PC port
 <details>
 <summary><strong>Star Fox 64</strong></summary>
 
-### ⭐ [Starship](https://github.com/HarbourMasters/starship/releases/tag/v1.0.0) ⭐ 2,153 | 🐛 63 | 🌐 C | 📅 2026-09-15
+### ⭐ [Starship](https://github.com/HarbourMasters/starship/releases/tag/v1.0.0) ⭐ 2,157 | 🐛 63 | 🌐 C | 📅 2026-09-15
 
 GUI installer + mod support
 
@@ -159,7 +159,7 @@ GUI installer + mod support
 <details>
 <summary><strong>Super Smash Bros.</strong></summary>
 
-### ⭐ [BattleShip](https://github.com/JRickey/BattleShip/releases/tag/v0.8.2-beta) ⭐ 542 | 🐛 24 | 🌐 C++ | 📅 2026-11-22
+### ⭐ [BattleShip](https://github.com/JRickey/BattleShip/releases/tag/v0.8.2-beta) ⭐ 543 | 🐛 24 | 🌐 C++ | 📅 2026-11-23
 
 GUI installer
 
@@ -181,11 +181,11 @@ Easy install/play
 <details>
 <summary><strong>Banjo-Kazooie</strong></summary>
 
-### ⭐ [Lighthouse](https://github.com/HarbourMasters/Lighthouse) ⭐ 565 | 🐛 15 | 🌐 C | 📅 2026-11-16
+### ⭐ [Lighthouse](https://github.com/HarbourMasters/Lighthouse) ⭐ 567 | 🐛 15 | 🌐 C | 📅 2026-11-16
 
 Native PC port with Anchor multiplayer, romhack/multi-language support, and a built-in randomizer. Extract the release, launch it, and select your compatible ROM.
 
-### ⭐ [BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) ⭐ 2,151 | 🐛 61 | 🌐 C | 📅 2026-09-25
+### ⭐ [BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) ⭐ 2,152 | 🐛 61 | 🌐 C | 📅 2026-09-25
 
 GUI installer + mod support
 
@@ -222,7 +222,7 @@ Native N64 static recompilation (N64Recomp, RT64) with widescreen, controller ma
 
 #### Project(s)
 
-* [Body Harvest decompilation](https://github.com/jaytheham/body-harvest-decompilation) ⭐ 46 | 🐛 1 | 🌐 C | 📅 2026-11-22
+* [Body Harvest decompilation](https://github.com/jaytheham/body-harvest-decompilation) ⭐ 46 | 🐛 3 | 🌐 C | 📅 2026-11-24
 
 </details>
 
@@ -265,7 +265,7 @@ GUI installer + mod support
 <details>
 <summary><strong>Space Station Silicon Valley</strong></summary>
 
-### ⭐ [SSSV\_Recomp](https://github.com/Cellenseres/SSSV_Recomp) ⭐ 108 | 🐛 5 | 🌐 C++ | 📅 2026-04-26
+### ⭐ [SSSV\_Recomp](https://github.com/Cellenseres/SSSV_Recomp) ⭐ 109 | 🐛 5 | 🌐 C++ | 📅 2026-04-26
 
 GUI installer + mod support
 
@@ -283,7 +283,7 @@ GUI installer
 <details>
 <summary><strong>Dinosaur Planet</strong></summary>
 
-### ⭐ [Dinosaur Planet: Recompiled](https://github.com/DinosaurPlanetRecomp/dino-recomp) ⭐ 342 | 🐛 10 | 🌐 C++ | 📅 2026-11-15
+### ⭐ [Dinosaur Planet: Recompiled](https://github.com/DinosaurPlanetRecomp/dino-recomp) ⭐ 342 | 🐛 10 | 🌐 C++ | 📅 2026-11-23
 
 GUI installer
 
@@ -292,11 +292,11 @@ GUI installer
 <details>
 <summary><strong>Mario Kart 64</strong></summary>
 
-### ⭐ [SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) ⭐ 2,507 | 🐛 132 | 🌐 C | 📅 2026-10-22
+### ⭐ [SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) ⭐ 2,511 | 🐛 133 | 🌐 C | 📅 2026-10-22
 
 GUI installer + Track editor
 
-### ⭐ [MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) ⭐ 641 | 🐛 6 | 🌐 C++ | 📅 2026-11-12
+### ⭐ [MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) ⭐ 644 | 🐛 6 | 🌐 C++ | 📅 2026-11-12
 
 GUI installer + mod support
 
@@ -314,7 +314,7 @@ GUI installer + mod support (Gyro aiming, 60+ FPS)
 <details>
 <summary><strong>Chameleon Twist</strong></summary>
 
-### ⭐ [Chameleon Twist: Recompiled](https://github.com/Rainchus/ChameleonTwist1-JP-Recomp) ⭐ 63 | 🐛 3 | 🌐 C++ | 📅 2025-03-11
+### ⭐ [Chameleon Twist: Recompiled](https://github.com/Rainchus/ChameleonTwist1-JP-Recomp) ⭐ 64 | 🐛 3 | 🌐 C++ | 📅 2025-03-11
 
 GUI installer
 
@@ -341,7 +341,7 @@ Native N64 static recompilation. Unzip and supply your own ROM on first launch.
 <details>
 <summary><strong>Snowboard Kids 2</strong></summary>
 
-### ⭐ [snowboardkids2-recomp](https://github.com/cdlewis/snowboardkids2-recomp) ⭐ 116 | 🐛 19 | 🌐 C | 📅 2026-10-25
+### ⭐ [snowboardkids2-recomp](https://github.com/cdlewis/snowboardkids2-recomp) ⭐ 117 | 🐛 19 | 🌐 C | 📅 2026-10-25
 
 Native N64 static recompilation + enhancements and mod support.
 
@@ -350,7 +350,7 @@ Native N64 static recompilation + enhancements and mod support.
 <details>
 <summary><strong>Mario Strikers Charged</strong></summary>
 
-### ⭐ [strikers](https://github.com/new-coke/strikers) ⭐ 431 | 🐛 9 | 🌐 C++ | 📅 2026-11-09
+### ⭐ [strikers](https://github.com/new-coke/strikers) ⭐ 434 | 🐛 9 | 🌐 C++ | 📅 2026-11-09
 
 Native PC port/recompilation project for Mario Strikers Charged.
 
@@ -422,7 +422,7 @@ Native N64 static recompilation with ready-to-use releases, modern display optio
 <details>
 <summary><strong>Paper Mario</strong></summary>
 
-### ⭐ [PaperBoat](https://github.com/HarbourMasters/PaperBoat) ⭐ 578 | 🐛 49 | 🌐 C | 📅 2026-11-09
+### ⭐ [PaperBoat](https://github.com/HarbourMasters/PaperBoat) ⭐ 582 | 🐛 50 | 🌐 C | 📅 2026-11-09
 
 Harbour Masters source port based on the Paper Mario decompilation. Download a release, provide a supported ROM, and launch.
 
@@ -431,7 +431,7 @@ Harbour Masters source port based on the Paper Mario decompilation. Download a r
 <details>
 <summary><strong>Donkey Kong 64</strong></summary>
 
-### ⭐ [Donkey Kong 64: Recompiled](https://github.com/Rainchus/Donkey-Kong-64-Recompiled) ⭐ 595 | 🐛 38 | 🌐 C | 📅 2026-11-08
+### ⭐ [Donkey Kong 64: Recompiled](https://github.com/Rainchus/Donkey-Kong-64-Recompiled) ⭐ 597 | 🐛 38 | 🌐 C | 📅 2026-11-08
 
 Native N64 static recompilation with plug-and-play releases, high-framerate support, modern menus, and Linux/Steam Deck support.
 
@@ -455,14 +455,14 @@ Native PC port built from the completed Star Fox Adventures decompilation, with 
 
 #### Project(s)
 
-* [foxhollow](https://github.com/JackPriceBurns/foxhollow) ⭐ 97 | 🐛 32 | 🌐 C | 📅 2026-10-25
+* [foxhollow](https://github.com/JackPriceBurns/foxhollow) ⭐ 98 | 🐛 32 | 🌐 C | 📅 2026-10-25
 
 </details>
 
 <details>
 <summary><strong>Golden Sun</strong></summary>
 
-### ⭐ [GSRecomp](https://github.com/Shmargus/GSRecomp) ⭐ 109 | 🐛 8 | 🌐 C++ | 📅 2026-11-18
+### ⭐ [GSRecomp](https://github.com/Shmargus/GSRecomp) ⭐ 111 | 🐛 9 | 🌐 C++ | 📅 2026-11-18
 
 Native Game Boy Advance static recompilation for Windows and Linux. Download the release, launch `GoldenSunLauncher`, select your own ROM, and the bundled compiler prepares the game automatically. Currently a public-testing pre-release, but playable through the ending credits.
 
@@ -471,7 +471,7 @@ Native Game Boy Advance static recompilation for Windows and Linux. Download the
 <details>
 <summary><strong>Animal Crossing (GameCube)</strong></summary>
 
-### ⭐ [ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port) ⭐ 1,597 | 🐛 27 | 🌐 C | 📅 2026-11-08
+### ⭐ [ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port) ⭐ 1,602 | 🐛 29 | 🌐 C | 📅 2026-11-08
 
 PC port
 
@@ -480,21 +480,21 @@ PC port
 <details>
 <summary><strong>The Legend of Zelda: A Link to the Past</strong></summary>
 
-### ⭐ [Zelda 3 Launcher](https://github.com/RadzPrower/Zelda-3-Launcher) ⭐ 502 | 🐛 1 | 🌐 C# | 📅 2026-10-20
+### ⭐ [Zelda 3 Launcher](https://github.com/RadzPrower/Zelda-3-Launcher) ⭐ 503 | 🐛 1 | 🌐 C# | 📅 2026-10-20
 
 GUI installer + mod/texture support\
 📺 [YouTube Tutorial](https://youtu.be/fGNLr0cGBP4)
 
 #### Project(s)
 
-* [zelda3](https://github.com/snesrev/zelda3) ⭐ 5,022 | 🐛 93 | 🌐 C | 📅 2026-10-02
+* [zelda3](https://github.com/snesrev/zelda3) ⭐ 5,025 | 🐛 93 | 🌐 C | 📅 2026-10-02
 
 </details>
 
 <details>
 <summary><strong>Super Metroid</strong></summary>
 
-### ⭐ [Super Metroid Launcher](https://github.com/RadzPrower/Super-Metroid-Launcher) ⭐ 216 | 🐛 0 | 🌐 C# | 📅 2026-10-23
+### ⭐ [Super Metroid Launcher](https://github.com/RadzPrower/Super-Metroid-Launcher) ⭐ 217 | 🐛 0 | 🌐 C# | 📅 2026-10-23
 
 GUI installer + mod/texture support\
 📺 [YouTube Tutorial](https://youtu.be/BuXtK7_aQio)
@@ -526,7 +526,7 @@ GUI installer
 <details>
 <summary><strong>Castlevania: Symphony of the Night</strong></summary>
 
-### ⭐ [SymphonyRecomp](https://github.com/BlackLabelHQ/SymphonyRecomp) ⭐ 1,159 | 🐛 24 | 🌐 C# | 📅 2026-11-22
+### ⭐ [SymphonyRecomp](https://github.com/BlackLabelHQ/SymphonyRecomp) ⭐ 1,163 | 🐛 24 | 🌐 C# | 📅 2026-11-22
 
 Native PlayStation recompilation with downloadable releases for modern PCs. **Open beta:** game-breaking bugs may still occur; see the repository for runtime requirements and setup instructions.
 
@@ -535,13 +535,13 @@ Native PlayStation recompilation with downloadable releases for modern PCs. **Op
 <details>
 <summary><strong>Crash Team Racing</strong></summary>
 
-### ⭐ [Crash Team Racing: Turbocharged](https://github.com/CameronRedmore/Crash-Team-Racing-Turbocharged) ⭐ 201 | 🐛 47 | 🌐 C | 📅 2026-10-06
+### ⭐ [Crash Team Racing: Turbocharged](https://github.com/CameronRedmore/Crash-Team-Racing-Turbocharged) ⭐ 203 | 🐛 47 | 🌐 C | 📅 2026-10-06
 
 PC-focused source port with a native 3D renderer, true widescreen, high-resolution rendering, up to 240 FPS, and additional quality-of-life options.
 
 #### Also see:
 
-* [CTR Native](https://github.com/CTR-tools/ctr-native) ⭐ 443 | 🐛 17 | 🌐 C | 📅 2026-11-20 – Native PC port based on the CTR decompilation.
+* [CTR Native](https://github.com/CTR-tools/ctr-native) ⭐ 445 | 🐛 18 | 🌐 C | 📅 2026-11-20 – Native PC port based on the CTR decompilation.
 * [Crash Team Racing: High Octane](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) ⭐ 230 | 🐛 26 | 🌐 C | 📅 2026-10-31 – Advanced source port for PC, PS Vita, and web with widescreen, 60 FPS, and gameplay enhancements.
 
 </details>
@@ -549,7 +549,7 @@ PC-focused source port with a native 3D renderer, true widescreen, high-resoluti
 <details>
 <summary><strong>Wipeout</strong></summary>
 
-### ⭐ [WipeOut Phantom Edition](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition) ⭐ 991 | 🐛 52 | 📅 2024-08-21
+### ⭐ [WipeOut Phantom Edition](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition) ⭐ 992 | 🐛 52 | 📅 2024-08-21
 
 Drop BIN+CUE into `diskimages` and launch
 
@@ -562,7 +562,7 @@ Drop BIN+CUE into `diskimages` and launch
 <details>
 <summary><strong>Jak and Daxter 1-3</strong></summary>
 
-### ⭐ [OpenGoal](https://github.com/open-goal/jak-project) ⭐ 3,666 | 🐛 201 | 🌐 Common Lisp | 📅 2026-11-17
+### ⭐ [OpenGoal](https://github.com/open-goal/jak-project) ⭐ 3,671 | 🐛 201 | 🌐 Common Lisp | 📅 2026-11-24
 
 GUI installer + mods\
 📺 [YouTube Tutorial](https://youtu.be/vwmkMjYFO-k)
@@ -591,7 +591,7 @@ Native PC port based on a byte-exact matching decompilation. Put your supported 
 <details>
 <summary><strong>Legend of Dragoon</strong></summary>
 
-### ⭐ [Severed Chains](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains) ⭐ 595 | 🐛 190 | 🌐 Java | 📅 2026-11-18
+### ⭐ [Severed Chains](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains) ⭐ 597 | 🐛 189 | 🌐 Java | 📅 2026-11-23
 
 Reverse-engineered native recreation with mod support. Drop your disc images into the `isos` folder.\
 📖 [Setup Guide](https://legendofdragoon.org/guides/setup-severed-chains/)
@@ -601,7 +601,7 @@ Reverse-engineered native recreation with mod support. Drop your disc images int
 <details>
 <summary><strong>Silent Hill</strong></summary>
 
-### ⭐ [Silent Hill Native PC Port](https://github.com/SlickAmogus/silent-hill-decomp) ⭐ 893 | 🐛 21 | 🌐 C | 📅 2026-11-22
+### ⭐ [Silent Hill Native PC Port](https://github.com/SlickAmogus/silent-hill-decomp) ⭐ 896 | 🐛 19 | 🌐 C | 📅 2026-11-24
 
 Native PC port based on the PlayStation decompilation. Extract the release, add your disc image to `gamedata`, and launch.
 
@@ -637,7 +637,7 @@ Enhanced native PC port based on reverse engineering of the original PlayStation
 <details>
 <summary><strong>Yu-Gi-Oh! Forbidden Memories</strong></summary>
 
-### ⭐ [Yu-Gi-Oh-Forbidden-Memories-Recompiled](https://github.com/Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled) ⭐ 329 | 🐛 57 | 🌐 C | 📅 2026-11-22
+### ⭐ [Yu-Gi-Oh-Forbidden-Memories-Recompiled](https://github.com/Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled) ⭐ 331 | 🐛 59 | 🌐 C | 📅 2026-11-23
 
 Native PlayStation recompilation with an end-user-friendly setup.
 
@@ -650,7 +650,7 @@ Native PlayStation recompilation with an end-user-friendly setup.
 <details>
 <summary><strong>Forza Horizon</strong></summary>
 
-### ⭐ [Pinyon Shift](https://github.com/arcanite24/pinyon-shift) ⭐ 1,091 | 🐛 121 | 🌐 Python | 📅 2026-11-20
+### ⭐ [Pinyon Shift](https://github.com/arcanite24/pinyon-shift) ⭐ 1,093 | 🐛 125 | 🌐 Python | 📅 2026-11-20
 
 Native recompilation of the Xbox 360 version with a Windows launcher. Select your own supported disc ISO; the launcher verifies it and automatically builds the playable preview. **Preview/WIP:** the initial setup requires Windows build tools, about 25 GB of free space, and can take 20–60 minutes.
 
@@ -659,7 +659,7 @@ Native recompilation of the Xbox 360 version with a Windows launcher. Select you
 <details>
 <summary><strong>Dead or Alive Xtreme Beach Volleyball</strong></summary>
 
-### ⭐ [doaxvb-re](https://github.com/NoRain211/doaxvb-re) ⭐ 277 | 🐛 29 | 🌐 C | 📅 2026-11-22
+### ⭐ [doaxvb-re](https://github.com/NoRain211/doaxvb-re) ⭐ 278 | 🐛 27 | 🌐 C | 📅 2026-11-24
 
 Native original-Xbox static recompilation. Drag your ISO onto `BuildGame.cmd`, then launch through `Launcher.cmd`.
 
@@ -668,7 +668,7 @@ Native original-Xbox static recompilation. Drag your ISO onto `BuildGame.cmd`, t
 <details>
 <summary><strong>The Darkness</strong></summary>
 
-### ⭐ [The-Darkness-Recomp](https://github.com/portingpete/The-Darkness-Recomp) ⭐ 431 | 🐛 20 | 🌐 C++ | 📅 2026-11-18
+### ⭐ [The-Darkness-Recomp](https://github.com/portingpete/The-Darkness-Recomp) ⭐ 433 | 🐛 20 | 🌐 C++ | 📅 2026-11-18
 
 Native Xbox 360 static recompilation. Extract the release, copy your own game dump into the included `Darkness` folder, and launch.
 
@@ -677,7 +677,7 @@ Native Xbox 360 static recompilation. Extract the release, copy your own game du
 <details>
 <summary><strong>Silent Hill: Downpour</strong></summary>
 
-### ⭐ [DownpourRecomp](https://github.com/LittleBitUA/DownpourRecomp) ⭐ 379 | 🐛 37 | 🌐 C++ | 📅 2026-09-02
+### ⭐ [DownpourRecomp](https://github.com/LittleBitUA/DownpourRecomp) ⭐ 380 | 🐛 38 | 🌐 C++ | 📅 2026-09-02
 
 Native Xbox 360 static recompilation with a launcher and first-run ISO installer.
 
@@ -686,7 +686,7 @@ Native Xbox 360 static recompilation with a launcher and first-run ISO installer
 <details>
 <summary><strong>Deadly Premonition</strong></summary>
 
-### ⭐ [DPRecomp](https://github.com/LittleBitUA/DPRecomp) ⭐ 189 | 🐛 20 | 🌐 C++ | 📅 2026-11-18
+### ⭐ [DPRecomp](https://github.com/LittleBitUA/DPRecomp) ⭐ 190 | 🐛 20 | 🌐 C++ | 📅 2026-11-18
 
 Native Xbox 360 static recompilation with a built-in ISO installer and launcher.
 
@@ -704,7 +704,7 @@ Native Xbox 360 static recompilation. The launcher reads your own disc image and
 <details>
 <summary><strong>Spider-Man: Edge of Time</strong></summary>
 
-### ⭐ [Project-2099](https://github.com/GenryTheFox0/Project-2099) ⭐ 91 | 🐛 2 | 🌐 C# | 📅 2026-10-21
+### ⭐ [Project-2099](https://github.com/GenryTheFox0/Project-2099) ⭐ 92 | 🐛 2 | 🌐 C# | 📅 2026-10-21
 
 Native Xbox 360 recompilation with a GUI installer, launcher, keyboard/mouse controls, and mod support.
 
@@ -740,7 +740,7 @@ Native Xbox 360 recompilation of the standalone Case West release.
 <details>
 <summary><strong>The Simpsons Game</strong></summary>
 
-### ⭐ [TheSimpsonsGameRecomp](https://github.com/YesterMester/TheSimpsonsGameRecomp) ⭐ 443 | 🐛 23 | 🌐 C++ | 📅 2026-11-15
+### ⭐ [TheSimpsonsGameRecomp](https://github.com/YesterMester/TheSimpsonsGameRecomp) ⭐ 446 | 🐛 23 | 🌐 C++ | 📅 2026-11-15
 
 Native Xbox 360 recompilation with an installer/launcher for end users.
 
@@ -749,7 +749,7 @@ Native Xbox 360 recompilation with an installer/launcher for end users.
 <details>
 <summary><strong>Blue Dragon</strong></summary>
 
-### ⭐ [re:Blue](https://github.com/zolaware/reblue) ⭐ 937 | 🐛 49 | 🌐 C++ | 📅 2026-11-22
+### ⭐ [re:Blue](https://github.com/zolaware/reblue) ⭐ 944 | 🐛 51 | 🌐 C++ | 📅 2026-11-22
 
 Native Xbox 360 static recompilation. The setup wizard asks for your three retail disc images, validates them, extracts the required files, and installs the port. Includes modern resolutions, unlocked frame rates, keyboard/mouse support, and mods.
 
@@ -758,7 +758,7 @@ Native Xbox 360 static recompilation. The setup wizard asks for your three retai
 <details>
 <summary><strong>Earthworm Jim HD</strong></summary>
 
-### ⭐ [Earthworm Jim HD: Recompiled](https://github.com/TekRantGaming/earthworm-jim-hd-recompiled) ⭐ 126 | 🐛 6 | 🌐 C++ | 📅 2026-10-18
+### ⭐ [Earthworm Jim HD: Recompiled](https://github.com/TekRantGaming/earthworm-jim-hd-recompiled) ⭐ 127 | 🐛 6 | 🌐 C++ | 📅 2026-10-18
 
 Native Xbox Live Arcade static recompilation for Windows. Download the release, launch it, select or drag in your own XBLA package, and press Play. Includes automatic updates, modern graphics settings, high frame-rate support, remappable controls, and achievements.
 
@@ -818,10 +818,10 @@ Launcher with mod support\
 <details>
 <summary><strong>Sonic Unleashed</strong></summary>
 
-### ⭐ [UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) ⭐ 5,407 | 🐛 235 | 🌐 C++ | 📅 2026-11-18
+### ⭐ [UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) ⭐ 5,414 | 🐛 235 | 🌐 C++ | 📅 2026-11-18
 
 Launcher with mod support\
-📖 [Install Guide](https://github.com/hedge-dev/UnleashedRecomp?tab=readme-ov-file#how-to-install) ⭐ 5,407 | 🐛 235 | 🌐 C++ | 📅 2026-11-18
+📖 [Install Guide](https://github.com/hedge-dev/UnleashedRecomp?tab=readme-ov-file#how-to-install) ⭐ 5,414 | 🐛 235 | 🌐 C++ | 📅 2026-11-18
 
 </details>
 
@@ -842,7 +842,7 @@ Drag-and-drop install\
 <details>
 <summary><strong>Cave Story+</strong></summary>
 
-### ⭐ [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) ⭐ 1,329 | 🐛 56 | 🌐 Rust | 📅 2026-11-16
+### ⭐ [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) ⭐ 1,330 | 🐛 56 | 🌐 Rust | 📅 2026-11-16
 
 Just drop the EXE into the Cave Story folder and run
 
@@ -878,7 +878,7 @@ A **lost 2006 J2ME game** that never officially released and was considered miss
 <details>
 <summary><strong>N64 Recomp Launcher</strong></summary>
 
-### ⭐ [N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher) ⭐ 2,096 | 🐛 60 | 🌐 C# | 📅 2026-11-06
+### ⭐ [N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher) ⚠️ Archived
 
 Automatically installs and updates N64 recompilations in one place. A must-have if you play multiple N64 recomps.
 
@@ -887,7 +887,7 @@ Automatically installs and updates N64 recompilations in one place. A must-have 
 <details>
 <summary><strong>AKI Launcher</strong></summary>
 
-### ⭐ [AkiLauncher](https://github.com/jessetbh/AkiLauncher) ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2026-11-15
+### ⭐ [AkiLauncher](https://github.com/jessetbh/AkiLauncher) ⭐ 27 | 🐛 1 | 🌐 C++ | 📅 2026-11-15
 
 Launcher for installing and managing the AKI N64 wrestling recompilations in one place.
 
@@ -896,7 +896,7 @@ Launcher for installing and managing the AKI N64 wrestling recompilations in one
 <details>
 <summary><strong>Decomp Buddy</strong></summary>
 
-### [Decomp Buddy](https://github.com/TanookiStudios/decomp-buddy) ⭐ 183 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-19
+### [Decomp Buddy](https://github.com/TanookiStudios/decomp-buddy) ⭐ 188 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-19
 
 Free, open-source installer for unofficial PC ports across every console, on Windows, macOS, Linux and Steam Deck. Checks your own game file, scans downloads for malware, and keeps games and saves up to date.
 
@@ -904,4 +904,4 @@ Free, open-source installer for unofficial PC ports across every console, on Win
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
